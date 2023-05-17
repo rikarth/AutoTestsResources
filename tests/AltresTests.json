@@ -7240,6 +7240,816 @@
                     "correct": false
                 }
             ]
+        },
+        {
+            "id": "9e0f6bd1-afdb-44aa-8d2a-26a82dac2c8a",
+            "text": "Las advertencias acústicas pueden utilizarse...",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "en vías anchas con pocas curvas.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "en vías estrechas con muchas curvas.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "para advertir el propósito de adelantar únicamente dentro de una población.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "f8023bf7-fceb-423e-98a5-ca86a6ff35d1",
+            "text": "¿Se podrá adelantar de forma excepcional por la derecha en algunos supuestos?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, incluso en autopista",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, si existe espacio suficiente",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "No, está prohibido",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "066b5383-8ccf-4906-9092-180d66191634",
+            "text": "¿Pueden las intersecciones NO estar señalizadas?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Solo estarán señalizadas las intersecciones en poblado",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "No",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "925bb29c-4e94-4fbb-bc10-be59f5f98984",
+            "text": "La alcoholemia llega al punto máximo…",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Al cabo de cinco horas de haber ingerido alcohol.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Entre 30 y 90 minutos después de haber ingerido alcohol.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Inmediatamente.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "67bfdb12-e8a3-421e-b362-8db95f6fadb5",
+            "text": "¿Está considerado el adelantamiento una maniobra peligrosa y compleja?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, ya que no hay peligro en realizarla",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Solo se considera peligrosa en autopistas",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "7fe87bbf-5137-4256-a267-e43f85ea0eb8",
+            "text": "¿Es obligatorio para las motocicletas llevar la luz de marcha atrás?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Únicamente para las de gran cilindrada",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "ee9e9b61-a8f2-4916-85b9-8e658e6a46e1",
+            "text": "¿Están obligados todos los vehículos a llevar herramientas para el cambio de rueda?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, todos los vehículos están obligados incluso los ciclos y ciclomotores",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Únicamente los turismos, vehículos mixtos y otros automóviles destinados al transporte de mercancías",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Ningún vehículo a motor estará obligado a llevar herramientas para el cambio de ruedas",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "aa92ee8b-17d1-44f9-a1a9-74a5ff2e8231",
+            "text": "¿Cuál de las siguientes conductas es recomendable si se circula con un sistema gps portátil?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Distribuir los cables de manera que no entorpezcan a la conducción",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Intentar colocarlo cerca de un airbag",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Seguir siempre las instrucciones del dispositivo, frente al juicio del conductor",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "12dfcb19-1217-4eb3-8b9a-a30cd069816f",
+            "text": "Un vehículo de bomberos circula en servicio urgente ¿deberemos obedecer las indicaciones de los agentes?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, bajo su responsabilidad.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No, si no se pone en peligro a ningún usuario de la vía.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, siempre.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "eddf9410-bf87-417c-bdae-d0181f0c23c8",
+            "text": "¿Está permitido adelantar en una curva o cambio de rasante de visibilidad reducida en una vía que tiene dos carriles para cada sentido?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, está permitido reduciendo la velocidad",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No, está totalmente prohibido",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No, excepto si los sentidos están bien delimitados y no se invade el sentido contrario",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "b0647e24-e9a2-4f0d-8736-2479ed43fd3b",
+            "text": "Los límites de velocidad se establecen para garantizar...",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "La máxima seguridad y fluidez.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "La máxima seguridad, aunque disminuya la fluidez.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "La máxima fluidez, aunque disminuya la seguridad.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "2d44bfea-6e6e-45ce-bd8d-c1a991c19b69",
+            "text": "¿Qué finalidad tiene la luz indicadora de dirección?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Indicar que se está ante algún tipo de emergencia.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Indicar que se quiere estacionar en batería.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Indicar que se quiere cambiar de dirección a derecha o izquierda.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "409c1e50-e96b-4dd7-85ec-bdcb3fe92056",
+            "text": "En los ciclistas, el uso del casco…",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "reduce considerablemente la probabilidad de sufrir lesiones en la cabeza.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "no influye en las lesiones que puedan sufrir los ciclistas.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "reduce totalmente la probabilidad de sufrir lesiones en la cabeza.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "034e3d3c-5009-412f-855c-4f6bb42d6f69",
+            "text": "El alcohol y las drogas, ¿Son peligrosos para la conducción?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, siempre.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Solo si se supera la tasa máxima permitida.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Depende de la tolerancia de cada persona.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5b192a91-b601-4ba1-9e26-a202b69782c8",
+            "text": "En una calzada con dos sentidos hay un refugio en el centro; ¿por qué lado está permitido circular?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Por el lado derecho del refugio, en el sentido de la marcha.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Por el lado izquierdo del refugio, en el sentido de la marcha.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Por cualquiera de ellos, indistintamente.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "70fc1c0d-89c3-4b69-98d6-31a6c2b3c74c",
+            "text": "¿Cómo debe ser la velocidad de circulación de un vehículo para una conducción económica?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Brusca.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Uniforme.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Cambiante.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "c9729cd2-329c-412f-810c-7e3ab96ababb",
+            "text": "¿Puede ser la edad avanzada un factor que favorezca la distracción al volante?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, siempre",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, si no se toman las debidas precauciones",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "dbb51145-3331-46b0-a8c9-7277782b2d0b",
+            "text": "En una intersección hay una señal vertical de stop y una marca vial de ceda el paso, ¿cuál debe obedecer?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Ninguna de las dos, en éste caso se aplicará la norma general de prioridad.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "La señal vertical de stop.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "La marca vial de ceda el paso.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5ae9e3fc-b348-43d7-830a-a504ebaa6c55",
+            "text": "¿Por qué es necesario iniciar la fase de aproximación en una intersección visualizándola desde lejos?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Por ninguno de los motivos anteriores.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Para poder actuar con suficiente antelación.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Para ceder el paso al resto de vehículos que quieran entrar en la intersección.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "f7215b20-c63d-4867-af12-e8ed899bf943",
+            "text": "¿Cómo se advierte la maniobra de detención sino se puede realizar con las luces de frenado?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Moviendo el brazo de arriba a abajo con movimiento largos y lentos",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Moviendo el brazo de arriba a abajo con movimiento cortos y rápidos",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Moviendo el brazo de izquierda a derecha con movimiento cortos y rápidos",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5483bdcc-da25-4184-8820-56f40c418bd3",
+            "text": "¿Quién es considerado titular de un vehículo?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "La persona que conduce el vehículo al menos el 60% del tiempo",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "La persona que revisa profesionalmente el funcionamiento del vehículo",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "La persona a cuyo nombre esté inscrito el vehículo en el registro",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "df7ddd28-d90f-493d-9083-042150fbd56b",
+            "text": "Si cambia alguno de los datos que aparecen en el permiso de conducción, ¿qué debe hacer?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Comunicarlo a la Jefatura de Tráfico correspondiente.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "No debe hacer nada, no es necesarios hacer ningún trámite.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Actualizar los datos en la próxima renovación.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "7af8a2cc-d665-4497-a704-0db9fdff27f4",
+            "text": "¿Cuál es la finalidad de las placas de ensayo o investigación?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Probar el buen funcionamiento únicamente de ciclos y bicicletas.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Probar el funcionamiento de un nuevo vehículo.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Probar un vehículo que ha tenido un grave accidente después de éste.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5f6a9499-3aa3-4611-ae6e-426698af0ad1",
+            "text": "Al descargar mercancías de un vehículo, ¿está permitido depositarlas en la acera?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "No, salvo que se señalice el lugar para evitar el peligro para los peatones.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, siempre que no pasen peatones.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "c533d210-ed83-4cf2-98ee-03782e373eda",
+            "text": "En un control preventivo, ¿pueden los agentes someter a un conductor a una prueba de detección de estupefacientes?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, este tipo de pruebas sólo se pueden realizar en un centro médico.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No, solamente si está implicado en un accidente.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "4ffe8b5f-a40a-4c36-bb62-0d8968817c85",
+            "text": "¿Se puede realizar una parada en un paso a nivel?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Está totalmente permitido, aunque no es aconsejable.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Podemos parar pero no estacionar.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No, está totalmente prohibido.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "5d63995e-14d0-434f-9937-7e98084e3887",
+            "text": "¿Está permitido utilizar el alumbrado de largo alcance en vías urbanas?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, está prohibido",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, pero únicamente cuando la vía esté insuficientemente iluminada",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, circulando a un máximo de 40 km/h y siempre que no se moleste al resto de usuarios",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "1e82114d-2e56-4935-8cdc-ad15043fce06",
+            "text": "¿Qué se debe hacer en caso de detención en un túnel superior a 2 minutos tras encender la señal de emergencia?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Apagar las luces de posición",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Interrumpir el funcionamiento del motor",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Colocar los triángulos de preseñalización de peligro",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "35290fe1-6f83-46fe-9052-ed63f3714bf0",
+            "text": "Conducir con sueño, ¿por qué es peligroso?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Porque se circula más rápido.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Porque el viaje se hace más largo.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Porque disminuye la concentración.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "54e2d383-076f-4d1f-8343-7bad050d1e7b",
+            "text": "¿Cuántas luces de estacionamiento debe tener un vehículo?",
+            "category": "PracticaTests",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Tres luces delanteras y tres traseras",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Únicamente dos luces traseras",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Dos luces delanteras y dos traseras",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
         }
     ],
     "assets": {
