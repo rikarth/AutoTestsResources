@@ -10993,6 +10993,1599 @@
                     "correct": false
                 }
             ]
+        },
+        {
+            "id": "c709cd1d-6ff2-48db-88e3-bfa2e41722a1",
+            "text": "Esta señal indica la situación…",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": "s970",
+            "options": [
+                {
+                    "id": "1",
+                    "text": "De un punto de auxilio.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "De una salida de emergencia.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "De un extintor de incendios y un teléfono de emergencia.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "7f694f24-9fcd-4296-b224-4fac72f67e66",
+            "text": "El filtro del aire, ¿para qué sirve?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Para limpiar el aire que se mezcla con el combustible.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Para limpiar el aire de la calefacción.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Para limpiar el aire que enfría el motor.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "19970347-4aa9-421d-86df-b62d2a742b2f",
+            "text": "¿Para qué sirve técnicamente el pedal de embrague?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Para acelerar la marcha a la velocidad necesaria",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Para acoplar o desacoplar los discos del motor y caja de velocidades",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Para girar más fácilmente en curvas y glorietas",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "7a855749-f893-4a89-b732-bab701033818",
+            "text": "En los ciclistas, el uso del casco…",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "reduce totalmente la probabilidad de sufrir lesiones en la cabeza.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "no influye en las lesiones que puedan sufrir los ciclistas.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "reduce considerablemente la probabilidad de sufrir lesiones en la cabeza.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "3f2bce1b-2673-4e17-9d02-a7e01f9ce4dc",
+            "text": "¿Cuál de las siguientes normas generales debemos llevar a cabo con un accidentado?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Hacer andar al accidentado",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Aflojar la ropa del herido",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Apretar las prendas que puedan oprimir las vías respiratorias del herido",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "45591dcc-3a74-46b3-89a9-428386bf17f8",
+            "text": "¿Dónde colocaremos la placa de matrícula en una motocicleta con sidecar?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "En el centro lo más baja posible",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Entre las dos ruedas delanteras",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Entre las dos ruedas posteriores",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "b00822dc-a347-4317-87cc-25200e746f28",
+            "text": "¿Se debe realizar el adelantamiento en caso de duda?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sólo cuando existan condiciones meteorológicas adversas.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "f2af823e-a97d-45d1-b446-b15bd5813c2a",
+            "text": "Esta señal indica peligro por la proximidad de...",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": "p13a",
+            "options": [
+                {
+                    "id": "1",
+                    "text": "una zona de estrechamiento de calzada.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "un tramo de vía con fuerte pendiente descendente.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "una curva peligrosa hacia la derecha.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "12f45457-65fc-44a2-911b-345777b7097f",
+            "text": "¿Cuál es la velocidad máxima para un turismo en una carretera de doble sentido con arcén pavimentado de más de 1,50 metros?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "80 km/hora",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Dependerá del número de carriles de la vía",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "90 km/hora",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "405b4a0c-c0f6-4563-b476-a9cb89432e9c",
+            "text": "¿Se debe accionar el lavaparabrisas cuando el cristal delantero está lleno de nieve?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, para derretir la nieve",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No, ya que puede dejar de funcionar",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "No, pues solo lo utilizaremos en caso de lluvia y solo los turismos",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "e87824c6-943e-4799-9e0c-4399f3cc25a9",
+            "text": "¿Cuál es la fuerza mas importante a vencer a partir de los 60 kilómetros por hora?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "La fuerza del viento",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "La aerodinámica",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "La potencia del motor",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "2d15f74d-12fd-4a06-ad78-b0f62e704a72",
+            "text": "¿Dónde debemos situar un vehículo que está realizando trabajos de descarga en una vía urbana de doble sentido?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "A la izquierda de la calzada.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "A la derecha de la calzada.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Justo en el centro de la calzada.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "39e947aa-5ea0-4428-bae1-b2b89c8de9d2",
+            "text": "¿Qué indican las marcas viales de color azul pintadas sobre una vía?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Duración de estacionamiento limitada.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Zona reservada para carga y descarga.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Prohibido parar o estacionar.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "ab6f1e08-4a5b-4510-84b2-2d56326d5370",
+            "text": "¿Cuál de éstas NO es una parte del automóvil?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "La dirección",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "El equipo electromagnético",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "La suspensión",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "72fe464a-a66b-47cf-95e7-645cd50cc904",
+            "text": "¿Cuál es la forma de entrada a la autopista más habitual?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "La entrada a la autopista sólo se podrá hacer a través del puesto de peaje.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Por adelantamiento en vía convencional.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Por el carril de aceleración.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "a978b476-7312-4b61-900d-5c202ee41092",
+            "text": "Cuando el automóvil que viaja detrás de mí esté demasiado cerca, deberé...",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Frenar bruscamente para obligar al otro vehículo a detenerse.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Desplazarme lateralmente de manera inmediata para que así pueda adelantarme.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Incrementar la distancia de seguridad frontal siempre que sea posible.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "f3519b27-973d-46ec-9946-24efbff64357",
+            "text": "En un estrechamiento sin señales de prioridad se encuentran un turismo que arrastra un remolque y un autobús, sin que se sepa cual entró primero, ¿qué vehículo tiene preferencia?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "El que tenga que dar marcha atrás más distancia.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "El turismo que arrastra el remolque.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "El autobús.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "df83d053-3317-4d9a-9c66-bc0c00681928",
+            "text": "Al salir de un garaje, ¿qué debe hacer?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Detenerse siempre a la salida.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Moderar la velocidad por si hay peatones cruzando porque tienen prioridad.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Aumentar la velocidad para salir lo antes posible.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "90393ba3-653f-42fb-9f0f-70d2b05e0f8a",
+            "text": "¿Deben los vehículos especiales a motor llevar una rueda de recambio?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Están obligados a llevar dos ruedas de recambio",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No, no es necesario",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "e36527e1-d059-491d-b9eb-497c72edcfe6",
+            "text": "¿Podremos estacionar en un carril reservado para autobuses?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, podremos parar pero no estacionar.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Podremos parar pero menos de 2 minutos.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "6b224f14-79f5-4530-8122-b3ee7c77bbec",
+            "text": "¿Se puede utilizar el teléfono móvil en algún momento del viaje si se encuentra conduciendo?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, pero solamente en vías interurbanas a velocidad baja.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, por ejemplo cuando se ha detenido delante de un semáforo.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No, si no se dispone de un “manos libres”.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "0a37d986-4cb2-4159-9aa2-096a2f448135",
+            "text": "¿De qué color es el fondo de las señales que advierten de la reducción de carriles debida a obras?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Amarillo",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Rojo",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Blanco",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "64dbb534-ed9e-4e76-bc8d-e8efa529eae1",
+            "text": "El campo de visión de los niños es limitado ...",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Debido a que no prestan atención.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Debido a su corta estatura.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Debido al bajo desarrollo que tienen del sentido de la vista.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "0c89d09d-f34b-4f50-9cce-a6eac21cda3f",
+            "text": "A qué parte del vehículo van fijadas las ruedas?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "A la caja de cambios",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Al motor",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Al buje",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "ac146480-5829-4062-90c5-3e534dafc54f",
+            "text": "Tomar un café o un té ¿reduce la tasa de alcoholemia?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, pero solamente el café.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "29c2f06c-233f-49bd-983a-0d2a0b36dcfd",
+            "text": "¿Qué luz se debe accionar para advertir de la inmovilización de un vehículo en la autopista?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Luz de emergencia",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Luz indicadora de dirección",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Luz de gálibo",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "a50754e9-1f83-4af5-877a-eb2dfbbb9daf",
+            "text": "Se debe circular a velocidad moderada y, si fuera preciso detener el vehículo al aproximarse a un…",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Vehículo inmovilizado en la calzada, dentro o fuera de poblado.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Semáforo.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Paso a nivel.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "b2a114f3-1217-4a86-b41d-8b74b0f68bf3",
+            "text": "¿Por qué razón principal deben los vehículos automóviles llevar una placa de matrícula?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Para evitar deslumbramientos en la parte trasera",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Para su identificación",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Para su seguridad",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "068a4b47-f0d4-4ef4-bd89-8412f3b917eb",
+            "text": "Cuando un carril está delimitado a ambos lados por doble línea discontinua, ¿qué deben hacer los conductores?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No circular por él porque la circulación está prohibida.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Utilizarlo sólo para adelantar a una velocidad máxima de 80 kilómetros por hora.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Entre otras normas, si la circulación está regulada por semáforos de carril, obedecer sus indicaciones.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "a8aec809-4f6a-441c-9f37-af9e5cc763a2",
+            "text": "Si se realiza una reforma de importancia en el vehículo, ¿qué trámites se deben realizar?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No es necesario realizar una inspección técnica extraordinaria si la reforma se ha realizado en un taller autorizado.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Presentar el vehículo a inspección técnica extraordinaria antes de volver a circular.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "No es necesario realizar ninguna inspección, hasta que corresponda por razón de la antigüedad del vehículo.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "11cfbe42-4fa1-4330-b26a-e9711749fc1d",
+            "text": "¿Significa una línea discontinua en el borde de la calzada que el estacionamiento está permitido en el arcén?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí, ya que es una línea discontinua.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No, está prohibido.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, únicamente para carga y descarga.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "cdcf5984-5b8f-4363-adbe-8e7b7e150408",
+            "text": "En un viaje largo, ¿cuándo debe descansar?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Cada 5 horas aproximadamente.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Cuando encuentre un área de descanso.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Cada 2 horas aproximadamente.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "d60e84d1-08c7-420d-bb24-2d1b334b2f23",
+            "text": "¿Podrá una bicicleta adelantar a un vehículo de tracción animal que circula por el arcén?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, los vehículos obligados a ir por el arcén no se podrán adelantar entre ellos.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, siempre y cuando la circulación en paralelo no supere los 200 metros o los 15 segundos.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "0d7211a3-2ac9-4583-b3ca-c506159dd0f1",
+            "text": "¿De qué tipo es la señal vertical de túnel, situada al inicio de éstos?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Señal de prohibición de paso.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Señal de indicación general.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Señal de entrada prohibida.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "097b2c10-07fd-45e8-b66d-cdd098af3f11",
+            "text": "¿En qué posición del plano longitudinal medio debe colocarse la placa de matrícula en la parte posterior de la motocicleta?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "En posición vertical",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "En posición diagonal",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "En posición horizontal",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "d2d6500c-d864-491c-b4c8-15e5e7d924c4",
+            "text": "¿Qué significan las marcas viales de color azul discontinuas en la calzada?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Zona de estacionamiento.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Zona de prohibido estacionar.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Zona de estacionamiento de duración limitada.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "da80cdca-b618-454d-8cae-88445f505af9",
+            "text": "¿Podrán las patrullas escolares detener el paso de vehículos mediante señales verticales en una paleta?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Únicamente en caminos rurales",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "9a9fa855-1d98-4fe7-a8ec-b3196f39939b",
+            "text": "¿Cómo se puede disminuir la influencia del factor riesgo de la vía?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Circulando a 50 km/hora en todas las vías",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Circulando de noche porque hay menos tráfico",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Adecuando la velocidad y aumentando la distancia de seguridad",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "e5dd5f46-4c0c-4098-8f24-d8b1a8897f2f",
+            "text": "¿Si una motocicleta lleva una única luz de largo alcance dónde deberá estar situada?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "En la parte trasera izquierda del vehículo",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "En la parte trasera central del vehículo",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "En el plano longitudinal medio del vehículo",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "5a60aaac-aaaa-4e5a-8401-8754c0521554",
+            "text": "¿Puede entrar un vehículo en una zona de cebreado?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, está prohibido",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, siempre que lo desee",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, pero únicamente en caso de estacionamiento",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5be8940e-8d76-4a7c-a480-537c5bd5aa50",
+            "text": "¿Cuál de los siguientes gases se produce en un motor de combustión?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Gas natural",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Dióxido de carbono",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Metano",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "49d884cd-5852-403c-a9bf-81747d78a241",
+            "text": "¿De qué color son las marcas viales que señalizan los tramos de obras?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Negro",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Blanco",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Amarillo",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "63f12946-fff6-4ee1-bec2-c01fdcb8bb94",
+            "text": "¿Cuál de éstas es una señal de prioridad?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Limitación de altura",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Ceda el paso",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Circulación prohibida",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "afdf7394-c3a3-492d-bcf7-4ab1d4b797e6",
+            "text": "Hay que saber que a partir de la señal de tráfico hay un peligro debido a la proximidad...",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": "p28",
+            "options": [
+                {
+                    "id": "1",
+                    "text": "De grandes charcos de agua que obligan a reducir la velocidad.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "De un área de desprendimientos frecuentes.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "De un tramo de carretera en el cual existe el riesgo de que se levante gravilla al pasar los vehículos.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "694de199-b2a9-401e-90e7-e03967bc77f8",
+            "text": "Las advertencias ópticas deben hacerse…",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "con antelación suficiente antes de iniciar la maniobra.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "únicamente con señalización luminosa del vehículo.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "en el momento de empezar la maniobra.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "86bf915f-6338-42be-a084-f4db4130f321",
+            "text": "¿Qué acción deben realizar los conductores para evitar los atropellos?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Indicar a los peatones cuando deben cruzar.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Respetar la prioridad de paso de los peatones.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Usar el claxon cuando se acerquen a un paso de peatones.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "f1c1d853-b1ba-4944-98fc-0199ac0ec2a4",
+            "text": "En una zona señalizada para el uso exclusivo de personas con movilidad reducida...",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Está permitido parar, pero no estacionar.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Pueden parar y estacionar si no se obstaculiza su utilización.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No está permitido parar ni estacionar.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "06b0c0df-5305-4623-b3dd-35fb6dbb0495",
+            "text": "¿Qué conductores tienen preferencia de paso en una autopista?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Los que se incorporan a través de peaje.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Los que se incorporan por el carril de aceleración.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Los que conducen por la autopista.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "9e2718e7-4ab1-45db-a25f-1b405688ac67",
+            "text": "De acuerdo con los datos de accidentalidad con víctimas mortales, las autopistas y autovías son...",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "menos seguras que las carreteras convencionales.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "más seguras que las carreteras convencionales.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "igual de seguras que las carreteras convencionales.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "432d107c-9cbb-4255-be63-8fa4e13989aa",
+            "text": "En las curvas y cambios de rasante de visibilidad reducida, está prohibido…",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Adelantar únicamente.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Cambiar de sentido únicamente.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Adelantar y cambiar de sentido.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "cc2c1f50-cf71-4a6a-b60c-0ac9f8178f3a",
+            "text": "Con nieve en la calzada, ¿cómo se debe iniciar la marcha?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Con la marcha más corta posible.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Pisando a fondo el acelerador para que el coche salga de golpe.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Utilizando la segunda o tercera marcha.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "ce28f5db-7427-4057-8df8-04cda0158236",
+            "text": "¿Debemos pinchar las ampollas que puedan aparecer en el accidentado tras la quemadura?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, ya que aumentarían su infección",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Únicamente cuando las ampollas sean de color blanco",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, para mejorar su cicatrización",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "aa8f09cf-db4a-4e9a-9bd7-0e7d53990a8c",
+            "text": "¿De qué color son los catadióptricos traseros?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Amarillo-auto.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Blanco.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Rojo.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "2136fe3b-e3a0-4168-8dd1-0c3c85916aa6",
+            "text": "¿Cómo se deben hacer las faenas de carga y descarga en vías interurbana?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Con el motor encendido y fuera de la vía.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Con el motor apagado y dentro de la vía.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Con el motor apagado y fuera de la vía.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "19321ffb-3005-45de-b894-5e72014b4b02",
+            "text": "Se define como motocicleta el automóvil...",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "De dos ruedas con un motor de una cilindrada superior a 50 centímetros cúbicos y/o con una velocidad máxima superior a 45 km/h.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "De dos o tres ruedas con una cilindrada inferior a 50 centímetros cúbicos.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Con una cilindrada superior a 125 centímetros cúbicos.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "7cd5cd7c-6c90-4aa8-944f-a09aa9fe7d25",
+            "text": "¿Qué indica a los peatones la luz roja en forma de peatón inmovil de un semáforo?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Que pueden cruzar la calzada sin problemas",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Que pueden comenzar a atravesar la calzada",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Que no deben comenzar a cruzar la calzada",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "33d59463-2ab5-4b64-8277-ff360db3b480",
+            "text": "¿Qué indica un carril cuyo trazo es ligeramente más ancho que el resto?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Que se trata de un carril especial.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Que se trata de una zona de estacionamiento",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Que se trata de un carril reversible.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "f249e2e2-4fa5-4a32-9380-87097758f977",
+            "text": "¿Qué tipo de vehículos de los siguientes no podrán circular por las autovías?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Ciclomotores",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Motocicletas",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Furgonetas",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "1665eaf8-1799-427f-ae7f-ade8c11ac948",
+            "text": "¿Qué principio fundamental en el tráfico adquiere su máxima importancia en la conducción nocturna?",
+            "category": "Practicatest",
+            "group": "Tests",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Ver y ser visto.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "No superar nunca la velocidad máxima establecida.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "No adelantar por la derecha.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
         }
     ],
     "assets": {
@@ -11033,6 +12626,9 @@
         "intersesccio-canvi-sentit": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAeAB4AAD/4RDcRXhpZgAATU0AKgAAAAgABAE7AAIAAAAGAAAISodpAAQAAAABAAAIUJydAAEAAAAMAAAQyOocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1hcnRhAAAFkAMAAgAAABQAABCekAQAAgAAABQAABCykpEAAgAAAAM5NwAAkpIAAgAAAAM5NwAA6hwABwAACAwAAAiSAAAAABzqAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjAyMzowNToyMiAxNzozNjoyMAAyMDIzOjA1OjIyIDE3OjM2OjIwAAAATQBhAHIAdABhAAAA/+ELGGh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4NCjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iPjxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iLz48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyI+PHhtcDpDcmVhdGVEYXRlPjIwMjMtMDUtMjJUMTc6MzY6MjAuOTY4PC94bXA6Q3JlYXRlRGF0ZT48L3JkZjpEZXNjcmlwdGlvbj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+PGRjOmNyZWF0b3I+PHJkZjpTZXEgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOmxpPk1hcnRhPC9yZGY6bGk+PC9yZGY6U2VxPg0KCQkJPC9kYzpjcmVhdG9yPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPD94cGFja2V0IGVuZD0ndyc/Pv/bAEMABwUFBgUEBwYFBggHBwgKEQsKCQkKFQ8QDBEYFRoZGBUYFxseJyEbHSUdFxgiLiIlKCkrLCsaIC8zLyoyJyorKv/bAEMBBwgICgkKFAsLFCocGBwqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKv/AABEIAN0A9gMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APaiKQinEUd67zzhmOaXFOIxSUAJtoApaWgBuKMU7HFJQAmKzda1yw8P2YudTlMcZbaMDJJrUAzXn3xgA/4R20DdPtHNTJ2VzSnHmkkXW+KXhlSP9Imb6R9P1rQ1Xxzoej2dpc3VyxS7jEkOxcllPevBr14hattVVGPl2qBn8e9X/Ed/Fd2Ph3zAWWG0VJBjHTFc0azkrnfWwSpTUb7nrNp8UvDV3dJAk8ys52gtHgZ/OupuVDIQsm3Ir5llkiF1C8QVDvyAoxxXtdx4s0x49uLsSKMZEMmCfy6VtSqcyObE4f2MuW9zQklwjoxMjlsBVbBPaq2oXM0VhI1s6edEOEY8iuavPElsqu0EMySKdwd4HC/yqKTxVpF1bygj/SXj2+YkLZB+oGa2Zzq51mi6sLvY0ilHXO70b2Bq9JdtcOihThM8g8EH3riND1+zjslglS4kkRFDLBA/ORznitZPEkE9qsZsLoBem22fH8qlySKUbnaC6UJ86sD1Ax0rA1S9RpVMsZC9yR1GcH9Kani2xLZS0v1Pf/RXA/QVDc65od83mXcF+GXhV+xsf5isnXguprGjIoi5tjIGT5ZTxn1Han6hMZYFkkVSoA+6Oc55/rSS+IvC6/I1peu6j5d8DggflWXceItFaRUhjmRXfJR0lcEDsARWLro6FTGGZ1lxudrdj8w6laSFmMiSKrMI5AF46596tS+I9Ne1Ky20sKYOTHbOuPfOKx9P1mK3sxbT3sioXMpXymOWwQDyPc1h7S5vyo6K28yaKRXgO7ew3g4PPSuisiGt2jAjQDGGdsc1xWk6/poyt1Ossm/5d/y8Z963bCcXt062zIw4KgPwR/Wj28lsL2MWSXviGO2uZrX55HUgblXC5+uagXW7J1RXm8tVOW3dSaxdajng16dJGXJIfAHYjNUppFPyOmA2M960Vd9ROguh3djqthKUcXUR2j7pP5UzVJ4p/laQbOoZWBI+lcMILeZSoVG55yBSQ2kUMu6FFBPU+v4U5V9CY0NTr7O+UzS+dcJuB9MZ96K5KWSVnTHDFTyeOB/+uislXZt9Xie14pKfijFejc8awzrRtp+KMUXHYZ+FHFPwaMUXCwyin7aTHpQmFhted/GX/kV7bH/PevR9tcB8XrOa68Kw+TGzhJgW2jOBUy2Kjozwi9EwmJkyAwyFPYVv+Im2aL4acopxbHIx1w1Y82m3kszP5EpLn/nmf8K6fxTpGoWfh/w4z20qMtsf4SdpJyM1ioqxvzNu7OUeQNdJsBzvyQe1fTcVjBNawl4l+4CePavmWDTruS5VY4Jmd24Gw8nNfVNmCmnwpJwyoA35VdNWIqScndnO6tpP2mCVICuDGck4+WuVHhkNbTqGEagAb0ABavSJ2RLZzn7wIrnNUeGG2+WFJDv9s59a2MkclZyzeGtRkt7z/VSxqkU6rtDMMAA5zziui0UfaSZFnbrtYHpn2rM1VI5dOZLlBOsg+YPwF9fyNcppjy6PqHkpcbrTOY5V5Kj+6ayqK8Wjan8Vz1u0nRRMo25gO2UE+vSsnWrqA/6Of3UjtlGye1V9Nntof7XWW4DB9rpsJORn8qdLCWX7S2JE4YNn5kxzgV48ocsj1oyTRlzxT2l55qyKwRcFNm7NJZvC2pRSXUCSrsdgPcKSBx0q7qdxb3gTEseADn5CCp49qxBaLLJBG0u1Ud0LjndhSBWlk2T0L2u3fl6LIYkR47nEewDmMnrisqa5sF8RadH5TRxlmEiOBgHadv8AWor5SixxzXPMCGQBQcMScAfXimNOJ7SZH3M02GLD+HHI/lTlGworuXLmG0mmWW4sY3iDGNwRxgHjpzVO90hbfW420K4ksw6Aja2VUn2NMlnxa71mDjy/MHzZJYc4I+vFWLHUil48u7YpQKrqDwe9KOhbSZU1SXULHUnTU9s8oUfvk/iXHBIp0brPGrJ8wORjPX/OaZe3u64dn3PkL+I6c1DbqGmke2G1wcsmBtcf41aZFmixG0Ss24KGUYG3uT/+qrcIV1+7gnvtOBWZDdeZIwWIJgYkyuCv0p7puLbZmcjjL8/gDSky46lme1uJbvfzJGE4XumT0P5UU6FZlUuJzEMBSF60VnzI0sz2wChvlxkE59BT6MV7J4Fhu00EYp1BFAWG7TRinUYoCw0daMU4CjFAWG4NNeJXUh1DA9QRmpMZo2mgdiutlbL0t4h/2zFOmgjlTbLGjr2DKDUrfKMmq00/ynYQCOmaWgNsha3tLc7ktYlYDgiMA0jXaPCWUg84IzVGW7cTsZGz8uMZ6H1rEvtXt3kZIjhhynqTRoh8rZtzXMMYAYgLzx7+lc5qDvcFZobflWwemDWXdazIXJkHz7cHHzYNS6NqcctuTeRnLnADKQA3aonPlVzWNO7sSX87T2p3Im1+BvOWB78VxV/pk0nmJbwSD7xHOAeB2rs5r/y5CsM2+SIllUNjaRx3FY1tJc6jqUhuw8okyEGfWuf2vMdHsrHO6drMVvCkUkjCPzMKrsTtx2NdrDqIVo4YblQShcqF46Z61jXLiCSGS8jhCXivCQq42MCCP5Gs22820uSlwN4cMkZDZyTnj9aylFSNItxO31G7trPyzqMZSJiGDKTgE9j9f6Vh3iboru4tZ2hgjm8yMt/GGbsT9c1R1OSRPDMf2pN0sq7GLfeAzxx+dbNtf27eC71Gdd0UPkjI6sOAfbNZcvKzXmvuVobaV9DvLmILcJIPldRyAoznPbkn8qyY7iIXIWKfZIDnHHII9+K6qaCxtvh1HEbhRMluVwV6scnH61x2k6Ysk3nOGZhIcqR0qnYItitDBDDJIvIRiM5Bz3OfzrW0uTNqqyQjylP3+BzWTKvkahcQ7S8bfOiYxjjmtbTby5ktiltbRJP081yWA/CoTRpYz7qW2nmZt3lkHjoAeeMZpkdwqy/uwoY/Kc4/OrElrcx3TG6Ecsxw3mKcAE88CqjxvGS5OTnG3H60XuNIvmA3G+7g2PNCv72If8tF/vAeo4pLe7jSNgxViw4CqOPeoba+a3uoZVyCn3iOc54INPLxPrc8ViFETEOgkX7vcj880NXQlZMRLx3klKNAFyOHdetFStF51w6NsG3sporE3PcsUuPanAUEV7Z8/Ybj2pPwp+D6UEUXCwzFGKc5CKWPAHWmRypMpMZyAcE0rorlYuKMe1UZdd0+Hf5swUxsVbPbFWobiO6txLAwdG5BHehSuHI1uS49qPwpJJFhTc5wCcU7FO4uVkchCjJ49KyNSuhbRmZiPkOSBWldXlrasoupFXd90E9a5fWLmDU/MEB/dxsQ5zgj1qeZFKD6nOa5qd1qFzttgbeJz8zKeSKxmSKGFHlhjbEnyuyg7fc5rWnCidlg+QBgwLHIxiq9zPFDF++hTy2bA3dDWTqHSqZcspRdqywKnl/KWOQCxz/KpjdXME2VbBLqBsbgnnrXPws0VxMLVo5Yym/bkjZ9CDVOfWpoUeJ1Z36AbDkj1znFZyldFqNnc1fEQ23TTP5cpZQCWAYZrEW6ENik2mieC/jOTKrHy8Z6Y6YqA3pvt7urPtblWflfwFUpNVgGlqhmUHcVdM4Iwcge3WpirDbHatrF3PEsV3HHBuO5XTgEj0xSJdS6lo5S4KwpKCBIq/xjoTjnrUNzc2V1H5YlRlx8y7skfjWVb3X9n3BslulaEsXQ4zjI6fnVWM+pqwX093B5EzhZFbkAcnHeluJZ4450HmASSCV8HhhnP86pSjyP3kiyyFl+RlH3W9T7VctJ5n8uOdRIQOdoODzipdkaR1Ny115bnTlUxymd1MTOwGF9MD6GgSXatcyecphaXcik8k88e1VVSErgDBYn7hwc1NCyPlSyttw3Jxg/161k9TdRsQxTvfam37poolK5QNycHnmupgv4IZI96MFwOFwBn8K5o3UO7IbCFuSwwCfY1ahuUlnjSUIqqctsUnI/Op5blXsX9emszqCNZKwEiA4c9D61S2o8fLxq3ptGc1BezxzzKsEJCxqVYtnJINNtSBxJFkdFzyQKXLYOZF5baG1AYuAp6KeQCfasuZ0N0skaIcEq4UEYH19agv4pXYi2l2Z5+bOaq2MF4ss0EsjYK7g/UdKcLXJm9DTefa4+ybFZRypHOD6/lRVZYpRcPM6pkgL19KKya1NE9D6M81RH5jHauM89qo32tW1kVBV5Nw4MeCB9a4nUPFuow2cCL5UgkiBZWXvWNeeI5rmzeIxeWzMPmjPBHcV6XMzhVKK3PSdK8QQanDLIisGjO1k4P41aF/ljmMgdq8z8E6pLHq5tkh/dXK4ZiD8pUnH869GA+bgZ4xisKlSUZWNqdCEldksl4HjZRGeRjmoYJ3gjZdmdxz1o8vcoU5/CkZWywJ5Ax9K53Uk3c3VKCVrHAeK7iGC9mTGBMnzOpySc1S0PU4VvLXz7qSBYAFb0fknt9aqeMrR7XUMTTvOJE3LkAY+YelZlrL5QEabSe+Rk1304Xick5+9ax6h4l1cz6PbzWDLgTq2Q3UAHiqms+MJk0qBzZr+9Qt8sh4wSPT2rk7e7kWLyg/yHI2/Wo9Rc/ZFRnO1VIXJ6d6HFjXL0NhPE0F/a4BaKdVz+8XIP0IqOyMSq4m3sZM9DXO6YCzFAOwwSK6EM8kmfL6AAHoPzrOS5S+bn0ZHOEmfgbcjOfSqF3CjTEXH70bTweDVm4jlDEKzoM84waprZyTXAkmkYnH3V4yKxuXZFKC9htNRWJeFYbQXPXPb8DVm/jLW5JG454UHjNN1DTvtdm0MSKrfwGReh9jVCIT3AMdtIbe4hYeYjnP489vpVE9SndQRJKzl2Xdk4HQAdjWRBAioxPR+Rt6A571s30M/lyjykLbCCi9+O349qzbSGSKB1ki2hjgk8bePStEZS3LkCKZIwNoyu5sDGfrWZr1qUiSdlxJDICrL0IrRWVI1jZjjjZvHQ/X0qzNbjUbM8rIfugKchvpSvYdrozYLsqmH4KjirdkjS4aZ1w4BLLn5j60/+yjDAqqPkPJOOR7GrOl2q2kLQ4JDnOd2eOtTJqxUVqJZhXgYEoVVznJwVH4VEZ1lnYWzMAAQWIyCfxqFI4l802r7jJKSQT2IAwPyqGbzI7qDE2ArYKkEfjWdja4hdpmH2kZVOvy/nTWJim/0BihHJZh2+lJdyyPI4hwsfO4n0NVojM8ieYcYyAd2M1USJGwXnd42aEMWGd8fT684q7HPbCD5d8h57fKDWVHqCGMQPP8yjkEhf51aEsCZYyhQ5wSCNrcevSs5MqJdZy0O6GXc2OBnH6Va0HTxfaqIbgncLeV8juQhxVG1Nq8J/fxq/UFz8oPpmtLQb6ys9YDS30aHy5Fd2cAfdPAJrKMrSNuRyjoYzqscjfLk5OTk0UR6naBQ06hixbljjPPGKKTbuNQdjau1WMKU+XjrWa8sgVzCVZ1wdpPStHUXAiU8HjmqcV0IY2V4YXQdCYwWJPHXr3r1UzglsdF4Oj2XVlLI4LzFmAXtXojMRt4Jyccdq8l0WaaO3a5swi7ST5m0ZX2Fd3a2N1qGkwXJ1GeOSWNWIDEDNcmIXvXOmg3y2NxpJPKdliYsMgL0zUcE+9pf3TI/8WfWsxdEbayyaheMcHBW5YY/Wo7bw6xybu+vWz0UXTjH5GufQ21OM8dyPJqQdlCv5OG74wwrmYDLJKp+UcV2Pj7Tre00+F7Z3Zml2lmcsTjsT+FcSkx3qqOE6Hd1z7V6lF+4ebUXvG7D5hIxNGo5OCuSKm1B2NgTjLbM496Za6hbxIsbxI8gYkkkkkY6Yp12w+yZ3DG3OabHEqaV5ckiNKWU45X0rqNOiXe4JypAK884rmdOhmaYMgY4XIwT/ACrpbJzg71XLgZBHSsamxcNx0qKmS5B55qvIIpSNu3pgYPNXmQHcuTluymsUym1vGt7uPERGY5Sv9a5TpI453jDNK2fKYjnvisjXEI0sagmIZxzuX+IZ5FX7+OWBJJIpB5WcsDg/jmsyS/gudBCOF2FvLORxVESMnVZ2u4He2VhHGVcnPQVFBIwlaG4b5SAVXOM1s6bHY3MNxGR+5ZSsfHJHT+dYazWr6paRXoIEZ2SnGeAT/TFXcyatqbs8dp9nslt3zeTvh1J4VfcfXFaVlpeo29+2nmFGYoWQqMYHes3Q7Ddf2yjYl3dyblymAihS3PHYgV3Vgk8/jXTLa4eGUTxSM0sPUgKe/wBRXPNyTsaRsclFB5NjcfbiY1gJG9RubPoTTNKspRp8ly7M4QDjHBPYe1T6y4n8WzabYAD7e6rPv4wVzz+P9KbeXqeH7K901GPluI50c9TuIyPfk0rtblpoyI1xc3Eu8KsRBIbjbn+dMSISyLNPEpO4lWAzgdv0qpbukus3iyyIqY3oRj5iFHBz1qfUNTCacdknmTSEAKp7+9aE3IJ2gijdZGUHJ4zzgnpV6O0iWFWyTu+YZGcVHY+H4hGJ508yeQA5cD+VbVhYNPCxUjhsMzNtA/E1DkaRV9yn/ZonZpotoU8ZxjipZbEWscYaNp1c8ccKae0lvasY5NUgjTqQhL4HpkA1py614dTT/JN6C4cc7GJPA9qyfPc1TgjDuLdpLUb5IwAOFUfjXH3Vwn2jZ5gyZAAM9Oa7afWNHe1++0gUeWMIAM+teX3S2x1nKSghp8soB4+b1qo0+bcpYt0E+Vbl6TUSYQrozEHp6UVkpI3zLEyZz6UVsqZk8fJ6s9Uj1G21DzRDMrKsm0nPHPT+VTBHinPlvsIHBIzjArzG3unhZSCcZBK54OK7my8V2t2oFynlTZbGeVIPSuzqeeql1Zmxo3763nEkhDoTgKOGNenaO6SeF7JpSVXylJPpXmmkSCSGZoFVo92VYjBAx/jmvSvDTF/C1iQo/wBUvFc+I2OugaCsjM4RsjHPtxTrWVXt8rcLOBxuUjigZ85lYY7L7imWYQWwEcQiHOVxjFcnQ6OpwPj+7d7OOM2jQosp2uTw5IOWFcPZwstx88qhf4RxXeeO7bUJrPczrJbibESqpyowRg8etcOtvLBIqzwyb1AAOw4xXpUZLkPPqp8xr28aBt2UBLY5IHY8/wCfWrV0Fa12kDaRgg+lVI54knhgkSYyTH5AqdQBWhLbTPCF8uQHvlCKqUkKOo7TCIoUIG0fwkHNa8Yk3MTgKQKx7W3a2RDcRsnHoa3PtgiszMFMiIgY7QMgVzyl0NkRSboQ0kakMBkEHrVK5lW4+WR9qHkE85o/4SOPa+6F9rjCFlxk1iNd+XNJkMEySjHp14z6cVHKyuZGdc6vHBeXkaOzWrx+WVcZ2NjB/wDrVzE8xN5HbxsRBIf3ar03njP8q6LxJYKtjFqbnbFMwWRgcZGetUdZi0S31Cw/sWYm1Yq7MCSQ3fqBVLYym3c6KfRX0PWNHtbpwhaLbNhgRnGfwqlo2hLqvxUazYebbQyee6sw6YHcdelaniTU9P1Wwt1mnkkkWIK7+QA2765rG+Gd19n+JSJK+d0bxgueTwMVCvuEmtDrLmF9O8UWN1hfJmmZFTbzt2Nx/Krmn6rY2vjkXajy4dIsne4HYZB//XVHxg91Y3elqVjCBwyeWckcHrnHrXnvjbVJZ/EV6mnSMsc0C+eobhtq5P8AKp5HNhKSSG/8JJJd+O/7VX/V/aNyKTwB06/jXVfEkWtm2keW5kmkjClM9R6j8a8ptGZrhcFgD/dGaurqF5q+oWzXk7yNboqoW5wFxgfpVzp63JhPoa+lWyaj4vht5nJEk23bnGOBWhpNmNS8RR2cKnEKMXcjOAvtXM3ZMd3LeQ3AjkWX5VBIYnA5FeifD2zSHw1rmrSl11SGECPcD8qmlLRFw+KxXt76WG7COiP85G/kBMHGOvtVV/EFnbwSwTxs4dzwSRg/hWAb6fcPPlZVeUSNJjO09c1ny3nnWpnluPMl3EBOnHrQo3RUpNSsddq0Njc+SbErbxyL/qweR9ayZ7HfOGS5U7WCcHgHA/Wsi21B5MDGGI5bPWo726mgVIon2qx3nHXNRZ3sa6cvMbHkL+8hEsZO4MBnkkcf1rIl04QSfbblGgijkzuK5DEHp71mNJJJKWLHOc5z3rcubS6k8MCeRgyLICVZumeOlWvdOaUlJGRFapcK0qMwXdjgUV2fg6ez0+1niuXCmTY6q+T65x+YoocgjBWONK425xjHrXa/DrRtO1bWX/tFv3cKB8HOM5HHFYo0+Xf5i6fOBuyF3D/Cut0fV10bUEe+jmia4XcIwBjGc11yjKxzUrOWp6aND0WxDGG2UQsDtKb256+vvT/C893Fp1wt6rIkcreSpTbhO3FcPqPxLmSZVs1OHYltqZOMAAD8jWZefELX2y1vHJhiMho+g7isfYyktTr9tGL0PYZJ1uFjmjZo9rqcOuM4xkfjUqXai4QbSxkPIQZx715jpfxJSbTTHrcEy3KN8jxrwP7uRXaaVfNKkVxG4kMnv2xzWMqLitTaFVT2NtyrLGDF5w7qRnHvWN4qt1n8P5W1KS/L8qL8wG4+lWrbUBDCrNKobHG443cVg+L9SmTSNwkQySIAhLfLnJ/+tRTi9gqSSZLommRRatZ3Qi86WNDt3t93I64rT8Sah9kYMwVdwXdjjHArgNH8R6wmsWkN4kKxlCg8oHPStvxIC9tiWVncKBk9TxW8qcr2MIzjuPuLqS+jkkPzHtg9RWdb3xe2v4ChysSndjj76iqloZobJgpbcOVFTabeibTtRurxDA3lBQrdCA45o5bMOa5m6hMyBdvGHU4FUb+5/wCJLcYkUOSp5PUbhmrnitVXRInWYElC7LGvTdwCT+Fef26zyyCK3lDSO20Jzk/hW2jRi7pnpvxItkHgzRltSnlfZwX2Hg4Ga4KGJRpdlcMpUxyKpB79c/0rtNZn07S/A8FtMn26e3CowfIG5zyPwDVxt54gtmQRLp8KpGwKhHxWapsTqJm9NrFlLdIsibMAgcZyc+1VPCKNL8W4sMqN5wIJ6H5RWtNe6aYoJrq2WGSWIN8q5GCM9axbIw2PixdW0++IkSQSCNovQdM59qHHQSkdL4xvTfurb4zcQptZYn4HOOfevNbmOSLVJxJuDG3kPTr8hrf0+M33jKUv8wmkZiGP3RkcmofGD/avGV3DbSI4it/KBUYBwmDWdmmaOXNE5qy3OzhSRsQt8opdJ3+dIUGSqZAre0m0jttHkubjbE0lo/lkH75yODXRfBkRtqeqB1Un7MDlgDj5hVS2JhpI89BNxMkPQyTcn8q9x0HRr220TXbcI8z3MeQo5J9MDvXjEqZ8TXBU/LHPI/Hs1fQvgfWJHK29xsQeUhQ/3sjrmsJnRT7nh2taLqWm2yHULaW2DEhC4259ua5aQMGI7j0r2H4sWxt9fcNcSCKcbtmMrnFeRzDZypbOOa1jqjGq9bktgkhYORhcdaXUW+aPB7da6f4eeG7TxFrkVvqLtDDgszA43ewqv42sING8YXlpZH9zA4EeTnjANCjeRfPy07M5cIzAkAkeuK3rKY3mjGxtY5bi6uGWMKsZO0huOelbp0ePU44baL5IyQXwOi11+l6faWNzZxWUO0RTJz+I5qpU2iY2ZwWm2MragoljZBHAVbI6NuHH6UVvfEHU531oXdnG1pBMuA5XhyPSisdDpUVY5FpNVltyr3nzMeSzk8Vctm1MeTLJewv5ChQ0u5uPQZH8q01TQbVv3ryzsP4Ryo+uOtNe90UnMkRc54Gxhj9a9Ox5aMC+1y8huWgimZiucOjsOvP9abN4hvlKGC9vDjghpCAf1rRubzS2kJitYvr5bZ/nTYb20BGLePA6fuz/AI1Oo7E/hvX3N8ZdQmV0UENHIN27P1rrtB1qOO+AtJZVhTkpGPl+mPzrmoNXtIxk2yEf7gFdUNXtNK0Z3+zBJWwDhQPnPT8h/wChU3G61GpcuxS8Qa7a6tfKYJXhWAFVKrkZ6Ej0pyyxWnheKTUnmvhNOzQI8hXaqgZP0rKGoR3DpBap5buwVSVBxk49K7bXvD1jqdna21pe25lt7YRyIyk7SSTnAI9a5qso0mjePNURxT+LUSB5bDS7eAA7C/mEMR/kUweLTtU3NqcMOCl44/kazpNKhWSWO2uBPsbaSlsxH/oVZ9xpsjGK2eZYyzYUmBl6/U1oqitcx5Hex1Wlazm6F0GluIz/AMsZp+/pkmr11qJ1COZGle0SZizRxwj5cnO33xXFNZrp8DW1xcK024PHg7cYrYj1WKeMPJM6swydrDGfbinG0ytY6M0L2xGpRtG+rXao6JGV8rgKpPQfjTNI8NWmganDq41KSX7KS+xoevGPT3qoL+AHIu5R/wACH+FXYNWsivl3F8+1hgg4/wAKHTsF0yl4l8ZeZYJEfJunkuGlYzIJAw7dfQjH4Vk6XqVnqt3HbNp1uHYEsUt0AAHvXQJpPhzcHg1Eqdu0KdpA5z3Hqaztbt7HTLM3VhqCzShgpVdoOO/QUe8iWkWzc211pN9qUseY7SMRQwuMqp4Vc9icc/WuQOqgj/WbT2AGBU2oatDcWwgeWSONiGKKvDH14rNiubeCYugRwVxiSMn+tU5dDOxaTW5YrgPHMVPQsB2qK/vprq6a9D7XcAFlOMnpVO5uln24SJNp/gQjP5mn2VtLqEn2a1UNIcsB06Dms3qytixpepx297EdRja5t0DYjz0J711Hw/uBBNrMqu0TCycoVcrj8q4z7DN520oe/I9q3PDV5HZpqZki83fasqndjaT3qOVspSsX/BMdjceILltU2mEQtkPu+Yt9K7VfElnpl1ELeNxbxDaGB3EAdPvVxfgedYNSu5Gto5/3SgCQnA6+ldkdWwcLpmn464MbH/2amqHMrmiq2IvFHj//AISXS0sv7OWVhID5jjDYH06dK80kgKCSN1YM3TDEAfh0r0e61W6lH7uK1gA6COIDH55rCls7zUJhEhErucKPLGT+VEaEohKcXqGkalaWnhm3S4t1a8tLhWB/idCc9foayvGF1DqXiS4u7JNsUgU4HY7RmrHinQ7jQJYUeZZDNGNxVcBDjp7/AFqvY6a2qRrtYjLY4HWhQ5WU586SO/8ADVmXtVml43DIJ9B2rb8y2s4nmupVVtrGLnGW7c1oaJoZ0rSrdbgF5doaRm/hUDAX9f0rE8c6fI+lDy1+YqCqqOQc5xRUvynXQoxquy6HG3H9o3CqJru3nRS2yKdhIE+meKKgubdbJY4ZmJuFX96qISFPpmislTViZS5Xaxzok9ATn0FMdnGCyNgeqmun0zSZ7GXzZdOuJnHTKHAqXVbTUdUVY49PkgiHUbRk16F1Y8y0tjkGfzpcrGM9lTirOw4UiFkx1JJOf0rotI0ifTJWmk02aaQ8DpgCptWttQ1FUSKweFAckcZNGlhcsjJ0eAS6grXAzFCDKV4+baM7fxxirevXEnmQ25JbYu92xwXbr+gFSabpl/YXBm+xM7Y4z2q1qMOoahGE/s8pg5JHeqUlYXLK5j6ZIyanakKWxMhwB7ivQdUiXSNWM4sHaO4QbnSfOO/Q49a5LT7C+sLjzxYM+0d88e9ULjVPEWpXEss/npGrFQghOOPwrz8VSdRrlO6hU9mrM2NUltFhkNlB5Mz8nEuBn3rHD2rYMwlZh1/eZ5qjMmqyfeST/vwf8KzZUuY5CHaZT6GAj+lZxpSSsEqkb3J9VQy35IjYggBWLZqOOGaGNQxYAccjFV7eS4j1GJ3RpER88qRmukutYS5t/KewT2ID/wCNddJJLU55vmZjqsjfdJb1wKVo3UfMCM+oq5BJJDIJIrNzj/Zbmrs2oy3MZR9HUj/cfj9a20M7MxovNLYjBbHYVNKjOmJYyAeOatRR3UcgeHT5VYdwj1Zea+lXa+mMR/1yanoOzOTn0y6aXbDC0iDpjtUL6Zepy1rIo9SK6xEv42DR2M4PtG1W2vNUZMPppYejRNWbjELM4ddNu3OFt3Y+1bHhu3urHWU+020iRyq0RZh03DH9a2C16rhlsJYz/so1TS3l/cQiOaykI9fLYGhRSdw5WyjqNiy6bE0Mas8cjAAdxWAsdzZQTebEyrKoXPpzmujFvcbt3lXKjPCBGIqxHbpOyLdQzFM/N/oz9PyolqNRaMnwvcGG6uTjhlUfzrpBeY6LViDSNBjn/wBD+2Rq/wB4yxHj8hXQRaH4eIG7UmzjnMZH9KSq8qLVNs5Vrkt2xVrT9dOg3JvWRJIwNrjHzY9q6VvDvh3buOqgfiBTJ/DPhe4tzFJqO5TzkSCj6whuizg/E3i2TxLq6W+nW8jW4bbFGfvOTxmt/TfBviDQJrS/d4okJDmEncVPuKhOhaf4c8RW1zpBluomjbDDDeS/QE1curvVmHmbrpmBHzHcefUVwVa7iz3MuwKrK7PRrbVZLi0tzPKoOArKVwx+o7dK53xnreJreytpQqztsklC7tma4wX8st09tLczpfMN6qxIDD8e/NadhfDTbXzm8m6nEuWik58s44OPWlCrKbtY7K+Hp4am5Rlqc0F+y6xcQXlnPcog4ljXBY598e9Fb+reJTf7DNZxIVPDx5GfaiuxRikfNSnOTuykJtQYcWDZ92qN728hba8CA/Umqra7JLHjpn+7xV2OK2s9La71JGEko/cwhiCfc10JRMLyGDUbl2CrboWPQDNWFh1k8pYk/h/9esaHU5IJC8B2k9+pFXl8S6ko+Wc/kKdkHvMmubjUbUqt1b+UT0B71B9umbov6mq89/PdTGW4kLuR1JqH7TKPunH40KxSubkK6o0W+GxZ0YZDY61Wun1OCMyT2nlJnrtqv/buqIoC3cigDAAbpTJdY1G5h8qe4MiejYNJ2DUBqc46hfyqxBc6hcKWt7bzBnBKrnFZoaQD+E/UA1fstVvbJSLYxqG6/u1OanQdmTmXVYlJe1YADrtHFQSapcOBgj8hV3/hKdTC7CLc/wC9Ap/pVM3hlYs9vbgt12xKB+lGgWYQ3d/cMRCPMI6gLTnGrn/l1YD/AHP/AK9X9Av7O21RDqECiI8b4/l2/l1ro/E0Oo2UYvdJaOayYZOEDbP/AK1LmjsFmcHJe3kblXOxgeQRSx3t9LIEjbLHoM1Nc6lPeYMyWxYfxeSoP54qt5xJ+5CfcIKd0FmXQmtgf6p+faq099qFu2yZmQ+4qeHX7+3jEaNCyjpviVsfmKfL4gvpl2yRWjg9mtUP9KV0FmUP7TuyQBMOauJDq0ybkKsP96q6RXN05aO2twT2ESgVfs4tWsn3QJbr7bFx+VK6HytlOcanbjMoGPUDNV11G6zjev5V0wv9XKgtDZf9+E/wqtP9olbdLaWAJ7rAo/kKXMg5WZsX9pTjMLRMPantb6wOTEpHqBWjAXhYN9mss+oTB/lWxb6zcpj/AEewY+8f/wBalzIpRkcgzX3Ibyx7EU9Ir6QgBofpXbPqBuR/pGl6ZJ/wDB/PFQNEm7P9i2uB/wA85cVPNErlkHgvw4dUM63bISik/L69qzL+28mRojuEiORgt6Gt6w1ufQ5ZJobR4YpF2soAkOfXvXHXep3+peJjDa2si2sj7pXePbtHfBP8q4asOdnq4TFvDeZb03QpZ5tR1N14iVEBIzwf/wBQqvp2nxGaZ5C6m5lPOcj5R1/SupuNQttN8F6nFA0geTao8xwT3PY+1cJJrMlpoGjXbctl3bH8Q3sP5CiEXFmeIxPtb3RuXmgRuQVkx9RRWvBf2l9axzp8yMOqEHn6CitudnJaJU0XwbBbWy6nqTAKf9TCV5Y+pqve+GbvUrhri5mGc/KqxnCj061uXdpqF3eGeS4QRjhIxnCirUEc6cOwb6VvKb6GKgupyY8HovMkj/gmKU+FoM/emP4Cutk4HNQZA61POyuRHNHw1Ao5Sbj3p8Xh61Z+Y3VR3YE1vkxkHLMSOgxTN7kYDbR7Uc7HyorQaHoJnVZrWaY5xgHC1q6h4V0W1tfM/spdnAysp3c1UQ7JAwBbacjPerl5qk97a+TJEoUMCCD6UczFyo56fQtOH/HvbOOekj5/lUf9kWwJH2McdxJW0sTdTgZ96nW3w2W5PTpU8zKsjD/sSzOC1pjj++afFo1kWwbQYP8AtGtl4yevAFMCLGOT+VPmYWKQ0HTwP+PZfxJ/xrodCurXTx9juIg9q/BVsnbWa0keMxnB/wBqmLIzE7TU3YWRpa94L0+GNr/T4Q1u3zFV52//AFq5w6fYlcLCBXV6Lrr6cRBcjzLZzgj0p+v+G1aP7fpI3xMMsi9vpRdi0RxLada/88hmkFlbI3MQBrS2bhhhgjgimPD05o5irFRLOHI2J+Rq1DYWqtm6RyOyqeT+NL5bIcnI/HFPyMD5j7hBRcRbjh0eQgNayQe+4nFOvNIgt1MkPmTIf4hhgPyFUgWP+rTA78063uri0l/cMQO4PINFxlIohb5ef+AYqaJH/wCfdm+iVfm1m7dMIEiP95RVdtTvjjzLh/qpxTuGxYt7e4YZS2bjsy4qynnQ8yWzKO5KcVlNcXMmSbiQ59WoW9u44jGJX2HqM1IXN6OeF+GVc/SlMNq+cxr+Vc+s+B3zVuC9KnP86mxe4/V/D9nq1qYJGeNT1MZCn+VcB4q8J6hGttZ6PbTz2tuhCuxyckk9h716VHfBvvcH1xVqO4Vs7WySMDnpUiaucNpmnGx02CERsjBfnUwt978DRXdPGs2CyLkDHBxmipsUtCDg88fnULzIuQoH1p77dpxkfU1WPlomWIz9a1MyKSUbiSc1EZAe2TS+ajNwpP4UNKf4VA+pqgGEE/wVJsYkBV/IUCQ7ckjPsKV5N/8AEcD8KQDxA5GcUv2fI+aXb6ALULSIFHz/AJGmrOxyACaALkNuC2eT75qSY+XxnGeM1BBuILYxTJhuYDk/0pALI67euR71WL84p7IApB59Kh8wISAgz6mmBMmJOgx9akDLEvJ/KoA+eelOVuzUAS+ZuUYz7VsaHr8mnyCG5+a3bg5/hrERwOC2BSHG49SKQ9Gjqdd8OrcR/wBoaVhlcbmRe/uK5Mh+VZcEGtzQfET6bKtvcZa1Y4/3fetbXdBS9h+36WQSwyyjow9qe4kcWyn+I4+ppoIHQZPtT3XEhEgwR1BpnnBeAMGlqUPR2ByeKeZ4xlR171XYlsYNCA9CKBCycDIpitlhn0qQ7QPmprAbfk5oAeUJTIx9KiBbdyKZ8wFAYD1570XG0TAhvujmgPg8qah3be9Hneh5piLSyZ6E1LHNsx/PNUTJnofypRISR3pWKNhL3C9aKyvMA6iilYCx586k7bUg98sDUDTXj52wAfjV1mIBFQGQqTjP51SIIM3hXBjjH1eo9l2Tx9nX6sakadjJjAo81/4SB+FACbboj5mj/wCA7qabaYfxRt35Jp4MjdZD19KkFsGb5nbGOxoAjLSoABHbj6kmnJLeHlWgUewP+FStbQqgJDN9W/8ArVG8wQ7UTAx60rgONxdAACSI5HQA1BI95jC7D/vE1Kjb2GFVfwqSZCF+Zic+nFAEEb3zx5HkE+nNRyrfb/vw+xHFTRgKx2/qadcDjgAH1xTQFT/S+cyxf+PH+lKhuQTzEfzqQDavU0YzznpQAH7X/dh/EmhWvTxmBfpmpAx4FBY5FK4yvJHeMCfMjH0BrZ0HXdU0/Fs9ynkMepXOys8udn6VEH+Y8frQmO1zqtW8LajqMbX9pf27uwzhIx8/6da4qe11JWZJboKwOCpjAIrsfCGs3EN4tk3zxSdAT90+1avjDQ7aaza+T91MgySo+99aolHmoi1Bc7bxPxiH+FJ9m1GTrqGPXEYq5jjJoQ7W49aWpVkZ5sb3cd2ovj2QUf2ddt/zEpvoBWqwDAnGKiLEdD1o1EUP7KuyDnVJ/pTf7KuAOdSn/CtPdkZ6ECm7jRdjsZv9kzbedQuM+maj/sudcf6dP75NaLPnPaoi5zg8ijUNCn9gkB/4/pyf96nLYSZ/4/Z/++jU7y+gqBrp1zijUTJEtMZ33E7H1800VAb2T0FFMR//2Q==",
         "hito-vertice": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAeAB4AAD/4RDcRXhpZgAATU0AKgAAAAgABAE7AAIAAAAGAAAISodpAAQAAAABAAAIUJydAAEAAAAMAAAQyOocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1hcnRhAAAFkAMAAgAAABQAABCekAQAAgAAABQAABCykpEAAgAAAAM5NQAAkpIAAgAAAAM5NQAA6hwABwAACAwAAAiSAAAAABzqAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjAyMzowNToyMiAxNzozODozNwAyMDIzOjA1OjIyIDE3OjM4OjM3AAAATQBhAHIAdABhAAAA/+ELGGh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4NCjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iPjxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iLz48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyI+PHhtcDpDcmVhdGVEYXRlPjIwMjMtMDUtMjJUMTc6Mzg6MzcuOTQ3PC94bXA6Q3JlYXRlRGF0ZT48L3JkZjpEZXNjcmlwdGlvbj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+PGRjOmNyZWF0b3I+PHJkZjpTZXEgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOmxpPk1hcnRhPC9yZGY6bGk+PC9yZGY6U2VxPg0KCQkJPC9kYzpjcmVhdG9yPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPD94cGFja2V0IGVuZD0ndyc/Pv/bAEMABwUFBgUEBwYFBggHBwgK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",
         "p9a": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/p9a.png",
-        "s26a": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/s26a.png"
+        "s26a": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/s26a.png",
+        "s970": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/s970.png",
+        "p13a": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/p13a.png",
+        "p28": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/p28.png"
     }
 }
