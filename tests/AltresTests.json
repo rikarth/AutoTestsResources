@@ -13396,6 +13396,870 @@
                     "correct": false
                 }
             ]
+        },
+        {
+            "id": "720bc367-20c9-4c2d-8c71-f5323fe9d67d",
+            "text": "¿Qué acción debe llevar a cabo el conductor que realiza un adelantamiento en relación con el coche adelantado?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Medir las distancias entre ambos vehículos",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Fijarse en todo momento en la velocidad del vehículo",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Comprobar que sus retrovisores estén bien reglados",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "e98341f9-e54f-414a-b5bf-01e71d4ea074",
+            "text": "¿Puede un automóvil privado circular por un carril taxi? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, únicamente pueden circular taxis",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, pero únicamente en caso de congestión del tráfico",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, puede circular siempre que lo desee",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5acaa3c1-70fc-4d6b-9fe1-8c829933ddf2",
+            "text": "El conductor de un turismo averiado debe colocar un solo dispositivo de preseñalización de peligro...",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "en calzadas de doble sentido.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "en calzadas con más de tres carriles.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "en calzadas de más de dos carriles.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "b5ad6f43-501c-4f98-9380-fd086d23665b",
+            "text": "¿Cómo se debe efectuar la detención de un vehículo que circula por una vía? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "De manera suave y progresiva.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "De manera suave y rápida en el tiempo.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "De manera rápida y brusca.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "e64c3410-c3fb-4948-b9ca-7468eaea6af4",
+            "text": "¿Qué indican dos líneas transversales, discontinuas y paralelas? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Paso para peatones",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Carril adicional",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Paso para ciclistas",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "8e57741c-06d8-4b45-872b-2dac5b1dd067",
+            "text": "¿Qué medida debemos adoptar ante la aparición de un viento lateral?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Detener el vehículo hasta que el viento se detenga del todo.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Aumentar la velocidad.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Reducir la velocidad.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "123fb6a4-6d1a-4cab-a662-4d63a276fe78",
+            "text": "¿Deben los conductores de ambulancia llevar cinturón de seguridad dentro de poblado circulando en servicio urgente?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, están exentos de llevarlo tanto el conductor como los pasajeros",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Estará obligado a llevarlo el conductor, pero no los pasajeros",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, es obligatorio que todos lo lleven",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5e060ea7-4177-4d2e-8981-6caa92f9a721",
+            "text": "¿Qué forma tiene la señal vertical que indica fin de prioridad de paso de los vehículos de esa calzada sobre los demás? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Octogonal",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Romboide",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Circular",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "61afa1d9-9dad-4949-9f0d-44c7693aef62",
+            "text": "¿De qué tipo es la señal que prohíbe el acceso a motocicletas en una vía? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Señales de dirección",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Señales de indicación",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Señales de prohibición de entrada",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "49322eed-e2f2-41a1-9bce-1b689d8b3f23",
+            "text": "¿Es obligatorio ponerse el chaleco reflectante en caso de accidente en horas diurnas? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, pero únicamente en vías urbanas",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, siempre",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "08acda19-aa07-4735-93df-be0dd83940e6",
+            "text": "¿Qué prohíbe la marca vial de línea amarilla en zigzag junto al bordillo de la vía? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Estacionamiento.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Parada.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Parada y estacionamiento.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "088b57f6-b356-4d35-9491-aad9573608ca",
+            "text": "¿En qué lugar se deberá colocar la placa de matrícula delantera si no pudiera ir colocada en el lugar habilitada para ello?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Únicamente en su lado derecho",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "En su lado izquierdo o en la parte superior",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "En su lado izquierdo o derecho",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "c6f0c9ee-624a-43b1-ba0d-3036f4ac0dff",
+            "text": "¿Deberán llevar el cinturón de seguridad las personas que acompañen a un aprendiz en autopista?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No será necesario si tiene control de los pedales.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, es obligatorio.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Únicamente será necesario en autovías pero no en autopistas.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "875df2e0-34e1-4304-9db5-843f35ac6d8e",
+            "text": "¿Qué separación mínima mantendrán los vehículos especiales con los vehículos que les precedan?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "150 metros",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "100 metros",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "50 metros",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "1a879a6b-8e99-45a7-b3f5-e3054364bb6c",
+            "text": "¿Qué se debe realizar tras observar el tráfico para hacer una maniobra de parada u estacionamiento? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Ejecutar la maniobra.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Finalizar la maniobra.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Señalizar la maniobra.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "b57c31e8-f0d7-462a-be2e-78236d0dae59",
+            "text": "Un vehículo de bomberos circula en servicio urgente ¿deberemos obedecer las indicaciones de los agentes?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, si no se pone en peligro a ningún usuario de la vía.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No, bajo su responsabilidad.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Sí, siempre.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "792167b3-fdba-4245-95e6-c88e4f6b4c31",
+            "text": "¿Ha de ceder el paso en la próxima intersección? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": "p2",
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Si, a los vehículos que se acerquen por la izquierda.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí, a los vehículos que se acerquen por la derecha.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "No, a ningún vehículo.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "c6c928c7-ac1c-4107-ba5b-64298c2701de",
+            "text": "¿Cuál de éstos NO es un mando de mano en un vehículo a motor? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "El pedal de embrague",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "El freno de estacionamiento",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "El volante",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "407227d5-f2b8-4e9d-a6b6-46a646f5d471",
+            "text": "¿Cuál es la principal finalidad de las señales de reglamentación? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Indicar a los conductores sus obligaciones en la vía",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Indicar a los conductores que aumenten la observancia",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Indicar a los conductores que deben conducir por la izquierda",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "19903b42-a505-426f-a42f-1521a65facc9",
+            "text": "En un camión de longitud inferior a 5 metros, una carga indivisible no podrá sobresalir más de... ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "2 metros por delante y 3 metros por detrás",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Un tercio de la longitud del vehículo tanto por delante como por detrás",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Un tercio de la longitud del vehículo tanto por delante como por detrás",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "73970d40-9aa4-4262-a72f-0b2b5fdb9e4f",
+            "text": "¿Cuántas luces de frenado debe llevar una motocicleta? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Dos o tres",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Dos obligatoriamente",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Una o dos",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "97dc3598-bff1-45e7-b87f-ea1e11656866",
+            "text": "Aún es de día, pero ya se ha puesto el sol. ¿Qué luces debe encender?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Las de corto alcance o de cruce.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Está prohibido encender las luces cuando es de día.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Basta con las de posición.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "478583de-d810-4d56-88a5-ae4c2f47b332",
+            "text": "¿Por qué los frenos de disco se calientan menos que los frenos de tambor? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Porque se encuentran muy ventilados",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Porque la frenada con éste freno es brusca y poco progresiva",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Porque su superfície de fricción es mucho mayor",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "693fa136-72d9-49ca-b7e3-4211ffdb7c9f",
+            "text": "¿Cuál de las siguientes técnicas utilizaremos para restablecer la circulación sanguínea del herido? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Técnica de ventilación pulmonar.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Técnica de reanimación cardio-pulmonar.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Técnica de boca a boca.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "cabdc46f-16fb-4ccb-a769-c6e0b456c91d",
+            "text": "¿Están obligados todos los automóviles a llevar una rueda de repuesto y las herramientas indispensables para su cambio? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sólo cuando su M.M.A es superior a 3.500 kilogramos.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "6181c477-4c84-4543-8747-a43ebd446e2b",
+            "text": "Cuando dos vehículos tomen una curva y llevan la luz de largo alcance encendida, ¿cuál de los dos vehículos tiene que cambiarla primero por la de corto alcance?",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Ninguno de los dos debe sustituir las luces de largo alcance",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "El que deja la curva a su derecha",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "El que deja la curva a su izquierda",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "0039d99f-ef90-4a9d-a764-675818850888",
+            "text": "¿Qué hay que hacer si se revienta una rueda del eje delantero? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Frenar bruscamente.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Acelerar rápidamente hasta la siguiente estación de servicio.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Rebajar la velocidad con suavidad.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "dc2cae60-36f9-45f5-9a1e-23224e344e7b",
+            "text": "Los conductores de los vehículos prioritarios que circulen en servicio urgente...",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "obedecerán a los semáforos.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "procurarán no vulnerar la prioridad de paso en las intersecciones.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "están exentos de cumplir cualquier norma de circulación.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "e3e0b061-4d45-42c6-aded-49991ad4067f",
+            "text": "¿En qué lugares es opcional la luz de gálibo trasera? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "En las cabinas con bastidor",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "En las furgonetas",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "En las cabinas sin bastidor",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "10a9bfff-b7cf-4f4e-9658-f87c36f30676",
+            "text": "Un niño de doce años que mide más de 150 centímetros de altura, ¿qué asientos puede ocupar en un turismo? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Tanto el delantero como los traseros. ",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "El delantero, con preferencia sobre los asientos traseros.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Solamente los traseros.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "de554138-ec4d-499c-ae3d-5625e9e6bb9e",
+            "text": "Para mejorar la visibilidad por una nube de humo o polvo, ¿qué iluminación debe utilizar? ",
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "La de posición y la de corto alcance siempre.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Obligatoriamente la de posición y la antiniebla delantera.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "La de posición y la antiniebla trasera.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "55ca5506-3f43-4ac9-8342-dc7569a89c09",
+            "text": null,
+            "category": "Tests",
+            "group": "57",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": null,
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": null,
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": null,
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
         }
     ],
     "assets": {
@@ -13440,6 +14304,7 @@
         "r104": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/r104.png",
         "s970": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/s970.png",
         "p13a": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/p13a.png",
-        "p28": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/p28.png"
+        "p28": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/p28.png",
+        "p2": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/p2.png"
     }
 }
