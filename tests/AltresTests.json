@@ -14236,26 +14236,458 @@
         },
         {
             "id": "55ca5506-3f43-4ac9-8342-dc7569a89c09",
-            "text": null,
+            "text": "¿Cómo se debe encontrar la espalda del conductor en el respaldo?",
             "category": "Tests",
             "group": "57",
             "imageKey": null,
             "options": [
                 {
                     "id": "1",
-                    "text": null,
+                    "text": "Recostada unos 30 cm",
                     "imageKey": null,
                     "correct": false
                 },
                 {
                     "id": "2",
-                    "text": null,
+                    "text": "Totalmente vertical",
                     "imageKey": null,
                     "correct": false
                 },
                 {
                     "id": "3",
-                    "text": null,
+                    "text": "Menos vertical en la zona lumbar que en la parte alta",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "09b18cb3-04d5-4c46-a60d-e62d647ecfbe",
+            "text": "En un paso a nivel, ¿Qué debe hacer si la barrera está a punto de subir?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Detenerse detrás de los demás vehículos, hasta que la barrera suba totalmente y permita el paso.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Pasar cuando, por la altura, la barrera lo permita.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Pasar cuando lo hagan el resto de vehículos, se mueva o no la barrera.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "64e22c1b-65f2-4ae8-b395-1377d2102386",
+            "text": "¿Qué instrumento hay que poner en las ruedas al pincharse una de ellas, para que estén equilibradas?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Un calzo",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Un talón",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Un talón",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "47173f22-3ca2-4f97-9e3b-926a4aa86071",
+            "text": "Conducir en un carril en sentido contrario al habitual… ",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Obliga en todo caso a encender la luz de cruce.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "No implica ningún límite de velocidad.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Está permitido exclusivamente a los automóviles.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "c5b247e2-7ed9-48e3-a9de-fa8d1cc782f9",
+            "text": "¿Cuál es la distancia ideal a la que debe ponerse respecto del airbag?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "25 centímetros.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "5 centímetros.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "La distancia que le permita conducir en una postura cómoda.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "79a22212-289f-4ba0-96f3-135b3c17210c",
+            "text": "¿Qué significa la señal de brazo extendido horizontalmente realizada por un agente de circulación?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Obligación a todos los vehículos de ceder el paso.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Obligación a todos los vehículos de disminuir la velocidad.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Obligación de que se detengan aquellos vehículos que corten la dirección indicada por el brazo.",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "ace862c1-edc7-4858-bd28-77db0f7b80ae",
+            "text": "¿Cuál es la función de la carcasa en la cubierta de un neumático? ",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Soportar la carga con la ayuda de la presión de inflado",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Fijar el neumático a la llanta",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Proporcionar adherencia con suelo seco y mojado",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "5eac840c-5788-4f12-bc26-4e4b057a7e81",
+            "text": "¿Están los vehículos de tres ruedas obligados a llevar la luz indicadora de dirección?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Únicamente en vías fuera de poblado",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Si",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "No",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "d24ce138-67ea-4176-887e-c6d574349376",
+            "text": "Una de las técnicas de visión en la conducción preventiva consiste en...",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "acostumbrarse a los deslumbramientos.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "mirar a lo lejos, a los lados y por los retrovisores.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "instalar espejos panorámicos.",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "9adcfd67-4b88-4452-bc91-e1367de93116",
+            "text": "¿Dónde se anotan las inspecciones ITV de un vehículo para su correcto control?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No será necesario anotar el resultado en ningún lugar",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "En el permiso de conducción",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "En el Registro de Vehículos de la DGT",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "3b2aa958-fda9-46f9-985b-49e13b5d8f81",
+            "text": "Ante la lluvia ¿qué debe hacer un conductor por lo que se refiere a la velocidad?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Mantener la velocidad alta para no afectar a la seguridad del resto de usuarios",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Aumentar la velocidad para evitar el aquaplanning",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Reducir la velocidad sobretodo en las curvas",
+                    "imageKey": null,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "0806f59b-38bb-4f2f-949a-e029dc4a52a5",
+            "text": "¿Cómo debe ser la luz de marcha atrás?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No deslumbrante y no visible",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "No deslumbrante y visible",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "Deslumbrante y visible",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "d4597e26-de74-4f13-a216-1696a68f8355",
+            "text": "¿Qué nombre recibe el instrumento utilizado por los agentes para inmovilizar vehículos cuando no cuenten con el ticket de estacionamiento limitado correspondiente?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Cepo",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "No existe ningún instrumento para inmovilizar un vehículo por parte de los agentes",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Celada",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "04c6453e-777a-4274-afce-563eec238149",
+            "text": "En un tramo de vía con la señal “túnel” ¿está permitido cambiar de sentido?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "ESBORRAR",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "1d917b19-4b8f-4923-ad75-34f0a8d09f51",
+            "text": "La conducción bajo los efectos del alcohol o de las drogas, ¿está considerada delito en el código penal?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "No, las sanciones son exclusivamente económicas.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "La conducción bajo los efectos del alcohol no, la conducción bajo los efectos de las drogas sí. ",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "650cada1-6b12-4556-bd00-fab388710cc0",
+            "text": "¿Qué elemento determinará como debe cederse el paso a un vehículo prioritario?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "Las circunstancias del tráfico",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "Los agentes de circulación",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "3",
+                    "text": "Las señales de tráfico",
+                    "imageKey": null,
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "9668d3ca-0ebe-4e4e-b1da-aab18541b6c6",
+            "text": "¿Es obligatorio apagar las luces al llenar el depósito de una motocicleta?",
+            "category": "Practicatest",
+            "group": "Més freqüents",
+            "imageKey": null,
+            "options": [
+                {
+                    "id": "1",
+                    "text": "No, hay que dejar encendida la luz de corto alcance.",
+                    "imageKey": null,
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "Sí.",
+                    "imageKey": null,
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "No, hay que dejar encendida la luz de estacionamiento.",
                     "imageKey": null,
                     "correct": false
                 }
