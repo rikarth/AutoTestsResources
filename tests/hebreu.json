@@ -1,0 +1,363 @@
+{
+	"title": "English",
+	"description": "",
+	"maxQuestions": "10",
+	"maxErrors": "5",
+	"multipleChoice": false,
+	"questions": [
+		{
+			"id": "821c8ff5-3da1-4812-9e60-9a74bd5c0356",
+			"text": "Quin color és el negre?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "black-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "שחור",
+					"clue": "שָׁחוֹר",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "2",
+					"text": "אפור",
+					"clue": "אָפוֹר",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "3",
+					"text": "אדום",
+					"clue": "אָדוֹם",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "98f948c2-6868-4827-a25b-814434fc49b8",
+			"text": "Quin color és el blau?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "blue-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "סגול",
+					"clue": "סָגוֹל",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "2",
+					"text": "כחול",
+					"clue": "כָּחוֹל",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "3",
+					"text": "צהוב",
+					"clue": "צָהוֹב",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "292c2b5b-1ae2-467e-b86b-0f7ceea15801",
+			"text": "Quin color és el marró?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "brown-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "זהב",
+					"clue": "זָהָב",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "2",
+					"text": "לבן",
+					"clue": "לָבָן",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "3",
+					"text": "חום",
+					"clue": "חוּם",
+					"imageKey": null,
+					"correct": true
+				}
+			]
+		},
+		{
+			"id": "80ab5e14-c1b3-442a-a82b-df135a70d1bd",
+			"text": "Quin color és el gris?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "gray-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "ורוד",
+					"clue": "וָרוֹד",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "2",
+					"text": "ירוק",
+					"clue": "יָרוֹק",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "3",
+					"text": "אפור",
+					"clue": "אָפוֹר",
+					"imageKey": null,
+					"correct": true
+				}
+			]
+		},
+		{
+			"id": "400769bd-cb96-4671-af36-13aab2d65760",
+			"text": "Quin color és el verd?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "green-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "צהוב",
+					"clue": "צָהוֹב",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "2",
+					"text": "ירוק",
+					"clue": "יָרוֹק",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "3",
+					"text": "אפור",
+					"clue": "אָפוֹר",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "b1d19824-a6d0-4250-866a-2ad64ad84b77",
+			"text": "Quin color és el taronja?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "orange-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "כתום",
+					"clue": "כָּתוֹם",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "2",
+					"text": "כחול",
+					"clue": "כָּחוֹל",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "3",
+					"text": "סגול",
+					"clue": "סָגוֹל",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "b1d19824-a6d0-4250-866a-2ad64ad84b77",
+			"text": "Quin color és el rosa?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "pink-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "ורוד",
+					"clue": "וָרוֹד",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "2",
+					"text": "ירוק",
+					"clue": "יָרוֹק",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "3",
+					"text": "אדום",
+					"clue": "אָדוֹם",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "d2c6847b-e788-46b3-acd2-9ddb09997476",
+			"text": "Quin color és el porpra o morat?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "orange-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "ארגמן",
+					"clue": "אַרְגָּמָן",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "2",
+					"text": "אדום",
+					"clue": "אָדוֹם",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "3",
+					"text": "כתום",
+					"clue": "כָּתוֹם",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "3c450060-f028-4a19-8af1-121a0446711d",
+			"text": "Quin color és el vermell?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "red-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "אפור",
+					"clue": "אָפוֹר",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "2",
+					"text": "אדום",
+					"clue": "אָדוֹם",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "3",
+					"text": "כתום",
+					"clue": "כָּתוֹם",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "a440da33-1872-48f6-8d40-b573416cc85b",
+			"text": "Quin color és el blanc?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "white-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "חום",
+					"clue": "חוּם",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "2",
+					"text": "לבן",
+					"clue": "לָבָן",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "3",
+					"text": "זהב",
+					"clue": "זָהָב",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "22e638fe-bbdf-4b91-96a4-306cafe00f9e",
+			"text": "Quin color és el groc?",
+			"category": "Adjectius",
+			"group": "Colors",
+			"imageKey": "yellow-min",
+			"type": "singleChoice",
+			"options": [{
+					"id": "1",
+					"text": "כתום",
+					"clue": "כָּתוֹם",
+					"imageKey": null,
+					"correct": false
+				},
+				{
+					"id": "2",
+					"text": "צהוב",
+					"clue": "צָהוֹב",
+					"imageKey": null,
+					"correct": true
+				},
+				{
+					"id": "3",
+					"text": "זהב",
+					"clue": "זָהָב",
+					"imageKey": null,
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": "075854e0-530b-4c78-80a9-0d9a5bebe306",
+			"text": "גבוה",
+			"clue": "גָּבֹהַּ",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["tall", "high", "alt"]
+		}
+
+	],
+	"assets": {
+		"black-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/black-min.png",
+		"blue-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/blue-min.png",
+		"brown-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/brown-min.png",
+		"gray-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/gray-min.png",
+		"green-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/green-min.png",
+		"orange-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/orange-min.png",
+		"pink-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/pink-min.png",
+		"purple-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/purple-min.png",
+		"red-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/red-min.png",
+		"white-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/white-min.png",
+		"yellow-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/yellow-min.png",
+		"black": "#000000"
+	}
+}
