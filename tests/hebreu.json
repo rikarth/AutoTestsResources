@@ -12,7 +12,8 @@
 			"group": "Colors",
 			"imageKey": "black-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "שחור",
 					"clue": "שָׁחוֹר",
@@ -42,7 +43,8 @@
 			"group": "Colors",
 			"imageKey": "blue-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "סגול",
 					"clue": "סָגוֹל",
@@ -72,7 +74,8 @@
 			"group": "Colors",
 			"imageKey": "brown-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "זהב",
 					"clue": "זָהָב",
@@ -102,7 +105,8 @@
 			"group": "Colors",
 			"imageKey": "gray-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "ורוד",
 					"clue": "וָרוֹד",
@@ -132,7 +136,8 @@
 			"group": "Colors",
 			"imageKey": "green-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "צהוב",
 					"clue": "צָהוֹב",
@@ -162,7 +167,8 @@
 			"group": "Colors",
 			"imageKey": "orange-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "כתום",
 					"clue": "כָּתוֹם",
@@ -192,7 +198,8 @@
 			"group": "Colors",
 			"imageKey": "pink-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "ורוד",
 					"clue": "וָרוֹד",
@@ -222,7 +229,8 @@
 			"group": "Colors",
 			"imageKey": "orange-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "ארגמן",
 					"clue": "אַרְגָּמָן",
@@ -252,7 +260,8 @@
 			"group": "Colors",
 			"imageKey": "red-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "אפור",
 					"clue": "אָפוֹר",
@@ -282,7 +291,8 @@
 			"group": "Colors",
 			"imageKey": "white-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "חום",
 					"clue": "חוּם",
@@ -312,7 +322,8 @@
 			"group": "Colors",
 			"imageKey": "yellow-min",
 			"type": "singleChoice",
-			"options": [{
+			"options": [
+				{
 					"id": "1",
 					"text": "כתום",
 					"clue": "כָּתוֹם",
@@ -343,8 +354,427 @@
 			"group": "Qualificatius",
 			"type": "input",
 			"correct": ["tall", "high", "alt"]
+		},
+		{
+			"id": "37a32332-54fb-4e06-8bed-60686535f799",
+			"text": "1 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["אחת", "אַחַת"]
+		},
+		{
+			"id": "533e1629-b129-43d5-b345-0628297ceab4",
+			"text": "2 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שתיים", "שְׁתַּיִם"]
+		},
+		{
+			"id": "ebcdeb0c-a0b1-4de0-b444-ac26e1064b82",
+			"text": "3 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שלוש", "שָׁלוֹשׁ"]
+		},
+		{
+			"id": "95c6489e-3ad5-492b-b769-6bc478d8c47f",
+			"text": "4 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["ארבע", "אַרְבַּע"]
+		},
+		{
+			"id": "4a174a21-9f2a-42ef-9328-3078ace41f99",
+			"text": "5 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["חמש", "חָמֵשׂ"]
+		},
+		{
+			"id": "ad610655-c887-47ba-80e0-c824b490ec1f",
+			"text": "6 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שש", "שֵׁשׁ"]
+		},
+		{
+			"id": "1c9a472f-b549-4321-81ad-fe252ac23bf3",
+			"text": "7 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שבע", "שֶׁבַע"]
+		},
+		{
+			"id": "000ef354-1feb-4ec0-867b-0b16a81ef13c",
+			"text": "8 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שמונה", "שְׁמוֹנֶה"]
+		},
+		{
+			"id": "f57f42d9-f510-46dc-acbe-6ef95ac37900",
+			"text": "9 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["תשע", "תֶּשַׁע"]
+		},
+		{
+			"id": "f711ed3c-0eae-4dc5-9897-4ffb3d983014",
+			"text": "10 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["עשר", "עֶשֶׂר"]
+		},
+		{
+			"id": "ca9cbac0-178c-447d-aa0b-560e4fd2418f",
+			"text": "0",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["אפס", "אֶפֶס"]
+		},
+		{
+			"id": "7a818c93-a507-499c-b7d1-cafdffe60b0b",
+			"text": "1 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["אחד", "אֶחָד"]
+		},
+		{
+			"id": "ac4752ff-cd25-4537-9443-0dfc0c184bab",
+			"text": "2 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שניים", "שְׁנַיִם"]
+		},
+		{
+			"id": "90271ad3-488f-4f54-9b24-7ff041536efb",
+			"text": "3 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שלושה", "שְׁלוֹשָׁה"]
+		},
+		{
+			"id": "3a5a57ff-1ee6-4823-98a3-e5a07b52365c",
+			"text": "4 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["ארבעה", "אַרְבָּעָה"]
+		},
+		{
+			"id": "93d3afcc-7f6c-4612-8f65-48b3a4fa4bfc",
+			"text": "5 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["חמישה", "חֲמִשָּׁה"]
+		},
+		{
+			"id": "f7c0180d-64c7-45cc-866f-42bc1b68680e",
+			"text": "6 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שישה", "שִׁשָּׁה"]
+		},
+		{
+			"id": "a8e36ee0-94af-4770-bb39-fa2a29c66db4",
+			"text": "7 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שבעה", "שִׁבְעָה"]
+		},
+		{
+			"id": "43c340db-a0e3-4e14-8c1d-c8a15d794cf6",
+			"text": "8 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שמונה", "שְׁמוֹנָה"]
+		},
+		{
+			"id": "72b3b0ee-b5b0-4b41-b0e2-9a5c63966e1d",
+			"text": "9 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["תשעה", "תִּשְׁעָה"]
+		},
+		{
+			"id": "8172af4f-2efa-4e9f-9236-14fd2a61e32e",
+			"text": "10 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["עשרה", "עֲשָׂרָה"]
+		},
+		{
+			"id": "16300cbc-511b-4020-9015-8c6f0d29f6b2",
+			"text": "11 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["אחת עשרה", "אַחַת עֶשְׂרֵה"]
+		},
+		{
+			"id": "fe23fb07-ec7b-442d-8f2d-3f583dab1825",
+			"text": "11 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["אחד עשר", "אַחַד עָשָׂר"]
+		},
+		{
+			"id": "82c43186-da3d-4f18-9792-77569cfc5113",
+			"text": "12 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": [
+				"שתים עשרה",
+				"שתיים עשרה",
+				"שתי עשרה",
+				"שְׁתֵּים עֶשְׂרֵה",
+				"שְׁתֵּי עֶשְׂרֵה"
+			]
+		},
+		{
+			"id": "d32e1ebf-ed05-4f06-80df-aedc9b76bd05",
+			"text": "12 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": [
+				"שנים עשר",
+				"שניים עשר",
+				"שני עשר",
+				"שְׁנֵים עָשָׂר",
+				"שְׁנֵי עָשָׂר"
+			]
+		},
+		{
+			"id": "db4cae3c-3fa8-4a06-85ad-4b098eeb0319",
+			"text": "13 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שלוש עשרה", "שְׁלוֹשְׁ עֶשְׂרֵה"]
+		},
+		{
+			"id": "4535e1ef-7f6c-40aa-8cd2-fe08bd7c6ccb",
+			"text": "13 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שלושה עשר", "שְׁלוֹשָׁה עָשָׂר"]
+		},
+		{
+			"id": "be3066cc-c091-4581-969b-b3ac1622efc8",
+			"text": "14 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["ארבע עשרה", "אַרְבַּע עֶשְׂרֵה"]
+		},
+		{
+			"id": "04bf794e-9015-4c57-836a-56fca35d5c88",
+			"text": "14 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["ארבעה עשר", "אַרְבָּעָה עָשָׂר"]
+		},
+		{
+			"id": "9924ea91-b74b-4e0b-90de-d085d1d1266a",
+			"text": "15 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["חמש עשרה", "חַמֵשׁ עֶשְׂרֵה"]
+		},
+		{
+			"id": "70137297-6450-4f8c-a940-0444f9976450",
+			"text": "15 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["חמשה עשר", "חֲמִשָּׁה עָשָׂר"]
+		},
+		{
+			"id": "1ad5b9b9-c58c-437f-b151-3d5da06050d3",
+			"text": "16 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שש עשרה", "שֵׁשׁ עֶשְׂרֵה"]
+		},
+		{
+			"id": "0a0de99c-614a-43e4-9407-4a0dae673604",
+			"text": "16 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שישה עשר", "שִׁשָׁה עָשָׂר"]
+		},
+		{
+			"id": "d07885a8-f3d0-439f-95fe-4460741e4f7d",
+			"text": "17 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שבע עשרה", "שְׁבַע עֶשְׂרֵה"]
+		},
+		{
+			"id": "3bf3f52f-998e-4eca-b5cd-a74c214bb446",
+			"text": "17 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שבעה עשר", "שִׁבְעָה עָשָׂר"]
+		},
+		{
+			"id": "031c0a9d-e1cc-4a3e-9a42-96048deb5faa",
+			"text": "18 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שמונה עשרה", "שְׁמוֹנֶה עֶשְׂרֵה"]
+		},
+		{
+			"id": "5600b445-0008-46a7-8094-35a3fd6a6197",
+			"text": "18 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שמונה עשר", "שְׁמוֹנָה עָשָׂר"]
+		},
+		{
+			"id": "034fea0b-0f81-44c1-96a1-e581b5bd164e",
+			"text": "19 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["תשע עשרה", "תְּשַׁע עֶשְׂרֵה"]
+		},
+		{
+			"id": "8b951afb-d8a4-4d0f-8442-9903cafa7d46",
+			"text": "19 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["תשעה עשר", "תִּשְׁעָה עָשָׂר"]
+		},
+		{
+			"id": "863764d9-f729-44ad-9d3b-640246f76535",
+			"text": "20",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["עשרים", "עֶשְׁרִים"]
+		},
+		{
+			"id": "2192dba0-6537-4bdb-856f-4c6513e7693e",
+			"text": "30",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שלושים", "שְׁלוֹשִׁים"]
+		},
+		{
+			"id": "9cb4cde7-fc84-4b59-8f22-940567550132",
+			"text": "40",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["ארבעים", "אַרְבָּעִים"]
+		},
+		{
+			"id": "37787d7a-cd49-4c27-9d2f-88bc3debb1df",
+			"text": "50",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["חמישים", "חֲמִשִּׁים"]
+		},
+		{
+			"id": "f38cc173-26b8-452d-8856-eb541117ff5c",
+			"text": "60",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שישים", "שִׁשִּׁים"]
+		},
+		{
+			"id": "dcd718e9-802f-44fd-ade3-848fe121ff79",
+			"text": "70",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שבעים", "שִׁבְעִים"]
+		},
+		{
+			"id": "f5df0356-180a-4384-9563-8f8707b6b133",
+			"text": "80",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שמונים", "שְׁמֹנִים", "שְׁמוֹנִים"]
+		},
+		{
+			"id": "15e8cbea-b437-47ad-a251-9a5db3023bf3",
+			"text": "90",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["תשעים", "תִּשְׁעִים"]
+		},
+		{
+			"id": "239045b6-b1e2-48b5-8f3b-8dbe09c5eec9",
+			"text": "100",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["מאה", "מֵאָה"]
+		},
+		{
+			"id": "e6e354b0-031b-435a-81ca-6f914fc9121b",
+			"text": "200",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["מאתיים", "מָאתַיִם"]
+		},
+		{
+			"id": "67b4a9ae-1f8e-4beb-adb3-6db132366902",
+			"text": "21 (f)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["עשרים ואחת", "עֶשְׁרִים וְאַחַת"]
+		},
+		{
+			"id": "974fe67e-511c-45ba-97f7-cdd4eb3c6faf",
+			"text": "21 (m)",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["עשרים ואחד", "עֶשְׁרִים וְאַחַד"]
 		}
-
 	],
 	"assets": {
 		"black-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/black-min.png",
