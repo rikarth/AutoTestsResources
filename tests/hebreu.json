@@ -966,6 +966,14 @@
 			"group": "Demostratius",
 			"type": "input",
 			"correct": ["אלה", "אֵלֶּה"]
+		},
+		{
+			"id": "a21cee85-0fbe-40cb-8d2b-5605768de1a7",
+			"text": "Què és això?",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["מה זה?", "מָה זֵה?"]
 		}
 	],
 	"assets": {
