@@ -760,6 +760,86 @@
 			"correct": ["מאתיים", "מָאתַיִם"]
 		},
 		{
+			"id": "418da1fc-fdb1-4335-a21b-31d4ebdfe58f",
+			"text": "300",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שלוש מאות", "שְׁלוֹשׁ מֵאוֹת"]
+		},
+		{
+			"id": "ca35c082-1891-45c5-b271-6496fdd338c8",
+			"text": "400",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["ארבע מאות", "אַרְבַּע מֵאוֹת"]
+		},
+		{
+			"id": "53177dd5-b124-4841-9bc1-d697b22a2d43",
+			"text": "500",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["חמש מאות", "חַמֵשׁ מֵאוֹת"]
+		},
+		{
+			"id": "425ada49-f827-4eb2-94ff-551f58a0b05a",
+			"text": "600",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שש מאות", "שֵׁשׁ מֵאוֹת"]
+		},
+		{
+			"id": "3a983891-de31-4eae-93a4-68536e0ddf0b",
+			"text": "700",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שבע מאות", "שֶׁבַע מֵאוֹת"]
+		},
+		{
+			"id": "42cefec6-d0f8-4ab7-b8be-215ba2d9ab13",
+			"text": "800",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["שמונה מאות", "שְׁמֹנֶה מֵאוֹת", "שְׁמוֹנֶה מֵאוֹת"]
+		},
+		{
+			"id": "ba70441d-9d6c-4d73-8105-91ddbe21d14b",
+			"text": "900",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["תשע מאות", "תְּשַׁע מֵאוֹת"]
+		},
+		{
+			"id": "c16e2bea-d4b6-478b-be85-c8c7ab8ba7eb",
+			"text": "1000",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["אלף", "אֶלֶף"]
+		},
+		{
+			"id": "11a017ef-6f7d-4e19-86ee-1993c82fcbb4",
+			"text": "2000",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["אלפיים", "אַלְפַּיִם"]
+		},
+		{
+			"id": "11b9dc80-17d2-4fa7-92a2-57a0a5455258",
+			"text": "10000",
+			"category": "Numerals",
+			"group": "Cardinals",
+			"type": "input",
+			"correct": ["רבוא", "רִבּוֹא", "רבבה", "רְבָבָה", "עשרת אלפים"]
+		},
+		{
 			"id": "67b4a9ae-1f8e-4beb-adb3-6db132366902",
 			"text": "21 (f)",
 			"category": "Numerals",
@@ -774,6 +854,118 @@
 			"group": "Cardinals",
 			"type": "input",
 			"correct": ["עשרים ואחד", "עֶשְׁרִים וְאַחַד"]
+		},
+		{
+			"id": "eaf24d88-a301-48af-8923-fda69bc9bd6c",
+			"text": "amb",
+			"category": "Preposicions",
+			"group": "Independents",
+			"type": "input",
+			"correct": ["עם", "עִם"]
+		},
+		{
+			"id": "a6e6a4bc-7429-4977-ac15-76b83197603c",
+			"text": "Sobre (al damunt)",
+			"category": "Preposicions",
+			"group": "Independents",
+			"type": "input",
+			"correct": ["על", "עַל"]
+		},
+		{
+			"id": "ddeda675-cfa7-409d-a3a5-39cd6b1b5bcb",
+			"text": "Fins (fins a...)",
+			"category": "Preposicions",
+			"group": "Independents",
+			"type": "input",
+			"correct": ["עד", "עַד"]
+		},
+		{
+			"id": "531f8482-7b24-4892-8a08-242e7cb6889f",
+			"text": "Cap a",
+			"category": "Preposicions",
+			"group": "Independents",
+			"type": "input",
+			"correct": ["אל", "אֶל"]
+		},
+		{
+			"id": "0694ea17-155d-4e2e-b36f-674f0e10965a",
+			"text": "Entre",
+			"category": "Preposicions",
+			"group": "Independents",
+			"type": "input",
+			"correct": ["בין", "בֵּיִן"]
+		},
+		{
+			"id": "a4b88c89-0bac-4454-ae4f-d18754078980",
+			"text": "i",
+			"category": "Conjuncions",
+			"group": "Copulatives",
+			"type": "input",
+			"correct": ["-ו", "-וְ"]
+		},
+		{
+			"id": "3627dfb5-6fd2-4a20-9c7c-051ec5b06632",
+			"text": "Llavors",
+			"category": "Adverbis",
+			"group": "",
+			"type": "input",
+			"correct": ["אז", "אָז"]
+		},
+		{
+			"id": "f96f8b84-1df1-444b-8d70-75ad5f56aeea",
+			"text": "O",
+			"category": "Conjuncions",
+			"group": "Adversatives",
+			"type": "input",
+			"correct": ["או", "אוֹ"]
+		},
+		{
+			"id": "724f7d69-c930-48c0-bd06-9d2fedd5ea1d",
+			"text": "ja que, perquè",
+			"category": "Conjuncions",
+			"group": "Causals",
+			"type": "input",
+			"correct": ["כי", "כִּי"]
+		},
+		{
+			"id": "04182cfa-c754-4f00-9a41-97d9826036d9",
+			"text": "Qui(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי", "מִי"]
+		},
+		{
+			"id": "1a97f84b-11a6-4068-a77c-bb1f52ffaa0c",
+			"text": "Què? Quin?",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מה", "מָה"]
+		},
+		{
+			"id": "b0443233-7420-4015-b180-4ce7ee8f9480",
+			"text": "Aquest",
+			"category": "Pronoms",
+			"group": "Demostratius",
+			"type": "input",
+			"correct": ["זה", "זֵה"]
+		},
+		{
+			"id": "f1e1b28a-6fb6-4e24-a6bd-9ba5a2397fdd",
+			"text": "Aquesta",
+			"category": "Pronoms",
+			"group": "Demostratius",
+			"type": "input",
+			"correct": ["זאת", "זאֹת"]
+		},
+		{
+			"id": "2f105c7a-ca33-4356-ba3b-d1f9ae1dfb39",
+			"text": "Aquests, aquestes",
+			"category": "Pronoms",
+			"group": "Demostratius",
+			"type": "input",
+			"correct": ["אלה", "אֵלֶּה"]
 		}
 	],
 	"assets": {
