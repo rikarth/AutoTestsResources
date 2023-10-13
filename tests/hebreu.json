@@ -1105,6 +1105,57 @@
 			"type": "input",
 			"imageKey": "beer",
 			"correct": ["בירה", "בִּירָה"]
+		},
+		{
+			"id": "4ec0c2da-db52-44a7-8bd7-b0e63a4dc92c",
+			"text": "Te",
+			"category": "Noms - Aliments",
+			"group": "Begudes",
+			"type": "input",
+			"imageKey": "tea",
+			"correct": ["תה", "תֵּה"]
+		},
+		{
+			"id": "6fbb8ea4-5b7e-445d-a8a4-5d4bd6f8a960",
+			"text": "Formatge",
+			"category": "Noms - Aliments",
+			"group": "Menjar",
+			"type": "input",
+			"imageKey": "cheese",
+			"correct": ["גבינה", "גְּבִינָה"]
+		},
+		{
+			"id": "3e2406a7-8061-4827-a2b9-810f293501af",
+			"text": "Carn",
+			"category": "Noms - Aliments",
+			"group": "Menjar",
+			"type": "input",
+			"imageKey": "meat",
+			"correct": ["בשר", "בָּשָָׂר"]
+		},
+		{
+			"id": "43c1a23f-1b8c-480c-aee1-379954118f44",
+			"text": "Arròs",
+			"category": "Noms - Aliments",
+			"group": "Menjar",
+			"type": "input",
+			"correct": ["אורז", "אוֹרֶז", "אֹרֶז"]
+		},
+		{
+			"id": "fc466dc0-f93f-47e8-92fa-e004f1cc41cd",
+			"text": "Salsa",
+			"category": "Noms - Aliments",
+			"group": "Menjar",
+			"type": "input",
+			"correct": ["רוטב", "רוֹטֶב"]
+		},
+		{
+			"id": "147768cc-b829-4f64-8fb4-04eda504f192",
+			"text": "Sopa",
+			"category": "Noms - Aliments",
+			"group": "Menjar",
+			"type": "input",
+			"correct": ["מרק", "מָרָק"]
 		}
 	],
 	"assets": {
@@ -1130,6 +1181,9 @@
 		"water": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/water.png",
 		"milk": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/milk.png",
 		"coffee": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/coffee.png",
-		"beer": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/beer.png"
+		"beer": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/beer.png",
+		"tea": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/tea.png",
+		"cheese": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/cheese.png",
+		"meat": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/meat.png"
 	}
 }
