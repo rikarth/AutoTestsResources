@@ -1104,7 +1104,7 @@
 			"group": "Begudes",
 			"type": "input",
 			"imageKey": "beer",
-			"correct": ["בירה ", "בִּירָה"]
+			"correct": ["בירה", "בִּירָה"]
 		}
 	],
 	"assets": {
