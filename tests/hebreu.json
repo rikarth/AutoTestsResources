@@ -192,7 +192,7 @@
 			]
 		},
 		{
-			"id": "b1d19824-a6d0-4250-866a-2ad64ad84b77",
+			"id": "2f8afbb7-a65d-47a4-8d1e-9a7248f2f7ce",
 			"text": "Quin color és el rosa?",
 			"category": "Adjectius",
 			"group": "Colors",
@@ -901,7 +901,7 @@
 			"category": "Conjuncions",
 			"group": "Copulatives",
 			"type": "input",
-			"correct": ["-ו", "-וְ"]
+			"correct": ["ו-", "וְ-"]
 		},
 		{
 			"id": "3627dfb5-6fd2-4a20-9c7c-051ec5b06632",
@@ -974,6 +974,30 @@
 			"group": "",
 			"type": "input",
 			"correct": ["מה זה?", "מָה זֵה?"]
+		},
+		{
+			"id": "1b63ecea-0457-4844-b9d8-521682319c51",
+			"text": "Com(?)",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["איך", "אֵיך"]
+		},
+		{
+			"id": "dea02ae3-f5ea-42bf-8862-f908866a6b3d",
+			"text": "Quant(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["כמה", "כַּמָה"]
+		},
+		{
+			"id": "2c1832a2-dc8e-4486-b464-2cd68484dcdc",
+			"text": "Quan(?)",
+			"category": "Adverbis",
+			"group": "Temps",
+			"type": "input",
+			"correct": ["מתי", "מָתַי"]
 		}
 	],
 	"assets": {
