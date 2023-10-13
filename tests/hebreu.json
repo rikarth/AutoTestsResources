@@ -227,7 +227,7 @@
 			"text": "Quin color és el porpra o morat?",
 			"category": "Adjectius",
 			"group": "Colors",
-			"imageKey": "orange-min",
+			"imageKey": "purple-min",
 			"type": "singleChoice",
 			"options": [
 				{
@@ -998,6 +998,113 @@
 			"group": "Temps",
 			"type": "input",
 			"correct": ["מתי", "מָתַי"]
+		},
+		{
+			"id": "5d53c7b2-cb23-4737-9240-70235e13242c",
+			"text": "Poma",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"imageKey": "apple",
+			"correct": ["תפוח", "תַּפּוּחַ"]
+		},
+		{
+			"id": "9543be3f-2833-45fc-8a12-a9167f726d5b",
+			"text": "Albercoc",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"correct": ["משמש", "מִשְׁמֵשׁ"]
+		},
+		{
+			"id": "3f24a1ea-9ee0-418e-8fb4-2a9dee527cc1",
+			"text": "Banana",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"imageKey": "banana",
+			"correct": ["בננה", "בַּנָּנָה"]
+		},
+		{
+			"id": "7ae789d8-6f48-47b2-bbb5-83962be0c851",
+			"text": "Cirera",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"imageKey": "cherry",
+			"correct": ["דבדבן", "דֻּבְדְּבָן", "דּוּבְדְּבָן", "דובדבן"]
+		},
+		{
+			"id": "e1088fc3-97e9-4758-87ad-9de5f7b3a0ed",
+			"text": "Taronja",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"imageKey": "orange-fruit",
+			"correct": ["תפוז", "תַּפּוּז"]
+		},
+		{
+			"id": "419cd63f-bbbd-4533-988d-cfebf0a2cc48",
+			"text": "Madúixa",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"imageKey": "strawberry",
+			"correct": ["תות שדה", "תּוּת שָׂדֶה"]
+		},
+		{
+			"id": "767397ba-b15a-45b8-9920-e55ac72ff52d",
+			"text": "Pera",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"imageKey": "pear",
+			"correct": ["אגס", "אַגָּס"]
+		},
+		{
+			"id": "b8a8543c-94e9-4acd-96f5-c0741681176a",
+			"text": "Llimona",
+			"category": "Noms - Aliments",
+			"group": "Fruita",
+			"type": "input",
+			"imageKey": "lemon",
+			"correct": ["לימון", "לִימוֹן"]
+		},
+		{
+			"id": "d42af7ab-1042-4af8-aa5a-e5a5e82fd5e4",
+			"text": "Aigua",
+			"category": "Noms - Aliments",
+			"group": "Begudes",
+			"type": "input",
+			"imageKey": "water",
+			"correct": ["מים", "מַיִם"]
+		},
+		{
+			"id": "81688ccd-8360-4838-a302-b9aa24ea1e1a",
+			"text": "Llet",
+			"category": "Noms - Aliments",
+			"group": "Begudes",
+			"type": "input",
+			"imageKey": "milk",
+			"correct": ["חלב", "חָלָב"]
+		},
+		{
+			"id": "31b8becb-684c-4582-81b8-d8a4a7fb6ab4",
+			"text": "Cafè",
+			"category": "Noms - Aliments",
+			"group": "Begudes",
+			"type": "input",
+			"imageKey": "coffee",
+			"correct": ["קפה", "קָפֶה"]
+		},
+		{
+			"id": "59483b0d-b4f1-4fe4-9db6-dc1db9912388",
+			"text": "Cervesa",
+			"category": "Noms - Aliments",
+			"group": "Begudes",
+			"type": "input",
+			"imageKey": "beer",
+			"correct": ["בירה ", "בִּירָה"]
 		}
 	],
 	"assets": {
@@ -1012,6 +1119,17 @@
 		"red-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/red-min.png",
 		"white-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/white-min.png",
 		"yellow-min": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/colours/yellow-min.png",
-		"black": "#000000"
+		"black": "#000000",
+		"banana": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/banana.png",
+		"cherry": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/cherry.png",
+		"apple": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/apple.png",
+		"orange-fruit": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/orange-fruit.png",
+		"strawberry": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/strawberry.png",
+		"pear": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/pear.png",
+		"lemon": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/lemon.png",
+		"water": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/water.png",
+		"milk": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/milk.png",
+		"coffee": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/coffee.png",
+		"beer": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/beer.png"
 	}
 }
