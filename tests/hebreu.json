@@ -1500,6 +1500,158 @@
 			"group": "Família",
 			"type": "input",
 			"correct": ["דּוֹד", "דוד"]
+		},
+		{
+			"id": "9601142c-fc97-4b5f-824d-eeb0125b2be1",
+			"text": "D'acord / Molt bé / OK",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["בּסֵדֶר", "בסדר"]
+		},
+		{
+			"id": "0c6a4669-8b12-4645-94fb-b0327c18db33",
+			"text": "alt",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גבוה", "גָּבֹהַּ", "גָּבוֹהַּ"]
+		},
+		{
+			"id": "e01ad1a7-f6f2-4d5c-80c6-0d48ad532d97",
+			"text": "gran (masc) / gros",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גָדוֹל", "גדול"]
+		},
+		{
+			"id": "b5bc3128-44ff-47fc-8cc1-c562eac48915",
+			"text": "gran (fem) / grossa",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גְּדוֹלָה", "גדולה"]
+		},
+		{
+			"id": "4050ccee-85e2-4825-895e-71c59563c6b7",
+			"text": "grans (masc) / grossos",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גְּדוֹלִים", "גדולים"]
+		},
+		{
+			"id": "2addf824-6e37-4656-a916-fa3c596fafcc",
+			"text": "grans (fem) / grosses",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גְּדוֹלוֹת", "גדולות"]
+		},
+		{
+			"id": "7fd12360-780e-4036-92b7-1085cc01ed6e",
+			"text": "petit",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קָטָן", "קטן"]
+		},
+		{
+			"id": "7d1e690d-c83a-46e8-8262-0d184a6cde44",
+			"text": "petita",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קְטַנָּה", "קטנה"]
+		},
+		{
+			"id": "22256247-9270-41d8-91cc-5d5eb569111f",
+			"text": "petits",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קְטַנִּים", "קטנים"]
+		},
+		{
+			"id": "2f4e00c7-5aba-4fe9-aaed-7d64ded074db",
+			"text": "petites",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קְטַנּוֹת", "קטנות"]
+		},
+		{
+			"id": "9bb4c07d-5abd-4458-8aee-ac4017cc8e37",
+			"text": "Mica / Una mica / Poc",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["מְעַט", "מעט"]
+		},
+		{
+			"id": "bc90e09d-43c8-425d-98ee-eaafa52eb0e3",
+			"text": "Molt",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["הַרְבֵּה", "הרבה"]
+		},
+		{
+			"id": "429fa234-2218-438a-a250-ef50063a7cdc",
+			"text": "Molt",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["מְאוֹד", "מאוד"]
+		},
+		{
+			"id": "e6255966-f549-4476-be86-47d75b1c6939",
+			"text": "Molt",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["רַב", "רב"]
+		},
+		{
+			"id": "16f415d6-ccc2-4449-8467-f62cdaf76c58",
+			"text": "'Such'",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["כָּזֶה", "כזה"]
+		},
+		{
+			"id": "bd4c11b5-ea09-413a-940a-fcaddeadf296",
+			"text": "Aquell / Mateix",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתוֹ", "אותו"]
+		},
+		{
+			"id": "f1ade7d6-7da2-4690-9c4d-4611f1b07f45",
+			"text": "Aquella / Mateixa",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתָהּ", "אותה"]
+		},
+		{
+			"id": "dede71dd-bc05-40ac-a8d8-4b7ca7d4bf8b",
+			"text": "Aquells / Mateixos",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתָם", "אותם"]
+		},
+		{
+			"id": "d497b67d-ea3c-4e28-9476-fe3e06cdd427",
+			"text": "Aquelles / Mateixes",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתָן", "אותן"]
 		}
 	],
 	"assets": {
