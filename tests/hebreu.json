@@ -1156,6 +1156,350 @@
 			"group": "Menjar",
 			"type": "input",
 			"correct": ["מרק", "מָרָק"]
+		},
+		{
+			"id": "914144d0-4003-451e-94eb-e0fa4a344f94",
+			"text": "Diumenge",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום ראשון", "יוֹם רִאשׁוֹן"]
+		},
+		{
+			"id": "fde2eb93-f257-4c9a-a76c-1aea476d7325",
+			"text": "Dilluns",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום שני", "יוֹם שֵׁנִי"]
+		},
+		{
+			"id": "c75ca977-74dc-40a6-a05b-33ed931791c9",
+			"text": "Dimarts",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום שלישי", "יוֹם שְׁלִישִׁי"]
+		},
+		{
+			"id": "9994a5c5-4a46-4020-9a82-fd400578c8cd",
+			"text": "Dimecres",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום רביעי", "יוֹם רְבִיעִי"]
+		},
+		{
+			"id": "edc18c67-88fa-48cb-bc7b-2b6c7dd3a83b",
+			"text": "Dijous",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום חמישי", "יוֹם חֲמִישִׁי"]
+		},
+		{
+			"id": "946cfb16-5f2b-4fee-8ba2-e7fd7f72a9c9",
+			"text": "Divendres",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום שישי", "יוֹם שִׁישִׁי"]
+		},
+		{
+			"id": "764625f2-4b4e-4b7e-b4e4-9ce947f52c1c",
+			"text": "Dissabte",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["שבת", "שַׁבָּת"]
+		},
+		{
+			"id": "19108463-5015-4f96-91f9-13c06a9ddb34",
+			"text": "Ahir",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["אֶתְמוֹל", "אתמול"]
+		},
+		{
+			"id": "191435f1-9b91-464d-8baa-63eeb56d7b48",
+			"text": "Avui",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["היום", "הַיֹוֹם"]
+		},
+		{
+			"id": "d075f5b4-4f47-4bce-94a5-b80aaf887838",
+			"text": "Demà",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["מָחָר", "מחר"]
+		},
+		{
+			"id": "9462bb39-1689-4b45-8f04-ceedc4872bed",
+			"text": "Dia de la setmana (feiner)",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["יוֹם חוֹל", "יום חול"]
+		},
+		{
+			"id": "e16bb451-609d-4bd0-9aef-9166bb4f1ab0",
+			"text": "Cap de setmana",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["סוֹף שָׁבוּעַ", "סוף שבוע"]
+		},
+		{
+			"id": "fc044186-fc11-41c6-b32b-be1fe9829034",
+			"text": "Setmana",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["שבוע", "שָׁבוּעַ"]
+		},
+		{
+			"id": "77a0e73b-de15-4dbe-9f7e-e3ef1e2ff5f5",
+			"text": "Dia",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["יוֹם", "יום"]
+		},
+		{
+			"id": "400c1def-bb10-4567-849c-d3ce82fdb26d",
+			"text": "Mes",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["חֹדֶשׁ", "חוֹדֶשׁ", "חודש"]
+		},
+		{
+			"id": "2cd18213-59e8-4961-9d1e-bd9e9277c9b0",
+			"text": "Any",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["שָׁנָה", "שנה"]
+		},
+		{
+			"id": "147ccb1d-be79-4408-b0ef-d4f0f851ebe3",
+			"text": "Dies de la setmana",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["יְמֵי הַשָּׁבוּעַ", "ימי השבוע"]
+		},
+		{
+			"id": "79bd1f68-a303-4f8b-b8b3-35fa878d275b",
+			"text": "Temps",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["זמן", "זְמַן"]
+		},
+		{
+			"id": "11c39c54-a680-4216-883a-fc75b0622fb2",
+			"text": "Data",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["תאריך", "תַּאֲרִיך"]
+		},
+		{
+			"id": "69a06123-014b-447f-9269-f2ea60a4fe78",
+			"text": "Tarda/Vespre",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["ערב", "עֶרֶב"]
+		},
+		{
+			"id": "60717b14-ee29-489d-ac76-efd266b11ad2",
+			"text": "Matí",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["בּוֹקֶר", "בוקר"]
+		},
+		{
+			"id": "92de1bf5-4190-4426-9ecf-f94095fb5497",
+			"text": "Nit",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["לילה", "לַיְלָה"]
+		},
+		{
+			"id": "cf738fd6-f3e0-4258-97b9-c5549a2438a2",
+			"text": "Futur",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["עָתִיד", "עתיד"]
+		},
+		{
+			"id": "124db24a-fef0-4f7e-b4cb-e86e7aabcd88",
+			"text": "Passat",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["עָבָר", "עבר"]
+		},
+		{
+			"id": "c09a2722-05fe-4364-8338-3d7164878c3d",
+			"text": "Present",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["הוֹוֶה", "הווה"]
+		},
+		{
+			"id": "f6e107f3-09b6-476f-9233-04ac3dd1f41e",
+			"text": "Ara",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["עכשיו", "עַכְשָׁיו"]
+		},
+		{
+			"id": "",
+			"text": "Segon (temps)",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["שְׁנִיָיּה", "שְׁנִיָּה", "שנייה"]
+		},
+		{
+			"id": "c5b483eb-073f-4ded-980d-e3b7a80afb9e",
+			"text": "Moment / Instant",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["רֶגַע", "רגע"]
+		},
+		{
+			"id": "fc903997-13f6-4e59-b7fa-73099e2f4fa5",
+			"text": "Hora",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["שָׁעָה", "שעה"]
+		},
+		{
+			"id": "d69fc045-ee0e-4140-b7a8-699b62aa59d4",
+			"text": "Minut",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["דַקָּה", "דקה"]
+		},
+		{
+			"id": "c141ff7c-b0ef-4364-ae3e-f5279e3740bf",
+			"text": "Família",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["מִשְׁפָּחָה", "משפחה"]
+		},
+		{
+			"id": "eb64942d-03bf-4bd2-a016-387fdc94d308",
+			"text": "Tieta",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["דּוֹדָה", "דודה"]
+		},
+		{
+			"id": "d7fb5865-327a-4c85-a575-cdc3072e1c12",
+			"text": "Germà",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אח", "אָח"]
+		},
+		{
+			"id": "b005250e-fcef-43d2-ae43-b85d19a0a784",
+			"text": "Germana",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אָחוֹת", "אחות"]
+		},
+		{
+			"id": "066884cd-eb15-4884-a7d2-60b1f7d0b7e3",
+			"text": "Filla",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["בת", "בַּת"]
+		},
+		{
+			"id": "09ab377c-2012-42f0-8279-871c0afe1e1b",
+			"text": "Fill",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["בן", "בֵּן"]
+		},
+		{
+			"id": "42fb7709-97a2-4428-b151-6eaaaffc7e31",
+			"text": "Núvia / Jove (de sogra)",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["כַּלָה", "כלה"]
+		},
+		{
+			"id": "9527d9af-0c05-4d43-b8a9-79e3e4883bc1",
+			"text": "Mare",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אֵם", "אם"]
+		},
+		{
+			"id": "70226ab9-520a-4406-8705-893dc340f782",
+			"text": "Mama",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אִמָּא", "אימא", "אמא"]
+		},
+		{
+			"id": "b9003681-3a6b-4fea-90c4-f18dc286723b",
+			"text": "Pare",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אָב", "אב"]
+		},
+		{
+			"id": "7fa5f805-a8ca-4342-a28e-487f55d71e5c",
+			"text": "Papa (Pare)",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אַבָּא", "אבא"]
+		},
+		{
+			"id": "f711b6fc-ba32-413c-8717-a71efd5e9e5b",
+			"text": "Nuvi / Gendre",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["חָתָן", "חתן"]
+		},
+		{
+			"id": "79c6e964-e2ec-4f51-b845-e2cecf981902",
+			"text": "Tiet",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["דּוֹד", "דוד"]
 		}
 	],
 	"assets": {
