@@ -1608,7 +1608,7 @@
 		{
 			"id": "e6255966-f549-4476-be86-47d75b1c6939",
 			"text": "Molt",
-			"category": "",
+			"category": "Adjectius",
 			"group": "",
 			"type": "input",
 			"correct": ["רַב", "רב"]
@@ -1624,7 +1624,7 @@
 		{
 			"id": "bd4c11b5-ea09-413a-940a-fcaddeadf296",
 			"text": "Aquell / Mateix",
-			"category": "",
+			"category": "Adjectius",
 			"group": "",
 			"type": "input",
 			"correct": ["אוֹתוֹ", "אותו"]
@@ -1632,7 +1632,7 @@
 		{
 			"id": "f1ade7d6-7da2-4690-9c4d-4611f1b07f45",
 			"text": "Aquella / Mateixa",
-			"category": "",
+			"category": "Adjectius",
 			"group": "",
 			"type": "input",
 			"correct": ["אוֹתָהּ", "אותה"]
@@ -1640,7 +1640,7 @@
 		{
 			"id": "dede71dd-bc05-40ac-a8d8-4b7ca7d4bf8b",
 			"text": "Aquells / Mateixos",
-			"category": "",
+			"category": "Adjectius",
 			"group": "",
 			"type": "input",
 			"correct": ["אוֹתָם", "אותם"]
@@ -1648,10 +1648,138 @@
 		{
 			"id": "d497b67d-ea3c-4e28-9476-fe3e06cdd427",
 			"text": "Aquelles / Mateixes",
-			"category": "",
+			"category": "Adjectius",
 			"group": "",
 			"type": "input",
 			"correct": ["אוֹתָן", "אותן"]
+		},
+		{
+			"id": "9e1cf91d-7a3b-43f5-9e07-99feffe0ec22",
+			"text": "També",
+			"category": "Adverbis",
+			"group": "",
+			"type": "input",
+			"correct": ["גַּם", "גם"]
+		},
+		{
+			"id": "1e38b155-b0df-4e7e-bcbf-fbb8170d63ab",
+			"text": "Aquí",
+			"category": "Adverbis",
+			"group": "Lloc",
+			"type": "input",
+			"correct": ["הִינֵה", "הינה"]
+		},
+		{
+			"id": "d7cf5687-d29a-4433-9fc2-a665eeeb37ee",
+			"text": "Allà",
+			"category": "Adverbis",
+			"group": "Lloc",
+			"type": "input",
+			"correct": ["שָׁם", "שם"]
+		},
+		{
+			"id": "44016689-7065-4b0d-90cb-f661d1fb9634",
+			"text": "Bé / Bo",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["טוֹב", "טוב"]
+		},
+		{
+			"id": "2bc82676-cffb-4740-bd0c-396ff195fc7d",
+			"text": "Però",
+			"category": "Conjuncions",
+			"group": "",
+			"type": "input",
+			"correct": ["אֲבָל", "אבל"]
+		},
+		{
+			"id": "bbc6e0ea-874c-4eb0-82ae-c477e5971674",
+			"text": "Sí",
+			"category": "Adverbis",
+			"group": "Afirmatius",
+			"type": "input",
+			"correct": ["כֵּן", "כן"]
+		},
+		{
+			"id": "29477e2c-4193-4028-ba03-aa9117b7daea",
+			"text": "No",
+			"category": "Adverbis",
+			"group": "Negatius",
+			"type": "input",
+			"correct": ["לֹא", "לא"]
+		},
+		{
+			"id": "e02db8a3-2d47-40ab-be9c-8dcc5dcea53e",
+			"text": "Bé / D'acord / Correcte",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["נָכוֹן", "נכון"]
+		},
+		{
+			"id": "2d72e8c4-3c0f-4fce-8cb4-4ce7229e6f39",
+			"text": "Nou",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חָדָשׁ", "חדש"]
+		},
+		{
+			"id": "c0749262-a6bf-499c-8860-82921318c985",
+			"text": "Nova",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חֲדָשָׁה", "חדשה"]
+		},
+		{
+			"id": "547f6ea5-4fe7-4f6f-afd1-af1f402ebd54",
+			"text": "Nous",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חֲדָשִׁים", "חדשים"]
+		},
+		{
+			"id": "4a544190-4a79-4d8a-9d8a-3abf9434e04f",
+			"text": "Noves",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חֲדָשׁוֹת", "חדשות"]
+		},
+		{
+			"id": "2c838d6c-1b22-483d-a7fd-be0a14dcdd45",
+			"text": "Bonic",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפֶה", "יפה"]
+		},
+		{
+			"id": "5b67046a-3263-46b9-ab1c-0143a88acbdd",
+			"text": "Bonica",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפָה", "יפה"]
+		},
+		{
+			"id": "01e44433-58f1-483d-a30d-4c3354d520d4",
+			"text": "Bonics",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפִים", "יפים"]
+		},
+		{
+			"id": "75768841-ac9d-49a3-a6b5-42dc3568ceb9",
+			"text": "Boniques",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפוֹת", "יפות"]
 		}
 	],
 	"assets": {
