@@ -2042,6 +2042,38 @@
 			"group": "Interrogatius",
 			"type": "input",
 			"correct": ["מי ילדה טובה"]
+		},
+		{
+			"id": "df55f936-f90d-4c7e-b991-72782955640f",
+			"text": "vell (persona)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זָקֵן", "זקן"]
+		},
+		{
+			"id": "bcb5d18b-97e2-48e0-88d9-4f3888867812",
+			"text": "vella (persona)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זְקֵנָה", "זקנה"]
+		},
+		{
+			"id": "40290b6f-84be-4b2a-8ce5-7026b18237ac",
+			"text": "vells (persones)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זְקֵנִים", "זקנים"]
+		},
+		{
+			"id": "2fa32c4c-6a16-4125-88f5-353096f8b164",
+			"text": "velles (persones)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זְקֵנוֹת", "זקנות"]
 		}
 	],
 	"assets": {
