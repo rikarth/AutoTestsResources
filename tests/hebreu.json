@@ -1846,7 +1846,7 @@
 			"correct": ["אני מתל אביב", "אַנִי מִתֵּל אָבִיב"]
 		},
 		{
-			"id": "",
+			"id": "f0139ac4-37a4-4400-9e26-ec093a465f60",
 			"text": "06:00",
 			"category": "Noms - Temps",
 			"group": "Hores",
@@ -1855,7 +1855,7 @@
 			"correct": ["שֵׁשׁ בְּדִיּוּק", "שֵׁשׁ", "שש בדיוק", "שש"]
 		},
 		{
-			"id": "",
+			"id": "498b26e6-1e5e-459b-8a48-af3da1547194",
 			"text": "06:05",
 			"category": "Noms - Temps",
 			"group": "Hores",
@@ -1864,7 +1864,7 @@
 			"correct": ["שֵׁשׁ וְחָמֵשׁ", "שש וחמש"]
 		},
 		{
-			"id": "",
+			"id": "cb759470-3669-45b9-9ce0-2a9aee675e41",
 			"text": "06:15",
 			"category": "Noms - Temps",
 			"group": "Hores",
@@ -1873,7 +1873,7 @@
 			"correct": ["שֵׁשׁ וָרֶבַה", "שש ורבה"]
 		},
 		{
-			"id": "",
+			"id": "72bf0f83-319e-4755-9f13-679feb53852d",
 			"text": "06:30",
 			"category": "Noms - Temps",
 			"group": "Hores",
@@ -1882,7 +1882,7 @@
 			"correct": ["שֵׁשׁ וָחֵצִי", "שש וחצי"]
 		},
 		{
-			"id": "",
+			"id": "000de91f-4510-4474-a3b0-9fed2655c99f",
 			"text": "06:45",
 			"category": "Noms - Temps",
 			"group": "Hores",
@@ -1891,13 +1891,157 @@
 			"correct": ["שֵׁשׁ פָּחוֹת רֶבַע", "שש פחות רבע"]
 		},
 		{
-			"id": "",
+			"id": "0b47902e-1b53-4061-b0de-3ab061ea1c27",
 			"text": "10:10",
 			"category": "Noms - Temps",
 			"group": "Hores",
 			"type": "input",
 			"imageKey": "time_1010",
 			"correct": ["עֶשֶׂר וְעֶשֶׂר", "עשר ועשר"]
+		},
+		{
+			"id": "1822e402-5dfc-4957-88f1-b2b36412d464",
+			"text": "(un) llibre",
+			"category": "Articles",
+			"group": "Indeterminats",
+			"type": "input",
+			"correct": ["ספר"]
+		},
+		{
+			"id": "54f2a75e-7892-4e84-a29f-549cf1c34902",
+			"text": "(un) llibre gran",
+			"category": "Articles",
+			"group": "Indeterminats",
+			"type": "input",
+			"correct": ["ספר גדול"]
+		},
+		{
+			"id": "7458cc8e-f70b-419b-856b-301c1947d092",
+			"text": "El llibre gran",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הספר הגדול"]
+		},
+		{
+			"id": "d2aa76e9-6e33-4e29-a64c-846e0d393ea2",
+			"text": "El llibre és gran",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הספר גדול"]
+		},
+		{
+			"id": "f160d30e-e435-4320-9df5-65664a539b47",
+			"text": "(un) nen/infant bo",
+			"category": "Articles",
+			"group": "Indeterminats",
+			"type": "input",
+			"correct": ["ילד טוב"]
+		},
+		{
+			"id": "0e930ba7-4dbd-40c3-9188-a67a9a2ed08f",
+			"text": "El nen/infant bo",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הילד הטוב"]
+		},
+		{
+			"id": "1ccb401f-f12e-414d-8969-f7fc0287fa39",
+			"text": "El nen/infant és bo",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הילד טוב"]
+		},
+		{
+			"id": "e0783902-7e8e-4cac-bedc-e72837c21e77",
+			"text": "El nen/infant",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הילד"]
+		},
+		{
+			"id": "e5480eea-cf95-4721-abf7-07bd015c682c",
+			"text": "El llibre",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הספר"]
+		},
+		{
+			"id": "e03da154-94c8-49c7-a1f1-31ddea8b705c",
+			"text": "El petit",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הקטן"]
+		},
+		{
+			"id": "94fd31b8-4d38-4d26-af76-1d877f65de2f",
+			"text": "Avui",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["היום", "הַיֹוֹם"]
+		},
+		{
+			"id": "f4213106-1c59-4500-bfe5-b8a4d159f97f",
+			"text": "Aquest any",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["השנה"]
+		},
+		{
+			"id": "21b8719a-feff-41c6-b0a2-f2bf6b2dd5ff",
+			"text": "Aquesta nit",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הלילה"]
+		},
+		{
+			"id": "913b38f2-26d9-49e2-b8c5-96895c70360c",
+			"text": "Qui ets tu(?)(masc)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי אתה"]
+		},
+		{
+			"id": "04811e4d-0fac-4bd4-ab4b-6c2bb49b0280",
+			"text": "Qui ets tu(?)(fem)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי את"]
+		},
+		{
+			"id": "17a112ca-60a3-4578-9753-23f3d14a3257",
+			"text": "Qui és el nen(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי הילד"]
+		},
+		{
+			"id": "17a586c2-cb86-4a88-b5da-23806212431e",
+			"text": "Qui és gran(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי גדול"]
+		},
+		{
+			"id": "e22c16d1-46d7-412c-be8f-ae91ef6264d7",
+			"text": "Qui és una nena bona(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי ילדה טובה"]
 		}
 	],
 	"assets": {
