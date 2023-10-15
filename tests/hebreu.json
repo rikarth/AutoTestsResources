@@ -1503,7 +1503,7 @@
 		},
 		{
 			"id": "9601142c-fc97-4b5f-824d-eeb0125b2be1",
-			"text": "D'acord / Molt bé / OK",
+			"text": "D'acord / Bé / OK",
 			"category": "",
 			"group": "",
 			"type": "input",
@@ -1780,6 +1780,124 @@
 			"group": "",
 			"type": "input",
 			"correct": ["יָפוֹת", "יפות"]
+		},
+		{
+			"id": "1992002d-0fa1-4162-8f2b-d89bdcb83237",
+			"text": "Com et dius? (masc)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["איך קוראים לך?", "אֵיך קוֹרְאִים לְךָ?"]
+		},
+		{
+			"id": "210ffd6b-d4e0-445a-b4ee-939b262332ed",
+			"text": "Com et dius? (fem)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["איך קוראים לך?", "אֵיך קוֹרְאִים לָךְ?"]
+		},
+		{
+			"id": "457f1f17-4730-4f50-a482-cb416f3bec69",
+			"text": "Em dic(...)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["קוראים לי", "קוֹרְאִים לִי"]
+		},
+		{
+			"id": "c52fd620-b339-428e-8383-e27e542cfdb9",
+			"text": "Encantat / Molt de gust",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["נעים מאוד"]
+		},
+		{
+			"id": "27967b54-82c5-4dca-8e7c-3d8dec7f4d47",
+			"text": "Com estàs? / Com va?",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["מה נשמע?"]
+		},
+		{
+			"id": "546cb9d2-2afa-4ac9-9c6a-47bdd5a9668c",
+			"text": "D'on ets? (masc)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["מאיפה אתה?", "מֵאֵיפֹה אַתָּה?"]
+		},
+		{
+			"id": "24468e37-2fd3-423a-992b-a8e80e5fefcd",
+			"text": "D'on ets? (fem)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["מאיפה את?", "מֵאֵיפֹה אַתְּ?"]
+		},
+		{
+			"id": "f71ea80b-1f91-45a7-92e5-1fdf43dc43dc",
+			"text": "Sóc de Tel-Aviv",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["אני מתל אביב", "אַנִי מִתֵּל אָבִיב"]
+		},
+		{
+			"id": "",
+			"text": "06:00",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0600",
+			"correct": ["שֵׁשׁ בְּדִיּוּק", "שֵׁשׁ", "שש בדיוק", "שש"]
+		},
+		{
+			"id": "",
+			"text": "06:05",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0605",
+			"correct": ["שֵׁשׁ וְחָמֵשׁ", "שש וחמש"]
+		},
+		{
+			"id": "",
+			"text": "06:15",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0615",
+			"correct": ["שֵׁשׁ וָרֶבַה", "שש ורבה"]
+		},
+		{
+			"id": "",
+			"text": "06:30",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0630",
+			"correct": ["שֵׁשׁ וָחֵצִי", "שש וחצי"]
+		},
+		{
+			"id": "",
+			"text": "06:45",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0645",
+			"correct": ["", ""]
+		},
+		{
+			"id": "",
+			"text": "10:10",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_1010",
+			"correct": ["", ""]
 		}
 	],
 	"assets": {
@@ -1808,6 +1926,12 @@
 		"beer": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/beer.png",
 		"tea": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/tea.png",
 		"cheese": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/cheese.png",
-		"meat": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/meat.png"
+		"meat": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/meat.png",
+		"time_0600": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0600.png",
+		"time_0605": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0605.png",
+		"time_0615": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0615.png",
+		"time_0630": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0630.png",
+		"time_0645": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0645.png",
+		"time_1010": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_1010.png"
 	}
 }
