@@ -2221,7 +2221,7 @@
 		},
 		{
 			"id": "dbd08ff8-2521-48a2-aa8e-9258e6c65a80",
-			"text": "Difícil (fem)",
+			"text": "Difícils (fem)",
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
@@ -2257,7 +2257,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
-			"correct": ["רָעוֹת", "רָעות"]
+			"correct": ["רָעוֹת", "רעות"]
 		}
 	],
 	"assets": {
