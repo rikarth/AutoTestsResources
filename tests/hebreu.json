@@ -1156,6 +1156,924 @@
 			"group": "Menjar",
 			"type": "input",
 			"correct": ["מרק", "מָרָק"]
+		},
+		{
+			"id": "914144d0-4003-451e-94eb-e0fa4a344f94",
+			"text": "Diumenge",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום ראשון", "יוֹם רִאשׁוֹן"]
+		},
+		{
+			"id": "fde2eb93-f257-4c9a-a76c-1aea476d7325",
+			"text": "Dilluns",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום שני", "יוֹם שֵׁנִי"]
+		},
+		{
+			"id": "c75ca977-74dc-40a6-a05b-33ed931791c9",
+			"text": "Dimarts",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום שלישי", "יוֹם שְׁלִישִׁי"]
+		},
+		{
+			"id": "9994a5c5-4a46-4020-9a82-fd400578c8cd",
+			"text": "Dimecres",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום רביעי", "יוֹם רְבִיעִי"]
+		},
+		{
+			"id": "edc18c67-88fa-48cb-bc7b-2b6c7dd3a83b",
+			"text": "Dijous",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום חמישי", "יוֹם חֲמִישִׁי"]
+		},
+		{
+			"id": "946cfb16-5f2b-4fee-8ba2-e7fd7f72a9c9",
+			"text": "Divendres",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["יום שישי", "יוֹם שִׁישִׁי"]
+		},
+		{
+			"id": "764625f2-4b4e-4b7e-b4e4-9ce947f52c1c",
+			"text": "Dissabte",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["שבת", "שַׁבָּת"]
+		},
+		{
+			"id": "19108463-5015-4f96-91f9-13c06a9ddb34",
+			"text": "Ahir",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["אֶתְמוֹל", "אתמול"]
+		},
+		{
+			"id": "191435f1-9b91-464d-8baa-63eeb56d7b48",
+			"text": "Avui",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["היום", "הַיֹוֹם"]
+		},
+		{
+			"id": "d075f5b4-4f47-4bce-94a5-b80aaf887838",
+			"text": "Demà",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["מָחָר", "מחר"]
+		},
+		{
+			"id": "9462bb39-1689-4b45-8f04-ceedc4872bed",
+			"text": "Dia de la setmana (feiner)",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["יוֹם חוֹל", "יום חול"]
+		},
+		{
+			"id": "e16bb451-609d-4bd0-9aef-9166bb4f1ab0",
+			"text": "Cap de setmana",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["סוֹף שָׁבוּעַ", "סוף שבוע"]
+		},
+		{
+			"id": "fc044186-fc11-41c6-b32b-be1fe9829034",
+			"text": "Setmana",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["שבוע", "שָׁבוּעַ"]
+		},
+		{
+			"id": "77a0e73b-de15-4dbe-9f7e-e3ef1e2ff5f5",
+			"text": "Dia",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["יוֹם", "יום"]
+		},
+		{
+			"id": "400c1def-bb10-4567-849c-d3ce82fdb26d",
+			"text": "Mes",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["חֹדֶשׁ", "חוֹדֶשׁ", "חודש"]
+		},
+		{
+			"id": "2cd18213-59e8-4961-9d1e-bd9e9277c9b0",
+			"text": "Any",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["שָׁנָה", "שנה"]
+		},
+		{
+			"id": "147ccb1d-be79-4408-b0ef-d4f0f851ebe3",
+			"text": "Dies de la setmana",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["יְמֵי הַשָּׁבוּעַ", "ימי השבוע"]
+		},
+		{
+			"id": "79bd1f68-a303-4f8b-b8b3-35fa878d275b",
+			"text": "Temps",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["זמן", "זְמַן"]
+		},
+		{
+			"id": "11c39c54-a680-4216-883a-fc75b0622fb2",
+			"text": "Data",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["תאריך", "תַּאֲרִיך"]
+		},
+		{
+			"id": "69a06123-014b-447f-9269-f2ea60a4fe78",
+			"text": "Tarda/Vespre",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["ערב", "עֶרֶב"]
+		},
+		{
+			"id": "60717b14-ee29-489d-ac76-efd266b11ad2",
+			"text": "Matí",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["בּוֹקֶר", "בוקר"]
+		},
+		{
+			"id": "92de1bf5-4190-4426-9ecf-f94095fb5497",
+			"text": "Nit",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["לילה", "לַיְלָה"]
+		},
+		{
+			"id": "cf738fd6-f3e0-4258-97b9-c5549a2438a2",
+			"text": "Futur",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["עָתִיד", "עתיד"]
+		},
+		{
+			"id": "124db24a-fef0-4f7e-b4cb-e86e7aabcd88",
+			"text": "Passat",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["עָבָר", "עבר"]
+		},
+		{
+			"id": "c09a2722-05fe-4364-8338-3d7164878c3d",
+			"text": "Present",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["הוֹוֶה", "הווה"]
+		},
+		{
+			"id": "f6e107f3-09b6-476f-9233-04ac3dd1f41e",
+			"text": "Ara",
+			"category": "Noms - Temps",
+			"group": "Calendari",
+			"type": "input",
+			"correct": ["עכשיו", "עַכְשָׁיו"]
+		},
+		{
+			"id": "",
+			"text": "Segon (temps)",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["שְׁנִיָיּה", "שְׁנִיָּה", "שנייה"]
+		},
+		{
+			"id": "c5b483eb-073f-4ded-980d-e3b7a80afb9e",
+			"text": "Moment / Instant",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["רֶגַע", "רגע"]
+		},
+		{
+			"id": "fc903997-13f6-4e59-b7fa-73099e2f4fa5",
+			"text": "Hora",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["שָׁעָה", "שעה"]
+		},
+		{
+			"id": "d69fc045-ee0e-4140-b7a8-699b62aa59d4",
+			"text": "Minut",
+			"category": "Noms - Temps",
+			"group": "Dies",
+			"type": "input",
+			"correct": ["דַקָּה", "דקה"]
+		},
+		{
+			"id": "c141ff7c-b0ef-4364-ae3e-f5279e3740bf",
+			"text": "Família",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["מִשְׁפָּחָה", "משפחה"]
+		},
+		{
+			"id": "eb64942d-03bf-4bd2-a016-387fdc94d308",
+			"text": "Tieta",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["דּוֹדָה", "דודה"]
+		},
+		{
+			"id": "d7fb5865-327a-4c85-a575-cdc3072e1c12",
+			"text": "Germà",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אח", "אָח"]
+		},
+		{
+			"id": "b005250e-fcef-43d2-ae43-b85d19a0a784",
+			"text": "Germana",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אָחוֹת", "אחות"]
+		},
+		{
+			"id": "066884cd-eb15-4884-a7d2-60b1f7d0b7e3",
+			"text": "Filla",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["בת", "בַּת"]
+		},
+		{
+			"id": "09ab377c-2012-42f0-8279-871c0afe1e1b",
+			"text": "Fill",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["בן", "בֵּן"]
+		},
+		{
+			"id": "42fb7709-97a2-4428-b151-6eaaaffc7e31",
+			"text": "Núvia / Jove (de sogra)",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["כַּלָה", "כלה"]
+		},
+		{
+			"id": "9527d9af-0c05-4d43-b8a9-79e3e4883bc1",
+			"text": "Mare",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אֵם", "אם"]
+		},
+		{
+			"id": "70226ab9-520a-4406-8705-893dc340f782",
+			"text": "Mama",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אִמָּא", "אימא", "אמא"]
+		},
+		{
+			"id": "b9003681-3a6b-4fea-90c4-f18dc286723b",
+			"text": "Pare",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אָב", "אב"]
+		},
+		{
+			"id": "7fa5f805-a8ca-4342-a28e-487f55d71e5c",
+			"text": "Papa (Pare)",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["אַבָּא", "אבא"]
+		},
+		{
+			"id": "f711b6fc-ba32-413c-8717-a71efd5e9e5b",
+			"text": "Nuvi / Gendre",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["חָתָן", "חתן"]
+		},
+		{
+			"id": "79c6e964-e2ec-4f51-b845-e2cecf981902",
+			"text": "Tiet",
+			"category": "Noms - Família",
+			"group": "Família",
+			"type": "input",
+			"correct": ["דּוֹד", "דוד"]
+		},
+		{
+			"id": "9601142c-fc97-4b5f-824d-eeb0125b2be1",
+			"text": "D'acord / Bé / OK",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["בּסֵדֶר", "בסדר"]
+		},
+		{
+			"id": "0c6a4669-8b12-4645-94fb-b0327c18db33",
+			"text": "alt",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גבוה", "גָּבֹהַּ", "גָּבוֹהַּ"]
+		},
+		{
+			"id": "e01ad1a7-f6f2-4d5c-80c6-0d48ad532d97",
+			"text": "gran (masc) / gros",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גָדוֹל", "גדול"]
+		},
+		{
+			"id": "b5bc3128-44ff-47fc-8cc1-c562eac48915",
+			"text": "gran (fem) / grossa",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גְּדוֹלָה", "גדולה"]
+		},
+		{
+			"id": "4050ccee-85e2-4825-895e-71c59563c6b7",
+			"text": "grans (masc) / grossos",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גְּדוֹלִים", "גדולים"]
+		},
+		{
+			"id": "2addf824-6e37-4656-a916-fa3c596fafcc",
+			"text": "grans (fem) / grosses",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["גְּדוֹלוֹת", "גדולות"]
+		},
+		{
+			"id": "7fd12360-780e-4036-92b7-1085cc01ed6e",
+			"text": "petit",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קָטָן", "קטן"]
+		},
+		{
+			"id": "7d1e690d-c83a-46e8-8262-0d184a6cde44",
+			"text": "petita",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קְטַנָּה", "קטנה"]
+		},
+		{
+			"id": "22256247-9270-41d8-91cc-5d5eb569111f",
+			"text": "petits",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קְטַנִּים", "קטנים"]
+		},
+		{
+			"id": "2f4e00c7-5aba-4fe9-aaed-7d64ded074db",
+			"text": "petites",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קְטַנּוֹת", "קטנות"]
+		},
+		{
+			"id": "9bb4c07d-5abd-4458-8aee-ac4017cc8e37",
+			"text": "Mica / Una mica / Poc",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["מְעַט", "מעט"]
+		},
+		{
+			"id": "bc90e09d-43c8-425d-98ee-eaafa52eb0e3",
+			"text": "Molt",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["הַרְבֵּה", "הרבה"]
+		},
+		{
+			"id": "429fa234-2218-438a-a250-ef50063a7cdc",
+			"text": "Molt",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["מְאוֹד", "מאוד"]
+		},
+		{
+			"id": "e6255966-f549-4476-be86-47d75b1c6939",
+			"text": "Molt",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["רַב", "רב"]
+		},
+		{
+			"id": "16f415d6-ccc2-4449-8467-f62cdaf76c58",
+			"text": "'Such'",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["כָּזֶה", "כזה"]
+		},
+		{
+			"id": "bd4c11b5-ea09-413a-940a-fcaddeadf296",
+			"text": "Aquell / Mateix",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתוֹ", "אותו"]
+		},
+		{
+			"id": "f1ade7d6-7da2-4690-9c4d-4611f1b07f45",
+			"text": "Aquella / Mateixa",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתָהּ", "אותה"]
+		},
+		{
+			"id": "dede71dd-bc05-40ac-a8d8-4b7ca7d4bf8b",
+			"text": "Aquells / Mateixos",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתָם", "אותם"]
+		},
+		{
+			"id": "d497b67d-ea3c-4e28-9476-fe3e06cdd427",
+			"text": "Aquelles / Mateixes",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["אוֹתָן", "אותן"]
+		},
+		{
+			"id": "9e1cf91d-7a3b-43f5-9e07-99feffe0ec22",
+			"text": "També",
+			"category": "Adverbis",
+			"group": "",
+			"type": "input",
+			"correct": ["גַּם", "גם"]
+		},
+		{
+			"id": "1e38b155-b0df-4e7e-bcbf-fbb8170d63ab",
+			"text": "Aquí",
+			"category": "Adverbis",
+			"group": "Lloc",
+			"type": "input",
+			"correct": ["הִינֵה", "הינה"]
+		},
+		{
+			"id": "d7cf5687-d29a-4433-9fc2-a665eeeb37ee",
+			"text": "Allà",
+			"category": "Adverbis",
+			"group": "Lloc",
+			"type": "input",
+			"correct": ["שָׁם", "שם"]
+		},
+		{
+			"id": "44016689-7065-4b0d-90cb-f661d1fb9634",
+			"text": "Bé / Bo",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["טוֹב", "טוב"]
+		},
+		{
+			"id": "2bc82676-cffb-4740-bd0c-396ff195fc7d",
+			"text": "Però",
+			"category": "Conjuncions",
+			"group": "",
+			"type": "input",
+			"correct": ["אֲבָל", "אבל"]
+		},
+		{
+			"id": "bbc6e0ea-874c-4eb0-82ae-c477e5971674",
+			"text": "Sí",
+			"category": "Adverbis",
+			"group": "Afirmatius",
+			"type": "input",
+			"correct": ["כֵּן", "כן"]
+		},
+		{
+			"id": "29477e2c-4193-4028-ba03-aa9117b7daea",
+			"text": "No",
+			"category": "Adverbis",
+			"group": "Negatius",
+			"type": "input",
+			"correct": ["לֹא", "לא"]
+		},
+		{
+			"id": "e02db8a3-2d47-40ab-be9c-8dcc5dcea53e",
+			"text": "Bé / D'acord / Correcte",
+			"category": "",
+			"group": "",
+			"type": "input",
+			"correct": ["נָכוֹן", "נכון"]
+		},
+		{
+			"id": "2d72e8c4-3c0f-4fce-8cb4-4ce7229e6f39",
+			"text": "Nou",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חָדָשׁ", "חדש"]
+		},
+		{
+			"id": "c0749262-a6bf-499c-8860-82921318c985",
+			"text": "Nova",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חֲדָשָׁה", "חדשה"]
+		},
+		{
+			"id": "547f6ea5-4fe7-4f6f-afd1-af1f402ebd54",
+			"text": "Nous",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חֲדָשִׁים", "חדשים"]
+		},
+		{
+			"id": "4a544190-4a79-4d8a-9d8a-3abf9434e04f",
+			"text": "Noves",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["חֲדָשׁוֹת", "חדשות"]
+		},
+		{
+			"id": "2c838d6c-1b22-483d-a7fd-be0a14dcdd45",
+			"text": "Bonic",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפֶה", "יפה"]
+		},
+		{
+			"id": "5b67046a-3263-46b9-ab1c-0143a88acbdd",
+			"text": "Bonica",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפָה", "יפה"]
+		},
+		{
+			"id": "01e44433-58f1-483d-a30d-4c3354d520d4",
+			"text": "Bonics",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפִים", "יפים"]
+		},
+		{
+			"id": "75768841-ac9d-49a3-a6b5-42dc3568ceb9",
+			"text": "Boniques",
+			"category": "Adjectius",
+			"group": "",
+			"type": "input",
+			"correct": ["יָפוֹת", "יפות"]
+		},
+		{
+			"id": "1992002d-0fa1-4162-8f2b-d89bdcb83237",
+			"text": "Com et dius? (masc)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["איך קוראים לך?", "אֵיך קוֹרְאִים לְךָ?"]
+		},
+		{
+			"id": "210ffd6b-d4e0-445a-b4ee-939b262332ed",
+			"text": "Com et dius? (fem)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["איך קוראים לך?", "אֵיך קוֹרְאִים לָךְ?"]
+		},
+		{
+			"id": "457f1f17-4730-4f50-a482-cb416f3bec69",
+			"text": "Em dic(...)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["קוראים לי", "קוֹרְאִים לִי"]
+		},
+		{
+			"id": "c52fd620-b339-428e-8383-e27e542cfdb9",
+			"text": "Encantat / Molt de gust",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["נעים מאוד"]
+		},
+		{
+			"id": "27967b54-82c5-4dca-8e7c-3d8dec7f4d47",
+			"text": "Com estàs? / Com va?",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["מה נשמע?"]
+		},
+		{
+			"id": "546cb9d2-2afa-4ac9-9c6a-47bdd5a9668c",
+			"text": "D'on ets? (masc)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["מאיפה אתה?", "מֵאֵיפֹה אַתָּה?"]
+		},
+		{
+			"id": "24468e37-2fd3-423a-992b-a8e80e5fefcd",
+			"text": "D'on ets? (fem)",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["מאיפה את?", "מֵאֵיפֹה אַתְּ?"]
+		},
+		{
+			"id": "f71ea80b-1f91-45a7-92e5-1fdf43dc43dc",
+			"text": "Sóc de Tel-Aviv",
+			"category": "Frases",
+			"group": "",
+			"type": "input",
+			"correct": ["אני מתל אביב", "אַנִי מִתֵּל אָבִיב"]
+		},
+		{
+			"id": "f0139ac4-37a4-4400-9e26-ec093a465f60",
+			"text": "06:00",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0600",
+			"correct": ["שֵׁשׁ בְּדִיּוּק", "שֵׁשׁ", "שש בדיוק", "שש"]
+		},
+		{
+			"id": "498b26e6-1e5e-459b-8a48-af3da1547194",
+			"text": "06:05",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0605",
+			"correct": ["שֵׁשׁ וְחָמֵשׁ", "שש וחמש"]
+		},
+		{
+			"id": "cb759470-3669-45b9-9ce0-2a9aee675e41",
+			"text": "06:15",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0615",
+			"correct": ["שֵׁשׁ וָרֶבַה", "שש ורבה"]
+		},
+		{
+			"id": "72bf0f83-319e-4755-9f13-679feb53852d",
+			"text": "06:30",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0630",
+			"correct": ["שֵׁשׁ וָחֵצִי", "שש וחצי"]
+		},
+		{
+			"id": "000de91f-4510-4474-a3b0-9fed2655c99f",
+			"text": "06:45",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_0645",
+			"correct": ["שֵׁשׁ פָּחוֹת רֶבַע", "שש פחות רבע"]
+		},
+		{
+			"id": "0b47902e-1b53-4061-b0de-3ab061ea1c27",
+			"text": "10:10",
+			"category": "Noms - Temps",
+			"group": "Hores",
+			"type": "input",
+			"imageKey": "time_1010",
+			"correct": ["עֶשֶׂר וְעֶשֶׂר", "עשר ועשר"]
+		},
+		{
+			"id": "1822e402-5dfc-4957-88f1-b2b36412d464",
+			"text": "(un) llibre",
+			"category": "Articles",
+			"group": "Indeterminats",
+			"type": "input",
+			"correct": ["ספר"]
+		},
+		{
+			"id": "54f2a75e-7892-4e84-a29f-549cf1c34902",
+			"text": "(un) llibre gran",
+			"category": "Articles",
+			"group": "Indeterminats",
+			"type": "input",
+			"correct": ["ספר גדול"]
+		},
+		{
+			"id": "7458cc8e-f70b-419b-856b-301c1947d092",
+			"text": "El llibre gran",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הספר הגדול"]
+		},
+		{
+			"id": "d2aa76e9-6e33-4e29-a64c-846e0d393ea2",
+			"text": "El llibre és gran",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הספר גדול"]
+		},
+		{
+			"id": "f160d30e-e435-4320-9df5-65664a539b47",
+			"text": "(un) nen/infant bo",
+			"category": "Articles",
+			"group": "Indeterminats",
+			"type": "input",
+			"correct": ["ילד טוב"]
+		},
+		{
+			"id": "0e930ba7-4dbd-40c3-9188-a67a9a2ed08f",
+			"text": "El nen/infant bo",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הילד הטוב"]
+		},
+		{
+			"id": "1ccb401f-f12e-414d-8969-f7fc0287fa39",
+			"text": "El nen/infant és bo",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הילד טוב"]
+		},
+		{
+			"id": "e0783902-7e8e-4cac-bedc-e72837c21e77",
+			"text": "El nen/infant",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הילד"]
+		},
+		{
+			"id": "e5480eea-cf95-4721-abf7-07bd015c682c",
+			"text": "El llibre",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הספר"]
+		},
+		{
+			"id": "e03da154-94c8-49c7-a1f1-31ddea8b705c",
+			"text": "El petit",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הקטן"]
+		},
+		{
+			"id": "94fd31b8-4d38-4d26-af76-1d877f65de2f",
+			"text": "Avui",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["היום", "הַיֹוֹם"]
+		},
+		{
+			"id": "f4213106-1c59-4500-bfe5-b8a4d159f97f",
+			"text": "Aquest any",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["השנה"]
+		},
+		{
+			"id": "21b8719a-feff-41c6-b0a2-f2bf6b2dd5ff",
+			"text": "Aquesta nit",
+			"category": "Articles",
+			"group": "Determinats",
+			"type": "input",
+			"correct": ["הלילה"]
+		},
+		{
+			"id": "913b38f2-26d9-49e2-b8c5-96895c70360c",
+			"text": "Qui ets tu(?)(masc)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי אתה"]
+		},
+		{
+			"id": "04811e4d-0fac-4bd4-ab4b-6c2bb49b0280",
+			"text": "Qui ets tu(?)(fem)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי את"]
+		},
+		{
+			"id": "17a112ca-60a3-4578-9753-23f3d14a3257",
+			"text": "Qui és el nen(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי הילד"]
+		},
+		{
+			"id": "17a586c2-cb86-4a88-b5da-23806212431e",
+			"text": "Qui és gran(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי גדול"]
+		},
+		{
+			"id": "e22c16d1-46d7-412c-be8f-ae91ef6264d7",
+			"text": "Qui és una nena bona(?)",
+			"category": "Pronoms",
+			"group": "Interrogatius",
+			"type": "input",
+			"correct": ["מי ילדה טובה"]
+		},
+		{
+			"id": "df55f936-f90d-4c7e-b991-72782955640f",
+			"text": "vell (persona)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זָקֵן", "זקן"]
+		},
+		{
+			"id": "bcb5d18b-97e2-48e0-88d9-4f3888867812",
+			"text": "vella (persona)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זְקֵנָה", "זקנה"]
+		},
+		{
+			"id": "40290b6f-84be-4b2a-8ce5-7026b18237ac",
+			"text": "vells (persones)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זְקֵנִים", "זקנים"]
+		},
+		{
+			"id": "2fa32c4c-6a16-4125-88f5-353096f8b164",
+			"text": "velles (persones)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["זְקֵנוֹת", "זקנות"]
 		}
 	],
 	"assets": {
@@ -1184,6 +2102,12 @@
 		"beer": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/beer.png",
 		"tea": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/tea.jpg",
 		"cheese": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/cheese.png",
-		"meat": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/meat.png"
+		"meat": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/meat.png",
+		"time_0600": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0600.png",
+		"time_0605": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0605.png",
+		"time_0615": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0615.png",
+		"time_0630": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0630.png",
+		"time_0645": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0645.png",
+		"time_1010": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_1010.png"
 	}
 }
