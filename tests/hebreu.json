@@ -2074,6 +2074,190 @@
 			"group": "Qualificatius",
 			"type": "input",
 			"correct": ["זְקֵנוֹת", "זקנות"]
+		},
+		{
+			"id": "e00bbdc8-2e55-421a-9ff3-c089550e3c70",
+			"text": "llest",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["חָכָם", "חכם"]
+		},
+		{
+			"id": "2cb11bb1-d726-473c-98af-fd7a5acfea62",
+			"text": "llesta",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["חֲכָמָה", "חכמה"]
+		},
+		{
+			"id": "4f4b67a2-3f88-4709-8eaf-9a4db339376c",
+			"text": "llestos",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["חֲכָמִים", "חכמים"]
+		},
+		{
+			"id": "2b65fb6e-8df1-4741-8b95-6c403e04c014",
+			"text": "llestes",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["חֲכָמוֹת", "חכמות"]
+		},
+		{
+			"id": "c93a451b-6b20-45c1-8de9-4c754f5ffed2",
+			"text": "nerviós, irritable",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["עַצְבָּנִי", "עצבני"]
+		},
+		{
+			"id": "9d6fed4a-02ce-4ff0-80f0-b83f3e887410",
+			"text": "nerviosa, irritable",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["עַצְבָּנִית", "עצבנית"]
+		},
+		{
+			"id": "fda7a80d-163a-431e-b183-87ac7489fc49",
+			"text": "nerviosos, irritables",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["עַצְבְּנִיִּים", "עצבניים"]
+		},
+		{
+			"id": "104d1ecc-4001-4419-8013-1d1db94f3dcb",
+			"text": "nervioses, irritables",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["עַצְבְּנִיּוֹת", "עצבניות"]
+		},
+		{
+			"id": "7fa935ad-eeed-4974-a302-d3a888b9f654",
+			"text": "Blanc",
+			"category": "Adjectius",
+			"group": "Colors",
+			"type": "input",
+			"correct": ["לָבָן", "לבן"]
+		},
+		{
+			"id": "9b2b2f29-6779-445e-805d-a28bd887f8e0",
+			"text": "Blanca",
+			"category": "Adjectius",
+			"group": "Colors",
+			"type": "input",
+			"correct": ["לְבָנָה", "לבנה"]
+		},
+		{
+			"id": "00a6ae31-6036-458e-ac8f-2d54aca2adcb",
+			"text": "Blancs",
+			"category": "Adjectius",
+			"group": "Colors",
+			"type": "input",
+			"correct": ["לְבָנִים", "לבנים"]
+		},
+		{
+			"id": "0c843bf9-569e-41b9-b904-2ffd4cb95b7c",
+			"text": "Blanques",
+			"category": "Adjectius",
+			"group": "Colors",
+			"type": "input",
+			"correct": ["לְבָנוֹת", "לבנות"]
+		},
+		{
+			"id": "f19c6b0a-ecb5-4cf1-b380-eaa2b36d3a14",
+			"text": "Bona",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["טוֹבָה", "טובה"]
+		},
+		{
+			"id": "eee2dcb9-b498-440c-a3ef-568e971baf3f",
+			"text": "Bons",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["טוֹבִים", "טובים"]
+		},
+		{
+			"id": "7c377547-f56d-4aea-8b93-61653d1aa1c1",
+			"text": "Bones",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["טוֹבוֹת", "טובות"]
+		},
+		{
+			"id": "b4d87f1b-786a-4137-b360-3b08a59faec0",
+			"text": "Difícil (masc)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קָשֶׁה", "קשה"]
+		},
+		{
+			"id": "441d7626-47dc-440c-8575-e764df20aee5",
+			"text": "Difícil (fem)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קָשָׁה", "קשה"]
+		},
+		{
+			"id": "4b3cd334-6b79-4f08-ae94-debc3f70776f",
+			"text": "Difícils (masc)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קָשִׁים", "קשים"]
+		},
+		{
+			"id": "dbd08ff8-2521-48a2-aa8e-9258e6c65a80",
+			"text": "Difícil (fem)",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["קָשׁוֹת", "קשות"]
+		},
+		{
+			"id": "ea43546d-b534-4cc4-92f1-544a79121a72",
+			"text": "Dolent",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["רַע", "רע"]
+		},
+		{
+			"id": "9980b619-51ee-48af-ac13-e56890c479c0",
+			"text": "Dolenta",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["רָעָה", "רעה"]
+		},
+		{
+			"id": "1e800a00-15c2-459e-9ff3-c4cbd5e3085e",
+			"text": "Dolents",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["רָעִים", "רעים"]
+		},
+		{
+			"id": "de48d0ac-14c7-4396-b033-0ee1fa701d47",
+			"text": "Dolentes",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"correct": ["רָעוֹת", "רָעות"]
 		}
 	],
 	"assets": {
