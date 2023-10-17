@@ -361,6 +361,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["אחת", "אַחַת"]
 		},
 		{
@@ -369,6 +370,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שתיים", "שְׁתַּיִם"]
 		},
 		{
@@ -377,6 +379,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שלוש", "שָׁלוֹשׁ"]
 		},
 		{
@@ -385,6 +388,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["ארבע", "אַרְבַּע"]
 		},
 		{
@@ -393,6 +397,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["חמש", "חָמֵשׂ"]
 		},
 		{
@@ -401,6 +406,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שש", "שֵׁשׁ"]
 		},
 		{
@@ -409,6 +415,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שבע", "שֶׁבַע"]
 		},
 		{
@@ -417,6 +424,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שמונה", "שְׁמוֹנֶה"]
 		},
 		{
@@ -425,6 +433,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["תשע", "תֶּשַׁע"]
 		},
 		{
@@ -433,6 +442,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["עשר", "עֶשֶׂר"]
 		},
 		{
@@ -441,6 +451,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["אפס", "אֶפֶס"]
 		},
 		{
@@ -449,6 +460,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["אחד", "אֶחָד"]
 		},
 		{
@@ -457,6 +469,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שניים", "שְׁנַיִם"]
 		},
 		{
@@ -465,6 +478,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שלושה", "שְׁלוֹשָׁה"]
 		},
 		{
@@ -473,6 +487,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["ארבעה", "אַרְבָּעָה"]
 		},
 		{
@@ -481,6 +496,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["חמישה", "חֲמִשָּׁה"]
 		},
 		{
@@ -489,6 +505,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שישה", "שִׁשָּׁה"]
 		},
 		{
@@ -497,6 +514,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שבעה", "שִׁבְעָה"]
 		},
 		{
@@ -505,6 +523,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["שמונה", "שְׁמוֹנָה"]
 		},
 		{
@@ -513,6 +532,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["תשעה", "תִּשְׁעָה"]
 		},
 		{
@@ -521,6 +541,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 2,
 			"correct": ["עשרה", "עֲשָׂרָה"]
 		},
 		{
@@ -529,6 +550,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["אחת עשרה", "אַחַת עֶשְׂרֵה"]
 		},
 		{
@@ -537,6 +559,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["אחד עשר", "אַחַד עָשָׂר"]
 		},
 		{
@@ -545,6 +568,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": [
 				"שתים עשרה",
 				"שתיים עשרה",
@@ -559,6 +583,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": [
 				"שנים עשר",
 				"שניים עשר",
@@ -573,6 +598,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שלוש עשרה", "שְׁלוֹשְׁ עֶשְׂרֵה"]
 		},
 		{
@@ -581,6 +607,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שלושה עשר", "שְׁלוֹשָׁה עָשָׂר"]
 		},
 		{
@@ -589,6 +616,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["ארבע עשרה", "אַרְבַּע עֶשְׂרֵה"]
 		},
 		{
@@ -597,6 +625,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["ארבעה עשר", "אַרְבָּעָה עָשָׂר"]
 		},
 		{
@@ -605,6 +634,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["חמש עשרה", "חַמֵשׁ עֶשְׂרֵה"]
 		},
 		{
@@ -613,6 +643,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["חמשה עשר", "חֲמִשָּׁה עָשָׂר"]
 		},
 		{
@@ -621,6 +652,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שש עשרה", "שֵׁשׁ עֶשְׂרֵה"]
 		},
 		{
@@ -629,6 +661,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שישה עשר", "שִׁשָׁה עָשָׂר"]
 		},
 		{
@@ -637,6 +670,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שבע עשרה", "שְׁבַע עֶשְׂרֵה"]
 		},
 		{
@@ -645,6 +679,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שבעה עשר", "שִׁבְעָה עָשָׂר"]
 		},
 		{
@@ -653,6 +688,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שמונה עשרה", "שְׁמוֹנֶה עֶשְׂרֵה"]
 		},
 		{
@@ -661,6 +697,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שמונה עשר", "שְׁמוֹנָה עָשָׂר"]
 		},
 		{
@@ -669,6 +706,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["תשע עשרה", "תְּשַׁע עֶשְׂרֵה"]
 		},
 		{
@@ -677,6 +715,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["תשעה עשר", "תִּשְׁעָה עָשָׂר"]
 		},
 		{
@@ -685,6 +724,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["עשרים", "עֶשְׁרִים"]
 		},
 		{
@@ -693,6 +733,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שלושים", "שְׁלוֹשִׁים"]
 		},
 		{
@@ -701,6 +742,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["ארבעים", "אַרְבָּעִים"]
 		},
 		{
@@ -709,6 +751,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["חמישים", "חֲמִשִּׁים"]
 		},
 		{
@@ -717,6 +760,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שישים", "שִׁשִּׁים"]
 		},
 		{
@@ -725,6 +769,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שבעים", "שִׁבְעִים"]
 		},
 		{
@@ -733,6 +778,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["שמונים", "שְׁמֹנִים", "שְׁמוֹנִים"]
 		},
 		{
@@ -741,6 +787,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["תשעים", "תִּשְׁעִים"]
 		},
 		{
@@ -749,6 +796,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["מאה", "מֵאָה"]
 		},
 		{
@@ -757,6 +805,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["מאתיים", "מָאתַיִם"]
 		},
 		{
@@ -765,6 +814,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["שלוש מאות", "שְׁלוֹשׁ מֵאוֹת"]
 		},
 		{
@@ -773,6 +823,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["ארבע מאות", "אַרְבַּע מֵאוֹת"]
 		},
 		{
@@ -781,6 +832,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["חמש מאות", "חַמֵשׁ מֵאוֹת"]
 		},
 		{
@@ -789,6 +841,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["שש מאות", "שֵׁשׁ מֵאוֹת"]
 		},
 		{
@@ -797,6 +850,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["שבע מאות", "שֶׁבַע מֵאוֹת"]
 		},
 		{
@@ -805,6 +859,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["שמונה מאות", "שְׁמֹנֶה מֵאוֹת", "שְׁמוֹנֶה מֵאוֹת"]
 		},
 		{
@@ -813,6 +868,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["תשע מאות", "תְּשַׁע מֵאוֹת"]
 		},
 		{
@@ -821,6 +877,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["אלף", "אֶלֶף"]
 		},
 		{
@@ -829,6 +886,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 4,
 			"correct": ["אלפיים", "אַלְפַּיִם"]
 		},
 		{
@@ -837,6 +895,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 5,
 			"correct": ["רבוא", "רִבּוֹא", "רבבה", "רְבָבָה", "עשרת אלפים"]
 		},
 		{
@@ -845,6 +904,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["עשרים ואחת", "עֶשְׁרִים וְאַחַת"]
 		},
 		{
@@ -853,6 +913,7 @@
 			"category": "Numerals",
 			"group": "Cardinals",
 			"type": "input",
+			"level": 3,
 			"correct": ["עשרים ואחד", "עֶשְׁרִים וְאַחַד"]
 		},
 		{
@@ -861,6 +922,7 @@
 			"category": "Preposicions",
 			"group": "Independents",
 			"type": "input",
+			"level": 1,
 			"correct": ["עם", "עִם"]
 		},
 		{
@@ -869,6 +931,7 @@
 			"category": "Preposicions",
 			"group": "Independents",
 			"type": "input",
+			"level": 1,
 			"correct": ["על", "עַל"]
 		},
 		{
@@ -877,6 +940,7 @@
 			"category": "Preposicions",
 			"group": "Independents",
 			"type": "input",
+			"level": 1,
 			"correct": ["עד", "עַד"]
 		},
 		{
@@ -885,6 +949,7 @@
 			"category": "Preposicions",
 			"group": "Independents",
 			"type": "input",
+			"level": 1,
 			"correct": ["אל", "אֶל"]
 		},
 		{
@@ -893,6 +958,7 @@
 			"category": "Preposicions",
 			"group": "Independents",
 			"type": "input",
+			"level": 1,
 			"correct": ["בין", "בֵּיִן"]
 		},
 		{
@@ -901,6 +967,7 @@
 			"category": "Conjuncions",
 			"group": "Copulatives",
 			"type": "input",
+			"level": 1,
 			"correct": ["ו-", "וְ-"]
 		},
 		{
@@ -909,6 +976,7 @@
 			"category": "Adverbis",
 			"group": "",
 			"type": "input",
+			"level": 1,
 			"correct": ["אז", "אָז"]
 		},
 		{
@@ -917,6 +985,7 @@
 			"category": "Conjuncions",
 			"group": "Adversatives",
 			"type": "input",
+			"level": 1,
 			"correct": ["או", "אוֹ"]
 		},
 		{
@@ -925,6 +994,7 @@
 			"category": "Conjuncions",
 			"group": "Causals",
 			"type": "input",
+			"level": 1,
 			"correct": ["כי", "כִּי"]
 		},
 		{
@@ -933,6 +1003,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["מי", "מִי"]
 		},
 		{
@@ -941,6 +1012,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["מה", "מָה"]
 		},
 		{
@@ -949,6 +1021,7 @@
 			"category": "Pronoms",
 			"group": "Demostratius",
 			"type": "input",
+			"level": 1,
 			"correct": ["זה", "זֵה"]
 		},
 		{
@@ -957,6 +1030,7 @@
 			"category": "Pronoms",
 			"group": "Demostratius",
 			"type": "input",
+			"level": 1,
 			"correct": ["זאת", "זאֹת"]
 		},
 		{
@@ -965,6 +1039,7 @@
 			"category": "Pronoms",
 			"group": "Demostratius",
 			"type": "input",
+			"level": 1,
 			"correct": ["אלה", "אֵלֶּה"]
 		},
 		{
@@ -973,6 +1048,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["מה זה?", "מָה זֵה?"]
 		},
 		{
@@ -981,6 +1057,7 @@
 			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 1,
 			"correct": ["איך", "אֵיך"]
 		},
 		{
@@ -989,6 +1066,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["כמה", "כַּמָה"]
 		},
 		{
@@ -997,6 +1075,7 @@
 			"category": "Adverbis",
 			"group": "Temps",
 			"type": "input",
+			"level": 2,
 			"correct": ["מתי", "מָתַי"]
 		},
 		{
@@ -1006,6 +1085,7 @@
 			"group": "Fruita",
 			"type": "input",
 			"imageKey": "apple",
+			"level": 3,
 			"correct": ["תפוח", "תַּפּוּחַ"]
 		},
 		{
@@ -1014,6 +1094,7 @@
 			"category": "Noms - Aliments",
 			"group": "Fruita",
 			"type": "input",
+			"level": 4,
 			"correct": ["משמש", "מִשְׁמֵשׁ"]
 		},
 		{
@@ -1023,6 +1104,7 @@
 			"group": "Fruita",
 			"type": "input",
 			"imageKey": "banana",
+			"level": 1,
 			"correct": ["בננה", "בַּנָּנָה"]
 		},
 		{
@@ -1032,6 +1114,7 @@
 			"group": "Fruita",
 			"type": "input",
 			"imageKey": "cherry",
+			"level": 3,
 			"correct": ["דבדבן", "דֻּבְדְּבָן", "דּוּבְדְּבָן", "דובדבן"]
 		},
 		{
@@ -1041,6 +1124,7 @@
 			"group": "Fruita",
 			"type": "input",
 			"imageKey": "orange-fruit",
+			"level": 2,
 			"correct": ["תפוז", "תַּפּוּז"]
 		},
 		{
@@ -1050,6 +1134,7 @@
 			"group": "Fruita",
 			"type": "input",
 			"imageKey": "strawberry",
+			"level": 4,
 			"correct": ["תות שדה", "תּוּת שָׂדֶה"]
 		},
 		{
@@ -1059,6 +1144,7 @@
 			"group": "Fruita",
 			"type": "input",
 			"imageKey": "pear",
+			"level": 2,
 			"correct": ["אגס", "אַגָּס"]
 		},
 		{
@@ -1068,6 +1154,7 @@
 			"group": "Fruita",
 			"type": "input",
 			"imageKey": "lemon",
+			"level": 1,
 			"correct": ["לימון", "לִימוֹן"]
 		},
 		{
@@ -1077,6 +1164,7 @@
 			"group": "Begudes",
 			"type": "input",
 			"imageKey": "water",
+			"level": 1,
 			"correct": ["מים", "מַיִם"]
 		},
 		{
@@ -1086,6 +1174,7 @@
 			"group": "Begudes",
 			"type": "input",
 			"imageKey": "milk",
+			"level": 1,
 			"correct": ["חלב", "חָלָב"]
 		},
 		{
@@ -1095,6 +1184,7 @@
 			"group": "Begudes",
 			"type": "input",
 			"imageKey": "coffee",
+			"level": 1,
 			"correct": ["קפה", "קָפֶה"]
 		},
 		{
@@ -1104,6 +1194,7 @@
 			"group": "Begudes",
 			"type": "input",
 			"imageKey": "beer",
+			"level": 1,
 			"correct": ["בירה", "בִּירָה"]
 		},
 		{
@@ -1113,6 +1204,7 @@
 			"group": "Begudes",
 			"type": "input",
 			"imageKey": "tea",
+			"level": 1,
 			"correct": ["תה", "תֵּה"]
 		},
 		{
@@ -1122,6 +1214,7 @@
 			"group": "Menjar",
 			"type": "input",
 			"imageKey": "cheese",
+			"level": 3,
 			"correct": ["גבינה", "גְּבִינָה"]
 		},
 		{
@@ -1131,6 +1224,7 @@
 			"group": "Menjar",
 			"type": "input",
 			"imageKey": "meat",
+			"level": 2,
 			"correct": ["בשר", "בָּשָָׂר"]
 		},
 		{
@@ -1139,6 +1233,7 @@
 			"category": "Noms - Aliments",
 			"group": "Menjar",
 			"type": "input",
+			"level": 3,
 			"correct": ["אורז", "אוֹרֶז", "אֹרֶז"]
 		},
 		{
@@ -1147,6 +1242,7 @@
 			"category": "Noms - Aliments",
 			"group": "Menjar",
 			"type": "input",
+			"level": 4,
 			"correct": ["רוטב", "רוֹטֶב"]
 		},
 		{
@@ -1155,6 +1251,7 @@
 			"category": "Noms - Aliments",
 			"group": "Menjar",
 			"type": "input",
+			"level": 3,
 			"correct": ["מרק", "מָרָק"]
 		},
 		{
@@ -1163,6 +1260,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["יום ראשון", "יוֹם רִאשׁוֹן"]
 		},
 		{
@@ -1171,6 +1269,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["יום שני", "יוֹם שֵׁנִי"]
 		},
 		{
@@ -1179,6 +1278,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["יום שלישי", "יוֹם שְׁלִישִׁי"]
 		},
 		{
@@ -1187,6 +1287,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["יום רביעי", "יוֹם רְבִיעִי"]
 		},
 		{
@@ -1195,6 +1296,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["יום חמישי", "יוֹם חֲמִישִׁי"]
 		},
 		{
@@ -1203,6 +1305,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["יום שישי", "יוֹם שִׁישִׁי"]
 		},
 		{
@@ -1211,6 +1314,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 1,
 			"correct": ["שבת", "שַׁבָּת"]
 		},
 		{
@@ -1219,6 +1323,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 2,
 			"correct": ["אֶתְמוֹל", "אתמול"]
 		},
 		{
@@ -1227,6 +1332,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 1,
 			"correct": ["היום", "הַיֹוֹם"]
 		},
 		{
@@ -1235,6 +1341,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 1,
 			"correct": ["מָחָר", "מחר"]
 		},
 		{
@@ -1243,6 +1350,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 4,
 			"correct": ["יוֹם חוֹל", "יום חול"]
 		},
 		{
@@ -1251,6 +1359,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 3,
 			"correct": ["סוֹף שָׁבוּעַ", "סוף שבוע"]
 		},
 		{
@@ -1259,6 +1368,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 3,
 			"correct": ["שבוע", "שָׁבוּעַ"]
 		},
 		{
@@ -1267,6 +1377,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 1,
 			"correct": ["יוֹם", "יום"]
 		},
 		{
@@ -1275,6 +1386,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 2,
 			"correct": ["חֹדֶשׁ", "חוֹדֶשׁ", "חודש"]
 		},
 		{
@@ -1283,6 +1395,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 1,
 			"correct": ["שָׁנָה", "שנה"]
 		},
 		{
@@ -1291,6 +1404,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 2,
 			"correct": ["יְמֵי הַשָּׁבוּעַ", "ימי השבוע"]
 		},
 		{
@@ -1299,6 +1413,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 1,
 			"correct": ["זמן", "זְמַן"]
 		},
 		{
@@ -1307,6 +1422,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 4,
 			"correct": ["תאריך", "תַּאֲרִיך"]
 		},
 		{
@@ -1315,6 +1431,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 2,
 			"correct": ["ערב", "עֶרֶב"]
 		},
 		{
@@ -1323,6 +1440,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 2,
 			"correct": ["בּוֹקֶר", "בוקר"]
 		},
 		{
@@ -1331,6 +1449,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 1,
 			"correct": ["לילה", "לַיְלָה"]
 		},
 		{
@@ -1339,6 +1458,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 3,
 			"correct": ["עָתִיד", "עתיד"]
 		},
 		{
@@ -1347,6 +1467,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 2,
 			"correct": ["עָבָר", "עבר"]
 		},
 		{
@@ -1355,6 +1476,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 3,
 			"correct": ["הוֹוֶה", "הווה"]
 		},
 		{
@@ -1363,6 +1485,7 @@
 			"category": "Noms - Temps",
 			"group": "Calendari",
 			"type": "input",
+			"level": 2,
 			"correct": ["עכשיו", "עַכְשָׁיו"]
 		},
 		{
@@ -1371,6 +1494,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 4,
 			"correct": ["שְׁנִיָיּה", "שְׁנִיָּה", "שנייה"]
 		},
 		{
@@ -1379,6 +1503,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["רֶגַע", "רגע"]
 		},
 		{
@@ -1387,6 +1512,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["שָׁעָה", "שעה"]
 		},
 		{
@@ -1395,6 +1521,7 @@
 			"category": "Noms - Temps",
 			"group": "Dies",
 			"type": "input",
+			"level": 3,
 			"correct": ["דַקָּה", "דקה"]
 		},
 		{
@@ -1403,6 +1530,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 3,
 			"correct": ["מִשְׁפָּחָה", "משפחה"]
 		},
 		{
@@ -1411,6 +1539,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["דּוֹדָה", "דודה"]
 		},
 		{
@@ -1419,6 +1548,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["אח", "אָח"]
 		},
 		{
@@ -1427,6 +1557,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["אָחוֹת", "אחות"]
 		},
 		{
@@ -1435,6 +1566,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["בת", "בַּת"]
 		},
 		{
@@ -1443,6 +1575,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["בן", "בֵּן"]
 		},
 		{
@@ -1451,6 +1584,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 4,
 			"correct": ["כַּלָה", "כלה"]
 		},
 		{
@@ -1459,6 +1593,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["אֵם", "אם"]
 		},
 		{
@@ -1467,6 +1602,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["אִמָּא", "אימא", "אמא"]
 		},
 		{
@@ -1475,6 +1611,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["אָב", "אב"]
 		},
 		{
@@ -1483,6 +1620,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["אַבָּא", "אבא"]
 		},
 		{
@@ -1491,6 +1629,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 4,
 			"correct": ["חָתָן", "חתן"]
 		},
 		{
@@ -1499,6 +1638,7 @@
 			"category": "Noms - Família",
 			"group": "Família",
 			"type": "input",
+			"level": 2,
 			"correct": ["דּוֹד", "דוד"]
 		},
 		{
@@ -1507,6 +1647,7 @@
 			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["בּסֵדֶר", "בסדר"]
 		},
 		{
@@ -1515,6 +1656,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["גבוה", "גָּבֹהַּ", "גָּבוֹהַּ"]
 		},
 		{
@@ -1523,6 +1665,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["גָדוֹל", "גדול"]
 		},
 		{
@@ -1531,6 +1674,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["גְּדוֹלָה", "גדולה"]
 		},
 		{
@@ -1539,6 +1683,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["גְּדוֹלִים", "גדולים"]
 		},
 		{
@@ -1547,6 +1692,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["גְּדוֹלוֹת", "גדולות"]
 		},
 		{
@@ -1555,6 +1701,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קָטָן", "קטן"]
 		},
 		{
@@ -1563,6 +1710,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קְטַנָּה", "קטנה"]
 		},
 		{
@@ -1571,6 +1719,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קְטַנִּים", "קטנים"]
 		},
 		{
@@ -1579,6 +1728,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קְטַנּוֹת", "קטנות"]
 		},
 		{
