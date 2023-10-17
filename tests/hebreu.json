@@ -1366,7 +1366,7 @@
 			"correct": ["עכשיו", "עַכְשָׁיו"]
 		},
 		{
-			"id": "",
+			"id": "b86b43b2-1c0a-4d76-b599-61944add02d0",
 			"text": "Segon (temps)",
 			"category": "Noms - Temps",
 			"group": "Dies",
@@ -2258,6 +2258,534 @@
 			"group": "Qualificatius",
 			"type": "input",
 			"correct": ["רָעוֹת", "רעות"]
+		},
+		{
+			"id": "e3754216-088b-475c-90a6-0f9e0a890722",
+			"text": "Cap",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["ראׁשׁ", "ראש"]
+		},
+		{
+			"id": "e8767294-a88e-4ef2-b545-f113dbb7ff68",
+			"text": "Cara",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["פָּנִים", "פנים"]
+		},
+		{
+			"id": "1c49826f-b9a7-47d6-b270-067967d68bca",
+			"text": "Ull",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["עַיִן", "עין"]
+		},
+		{
+			"id": "5b7f78fe-6e54-4063-a1a1-989a22605ae9",
+			"text": "Ulls",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["עֵינַיִם", "עיניים"]
+		},
+		{
+			"id": "454caa61-82c1-410a-8668-f64fc726c042",
+			"text": "Titola, cigala",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["זַיִן", "זין", "זֶרֶג", "זרג", "בֻּלְבּוּל", "בולבול"]
+		},
+		{
+			"id": "3e154049-7756-4524-844f-26aefbe76bfc",
+			"text": "Titoles, cigales",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["זֵינִים", "זינים", "זְרָגִים", "זרגים"]
+		},
+		{
+			"id": "9536de57-1b3d-4b20-ab14-e145ae67eb60",
+			"text": "Ell em vol xuclar la polla",
+			"category": "Frases",
+			"group": "Vulgars",
+			"type": "input",
+			"correct": ["הוא רוצה למצוץ לי את הזרג"]
+		},
+		{
+			"id": "d1a6bcac-4655-4b8b-ae00-5e3ac5b25171",
+			"text": "Ell em vol tocar el penis",
+			"category": "Frases",
+			"group": "Vulgars",
+			"type": "input",
+			"correct": ["הוא רוצה לגעת לי בפין"]
+		},
+		{
+			"id": "1fba0f46-f12b-4d22-9e31-0560f86c506d",
+			"text": "(A ell)Li agrada parlar de pits",
+			"category": "Frases",
+			"group": "Vulgars",
+			"type": "input",
+			"correct": ["הוא אוהב לדבר על שדיים"]
+		},
+		{
+			"id": "36a12e33-d84f-4bed-8518-c77aee32a63a",
+			"text": "Gland",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["עֲטָרָה", "עטרה"]
+		},
+		{
+			"id": "d98a407b-e27e-44b2-b1b8-18ebe9265431",
+			"text": "Glands",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["עֲטָרוֹת", "עטרות"]
+		},
+		{
+			"id": "00effa44-1cfd-4164-8659-6142ddfb0849",
+			"text": "Penis (formal)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["פִּין", "פין"]
+		},
+		{
+			"id": "b416133a-7089-4c8f-bfce-7d9b65b17ea0",
+			"text": "Mamelles, Tetes",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["צִיצִים", "ציצים"]
+		},
+		{
+			"id": "e203e446-b641-481c-8c2c-b549c4868c42",
+			"text": "Mamella, Teta",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["צִיצִי", "ציצי"]
+		},
+		{
+			"id": "55943592-22f4-4609-8a97-575808d67a22",
+			"text": "Pit",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שָׁד", "שד"]
+		},
+		{
+			"id": "c34b8ceb-2f11-457b-a172-5b6e206b6a7e",
+			"text": "Pits",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שָׁדַיִם", "שדיים"]
+		},
+		{
+			"id": "94643f9b-5673-45e4-b82c-9483336182d5",
+			"text": "Mà",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["יָד", "יד"]
+		},
+		{
+			"id": "9ece8e8a-688c-4e90-aa96-d6a46a534e43",
+			"text": "Mans (dual)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["יָדַיִם", "ידיים"]
+		},
+		{
+			"id": "77d90a50-68de-4dee-9b53-1fc93d980e94",
+			"text": "Mans (plural)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["יָדוֹת", "ידות"]
+		},
+		{
+			"id": "e26daea3-810c-4e78-ada0-610b570e6c23",
+			"text": "Peu, cama",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["רֶגֶל", "רגל"]
+		},
+		{
+			"id": "074db88a-37b9-433c-b2ed-fa3daa25d9c0",
+			"text": "Peus, cames (dual)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["רַגְלַיִם", "רגליים"]
+		},
+		{
+			"id": "cc48077f-37a8-4eae-97b1-9f1ad9e4287f",
+			"text": "Peus, cames (plural)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["רְגָלִים", "רגלים"]
+		},
+		{
+			"id": "e26f88b3-ce12-41cc-91b5-3e7289ae0132",
+			"text": "Dent",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שֵׁן", "שן"]
+		},
+		{
+			"id": "bc306628-ee46-4a42-a40f-faf8503c8039",
+			"text": "Dents",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שִׁנַּיִם", "שיניים"]
+		},
+		{
+			"id": "4dde9132-ef68-4f6c-a0bc-79e3b7d1e31e",
+			"text": "Llavis",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שָׂפָה", "שפה"]
+		},
+		{
+			"id": "1b03bd08-ee78-44d3-9449-22bcd478524f",
+			"text": "Llavis (dual)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שְׂפָתַיִם", "שפתיים"]
+		},
+		{
+			"id": "b457b24d-ef0c-42ce-a53b-dfafba233de2",
+			"text": "Llavis (plural)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שָׂפוֹת", "שפות"]
+		},
+		{
+			"id": "792d3e4d-0818-4bda-8505-22e77bcbf020",
+			"text": "Orella",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["אֹזֶן", "אוזן"]
+		},
+		{
+			"id": "df69775d-4064-46b3-be09-4ba5fbf3f7a2",
+			"text": "Orelles",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["אָזְנַיִם", "אוזניים"]
+		},
+		{
+			"id": "9d358ac0-664f-460e-b48c-379084aaa510",
+			"text": "Braç",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["זְרוֹעַ", "זרוע"]
+		},
+		{
+			"id": "df5f2b0c-e2e6-4e87-abc3-daab9fb5a15c",
+			"text": "Braços",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["זְרוֹעוֹת", "זרועות"]
+		},
+		{
+			"id": "e81c9f06-f9a0-4a81-89b9-e301b48f9d45",
+			"text": "Cor",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["לֵב", "לב"]
+		},
+		{
+			"id": "7cfb9997-e946-48be-9768-17959ac063a0",
+			"text": "Cors",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["לְבָבוֹת", "לבבות"]
+		},
+		{
+			"id": "f0c85654-9c4c-4540-b912-442ccec1877c",
+			"text": "Cabell",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["שֵׂיעָר", "שיער"]
+		},
+		{
+			"id": "23cab6c8-4f73-4e98-a9ea-40ff8cc8efee",
+			"text": "Boca",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["פֶּה", "פה"]
+		},
+		{
+			"id": "25e06a1f-70ce-4e12-b7e9-e4298ce3663f",
+			"text": "Nas",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["אַף", "אף"]
+		},
+		{
+			"id": "cce6d107-dd74-498c-9ee2-91b5ce32f059",
+			"text": "Nassos",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["אַפַּיִם", "אפיים"]
+		},
+		{
+			"id": "23bae1db-9b95-4b5e-add0-7298c242234f",
+			"text": "Espatlla",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["כָּתֵף", "כתף"]
+		},
+		{
+			"id": "e373801e-f258-460e-9a86-2e1e76770cff",
+			"text": "Espatlles",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["כְּתֵפַיִם", "כתפיים"]
+		},
+		{
+			"id": "d51693d8-555a-4c42-a402-e600160f1881",
+			"text": "Genoll",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["בֶּרֶך", "ברך"]
+		},
+		{
+			"id": "9e846d8f-5059-4d73-ac63-44a5ebda0d8d",
+			"text": "Genolls",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["בִּרְכַּיִם", "ברכיים"]
+		},
+		{
+			"id": "96a32cfd-8074-4988-9fd5-8111188b303d",
+			"text": "Dit",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["אֶצְבַּע", "אצבע"]
+		},
+		{
+			"id": "e3200172-c236-4c46-9348-49a765c7030b",
+			"text": "Dits",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["אֶצְבָּעוֹת", "אצבעות"]
+		},
+		{
+			"id": "0a584ed9-655e-444b-aead-2e6542cf7a34",
+			"text": "Ungla",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["צִיפּוֹרֶן", "ציפורן"]
+		},
+		{
+			"id": "51180649-96e3-45ef-9d70-a57f3bea78bd",
+			"text": "Ungles",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["צִפָּרְנַיִם", "ציפורניים"]
+		},
+		{
+			"id": "0cc6c236-8647-4c24-8ea7-2fc9e96b5a15",
+			"text": "Colze",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["מַרְפֵּק", "מרפק"]
+		},
+		{
+			"id": "47a5400a-9bf2-405c-b6cf-0f0d45881951",
+			"text": "Colzes",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["מַרְפֵּקִים", "מרפקים"]
+		},
+		{
+			"id": "78209fc0-7d88-4b94-b983-5d5b466af6be",
+			"text": "Barba",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["זָקָן", "זקן"]
+		},
+		{
+			"id": "b130e9f0-ea63-4c0c-915c-dd6fed1f6602",
+			"text": "Barbes",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["זְקָנִים", "זקנים"]
+		},
+		{
+			"id": "42c00e06-61a5-4556-87bf-ffc4376a9f0d",
+			"text": "Palmell",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["כַּף", "כף"]
+		},
+		{
+			"id": "77f0c9e2-8d0d-4270-b313-0bced6153c3d",
+			"text": "Palmells",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["כַּפַּיִם", "כפיים"]
+		},
+		{
+			"id": "ddc749cb-6007-495c-b066-3cbb1564fd9e",
+			"text": "Palmells",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["כַּפּוֹת", "כפות"]
+		},
+		{
+			"id": "2a8474fb-4436-484e-b0bf-18b32b8ae64b",
+			"text": "Aplaudiment",
+			"category": "Noms",
+			"group": "",
+			"type": "input",
+			"correct": ["כַּפַּיִם", "כפיים"]
+		},
+		{
+			"id": "bb934873-6244-4e02-bfd0-ae92702a7c2b",
+			"text": "Pell",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["עוֹר", "עור"]
+		},
+		{
+			"id": "9d744cc9-5340-46de-b033-c7e717858d4e",
+			"text": "Esquena",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["גַּב", "גב"]
+		},
+		{
+			"id": "04e30cb7-cc0a-4906-af6c-5e51365dd8f4",
+			"text": "Cul",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["עַכּוּז", "עכוז"]
+		},
+		{
+			"id": "c9d076f5-e7dd-42bc-907f-84e408279529",
+			"text": "Culs",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["עֲכּוּזִים", "עכוזים"]
+		},
+		{
+			"id": "f3b52f17-53c3-42f0-b9bf-6ddcadd47a0a",
+			"text": "Vulva",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["פוֹת", "פות"]
+		},
+		{
+			"id": "7c2a791c-317c-4c4b-ac22-d0462935ad40",
+			"text": "Vulves",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["פוֹתוֹת", "פותות"]
+		},
+		{
+			"id": "5608c711-db17-4a53-bf6b-4c6fdda00e81",
+			"text": "Mugró",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["פִּטְמָה", "פטמה"]
+		},
+		{
+			"id": "12cb5b33-8b67-4c48-9b92-63c742b9a3f5",
+			"text": "Mugrons",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["פְּטָמוֹת", "פטמות"]
+		},
+		{
+			"id": "da52ca77-5fec-48c8-8c39-ef4497c26c87",
+			"text": "Ou, colló",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["בֵּיצָה", "ביצה"]
+		},
+		{
+			"id": "e3318020-2baa-4d05-a8f7-5a403079e5ac",
+			"text": "Ous, collons",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["בֵּיצִים", "ביצים"]
+		},
+		{
+			"id": "12cb5b33-8b67-4c48-9b92-63c742b9a3f5",
+			"text": "Cuixa",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["יָרֵךְ", "ירך"]
+		},
+		{
+			"id": "fdf6315d-37f2-4db5-8c46-0852969659f9",
+			"text": "Cuixes",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["יְרֵכַיִם", "ירכיים"]
+		},
+		{
+			"id": "14cd42b5-7dd3-4eac-9d55-49d42c94906b",
+			"text": "Darrera, cul (informal)",
+			"category": "Noms",
+			"group": "Anatomia",
+			"type": "input",
+			"correct": ["תַּחַת", "תחת"]
 		}
 	],
 	"assets": {
