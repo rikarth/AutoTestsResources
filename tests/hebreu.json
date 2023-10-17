@@ -1737,6 +1737,7 @@
 			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["מְעַט", "מעט"]
 		},
 		{
@@ -1745,6 +1746,7 @@
 			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["הַרְבֵּה", "הרבה"]
 		},
 		{
@@ -1753,6 +1755,7 @@
 			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["מְאוֹד", "מאוד"]
 		},
 		{
@@ -1761,6 +1764,7 @@
 			"category": "Adjectius",
 			"group": "",
 			"type": "input",
+			"level": 1,
 			"correct": ["רַב", "רב"]
 		},
 		{
@@ -1769,6 +1773,7 @@
 			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["כָּזֶה", "כזה"]
 		},
 		{
@@ -1777,6 +1782,7 @@
 			"category": "Adjectius",
 			"group": "",
 			"type": "input",
+			"level": 3,
 			"correct": ["אוֹתוֹ", "אותו"]
 		},
 		{
@@ -1785,6 +1791,7 @@
 			"category": "Adjectius",
 			"group": "",
 			"type": "input",
+			"level": 3,
 			"correct": ["אוֹתָהּ", "אותה"]
 		},
 		{
@@ -1793,6 +1800,7 @@
 			"category": "Adjectius",
 			"group": "",
 			"type": "input",
+			"level": 3,
 			"correct": ["אוֹתָם", "אותם"]
 		},
 		{
@@ -1801,6 +1809,7 @@
 			"category": "Adjectius",
 			"group": "",
 			"type": "input",
+			"level": 3,
 			"correct": ["אוֹתָן", "אותן"]
 		},
 		{
@@ -1809,6 +1818,7 @@
 			"category": "Adverbis",
 			"group": "",
 			"type": "input",
+			"level": 1,
 			"correct": ["גַּם", "גם"]
 		},
 		{
@@ -1817,6 +1827,7 @@
 			"category": "Adverbis",
 			"group": "Lloc",
 			"type": "input",
+			"level": 2,
 			"correct": ["הִינֵה", "הינה"]
 		},
 		{
@@ -1825,6 +1836,7 @@
 			"category": "Adverbis",
 			"group": "Lloc",
 			"type": "input",
+			"level": 1,
 			"correct": ["שָׁם", "שם"]
 		},
 		{
@@ -1833,6 +1845,7 @@
 			"category": "Adjectius",
 			"group": "",
 			"type": "input",
+			"level": 1,
 			"correct": ["טוֹב", "טוב"]
 		},
 		{
@@ -1841,6 +1854,7 @@
 			"category": "Conjuncions",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["אֲבָל", "אבל"]
 		},
 		{
@@ -1849,6 +1863,7 @@
 			"category": "Adverbis",
 			"group": "Afirmatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["כֵּן", "כן"]
 		},
 		{
@@ -1857,6 +1872,7 @@
 			"category": "Adverbis",
 			"group": "Negatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["לֹא", "לא"]
 		},
 		{
@@ -1865,70 +1881,79 @@
 			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 3,
 			"correct": ["נָכוֹן", "נכון"]
 		},
 		{
 			"id": "2d72e8c4-3c0f-4fce-8cb4-4ce7229e6f39",
 			"text": "Nou",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["חָדָשׁ", "חדש"]
 		},
 		{
 			"id": "c0749262-a6bf-499c-8860-82921318c985",
 			"text": "Nova",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["חֲדָשָׁה", "חדשה"]
 		},
 		{
 			"id": "547f6ea5-4fe7-4f6f-afd1-af1f402ebd54",
 			"text": "Nous",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["חֲדָשִׁים", "חדשים"]
 		},
 		{
 			"id": "4a544190-4a79-4d8a-9d8a-3abf9434e04f",
 			"text": "Noves",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["חֲדָשׁוֹת", "חדשות"]
 		},
 		{
 			"id": "2c838d6c-1b22-483d-a7fd-be0a14dcdd45",
 			"text": "Bonic",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָפֶה", "יפה"]
 		},
 		{
 			"id": "5b67046a-3263-46b9-ab1c-0143a88acbdd",
 			"text": "Bonica",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָפָה", "יפה"]
 		},
 		{
 			"id": "01e44433-58f1-483d-a30d-4c3354d520d4",
 			"text": "Bonics",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָפִים", "יפים"]
 		},
 		{
 			"id": "75768841-ac9d-49a3-a6b5-42dc3568ceb9",
 			"text": "Boniques",
 			"category": "Adjectius",
-			"group": "",
+			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָפוֹת", "יפות"]
 		},
 		{
@@ -1937,6 +1962,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["איך קוראים לך?", "אֵיך קוֹרְאִים לְךָ?"]
 		},
 		{
@@ -1945,6 +1971,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["איך קוראים לך?", "אֵיך קוֹרְאִים לָךְ?"]
 		},
 		{
@@ -1953,6 +1980,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["קוראים לי", "קוֹרְאִים לִי"]
 		},
 		{
@@ -1961,6 +1989,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["נעים מאוד"]
 		},
 		{
@@ -1969,6 +1998,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["מה נשמע?"]
 		},
 		{
@@ -1977,6 +2007,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["מאיפה אתה?", "מֵאֵיפֹה אַתָּה?"]
 		},
 		{
@@ -1985,6 +2016,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["מאיפה את?", "מֵאֵיפֹה אַתְּ?"]
 		},
 		{
@@ -1993,6 +2025,7 @@
 			"category": "Frases",
 			"group": "",
 			"type": "input",
+			"level": 4,
 			"correct": ["אני מתל אביב", "אַנִי מִתֵּל אָבִיב"]
 		},
 		{
@@ -2001,6 +2034,7 @@
 			"category": "Noms - Temps",
 			"group": "Hores",
 			"type": "input",
+			"level": 3,
 			"imageKey": "time_0600",
 			"correct": ["שֵׁשׁ בְּדִיּוּק", "שֵׁשׁ", "שש בדיוק", "שש"]
 		},
@@ -2010,6 +2044,7 @@
 			"category": "Noms - Temps",
 			"group": "Hores",
 			"type": "input",
+			"level": 3,
 			"imageKey": "time_0605",
 			"correct": ["שֵׁשׁ וְחָמֵשׁ", "שש וחמש"]
 		},
@@ -2019,6 +2054,7 @@
 			"category": "Noms - Temps",
 			"group": "Hores",
 			"type": "input",
+			"level": 3,
 			"imageKey": "time_0615",
 			"correct": ["שֵׁשׁ וָרֶבַה", "שש ורבה"]
 		},
@@ -2028,6 +2064,7 @@
 			"category": "Noms - Temps",
 			"group": "Hores",
 			"type": "input",
+			"level": 3,
 			"imageKey": "time_0630",
 			"correct": ["שֵׁשׁ וָחֵצִי", "שש וחצי"]
 		},
@@ -2037,6 +2074,7 @@
 			"category": "Noms - Temps",
 			"group": "Hores",
 			"type": "input",
+			"level": 3,
 			"imageKey": "time_0645",
 			"correct": ["שֵׁשׁ פָּחוֹת רֶבַע", "שש פחות רבע"]
 		},
@@ -2046,6 +2084,7 @@
 			"category": "Noms - Temps",
 			"group": "Hores",
 			"type": "input",
+			"level": 3,
 			"imageKey": "time_1010",
 			"correct": ["עֶשֶׂר וְעֶשֶׂר", "עשר ועשר"]
 		},
@@ -2055,6 +2094,7 @@
 			"category": "Articles",
 			"group": "Indeterminats",
 			"type": "input",
+			"level": 1,
 			"correct": ["ספר"]
 		},
 		{
@@ -2063,6 +2103,7 @@
 			"category": "Articles",
 			"group": "Indeterminats",
 			"type": "input",
+			"level": 3,
 			"correct": ["ספר גדול"]
 		},
 		{
@@ -2071,6 +2112,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הספר הגדול"]
 		},
 		{
@@ -2079,6 +2121,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הספר גדול"]
 		},
 		{
@@ -2087,6 +2130,7 @@
 			"category": "Articles",
 			"group": "Indeterminats",
 			"type": "input",
+			"level": 2,
 			"correct": ["ילד טוב"]
 		},
 		{
@@ -2095,6 +2139,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הילד הטוב"]
 		},
 		{
@@ -2103,6 +2148,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הילד טוב"]
 		},
 		{
@@ -2111,6 +2157,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הילד"]
 		},
 		{
@@ -2119,6 +2166,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הספר"]
 		},
 		{
@@ -2127,6 +2175,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הקטן"]
 		},
 		{
@@ -2135,6 +2184,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 1,
 			"correct": ["היום", "הַיֹוֹם"]
 		},
 		{
@@ -2143,6 +2193,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["השנה"]
 		},
 		{
@@ -2151,6 +2202,7 @@
 			"category": "Articles",
 			"group": "Determinats",
 			"type": "input",
+			"level": 3,
 			"correct": ["הלילה"]
 		},
 		{
@@ -2159,6 +2211,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["מי אתה"]
 		},
 		{
@@ -2167,6 +2220,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["מי את"]
 		},
 		{
@@ -2175,6 +2229,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["מי הילד"]
 		},
 		{
@@ -2183,6 +2238,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["מי גדול"]
 		},
 		{
@@ -2191,6 +2247,7 @@
 			"category": "Pronoms",
 			"group": "Interrogatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["מי ילדה טובה"]
 		},
 		{
@@ -2199,6 +2256,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["זָקֵן", "זקן"]
 		},
 		{
@@ -2207,6 +2265,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["זְקֵנָה", "זקנה"]
 		},
 		{
@@ -2215,6 +2274,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["זְקֵנִים", "זקנים"]
 		},
 		{
@@ -2223,6 +2283,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["זְקֵנוֹת", "זקנות"]
 		},
 		{
@@ -2231,6 +2292,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["חָכָם", "חכם"]
 		},
 		{
@@ -2239,6 +2301,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["חֲכָמָה", "חכמה"]
 		},
 		{
@@ -2247,6 +2310,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["חֲכָמִים", "חכמים"]
 		},
 		{
@@ -2255,6 +2319,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["חֲכָמוֹת", "חכמות"]
 		},
 		{
@@ -2263,6 +2328,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["עַצְבָּנִי", "עצבני"]
 		},
 		{
@@ -2271,6 +2337,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 3,
 			"correct": ["עַצְבָּנִית", "עצבנית"]
 		},
 		{
@@ -2279,6 +2346,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 4,
 			"correct": ["עַצְבְּנִיִּים", "עצבניים"]
 		},
 		{
@@ -2287,6 +2355,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 4,
 			"correct": ["עַצְבְּנִיּוֹת", "עצבניות"]
 		},
 		{
@@ -2295,6 +2364,7 @@
 			"category": "Adjectius",
 			"group": "Colors",
 			"type": "input",
+			"level": 2,
 			"correct": ["לָבָן", "לבן"]
 		},
 		{
@@ -2303,6 +2373,7 @@
 			"category": "Adjectius",
 			"group": "Colors",
 			"type": "input",
+			"level": 2,
 			"correct": ["לְבָנָה", "לבנה"]
 		},
 		{
@@ -2311,6 +2382,7 @@
 			"category": "Adjectius",
 			"group": "Colors",
 			"type": "input",
+			"level": 2,
 			"correct": ["לְבָנִים", "לבנים"]
 		},
 		{
@@ -2319,6 +2391,7 @@
 			"category": "Adjectius",
 			"group": "Colors",
 			"type": "input",
+			"level": 2,
 			"correct": ["לְבָנוֹת", "לבנות"]
 		},
 		{
@@ -2327,6 +2400,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["טוֹבָה", "טובה"]
 		},
 		{
@@ -2335,6 +2409,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["טוֹבִים", "טובים"]
 		},
 		{
@@ -2343,6 +2418,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["טוֹבוֹת", "טובות"]
 		},
 		{
@@ -2351,6 +2427,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קָשֶׁה", "קשה"]
 		},
 		{
@@ -2359,6 +2436,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קָשָׁה", "קשה"]
 		},
 		{
@@ -2367,6 +2445,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קָשִׁים", "קשים"]
 		},
 		{
@@ -2375,6 +2454,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 2,
 			"correct": ["קָשׁוֹת", "קשות"]
 		},
 		{
@@ -2383,6 +2463,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["רַע", "רע"]
 		},
 		{
@@ -2391,6 +2472,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["רָעָה", "רעה"]
 		},
 		{
@@ -2399,6 +2481,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["רָעִים", "רעים"]
 		},
 		{
@@ -2407,6 +2490,7 @@
 			"category": "Adjectius",
 			"group": "Qualificatius",
 			"type": "input",
+			"level": 1,
 			"correct": ["רָעוֹת", "רעות"]
 		},
 		{
@@ -2415,6 +2499,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["ראׁשׁ", "ראש"]
 		},
 		{
@@ -2423,6 +2508,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["פָּנִים", "פנים"]
 		},
 		{
@@ -2431,6 +2517,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["עַיִן", "עין"]
 		},
 		{
@@ -2439,6 +2526,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["עֵינַיִם", "עיניים"]
 		},
 		{
@@ -2447,6 +2535,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["זַיִן", "זין", "זֶרֶג", "זרג", "בֻּלְבּוּל", "בולבול"]
 		},
 		{
@@ -2455,6 +2544,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["זֵינִים", "זינים", "זְרָגִים", "זרגים"]
 		},
 		{
@@ -2463,6 +2553,7 @@
 			"category": "Frases",
 			"group": "Vulgars",
 			"type": "input",
+			"level": 6,
 			"correct": ["הוא רוצה למצוץ לי את הזרג"]
 		},
 		{
@@ -2471,6 +2562,7 @@
 			"category": "Frases",
 			"group": "Vulgars",
 			"type": "input",
+			"level": 6,
 			"correct": ["הוא רוצה לגעת לי בפין"]
 		},
 		{
@@ -2479,6 +2571,7 @@
 			"category": "Frases",
 			"group": "Vulgars",
 			"type": "input",
+			"level": 6,
 			"correct": ["הוא אוהב לדבר על שדיים"]
 		},
 		{
@@ -2487,6 +2580,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 5,
 			"correct": ["עֲטָרָה", "עטרה"]
 		},
 		{
@@ -2495,6 +2589,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 5,
 			"correct": ["עֲטָרוֹת", "עטרות"]
 		},
 		{
@@ -2503,6 +2598,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["פִּין", "פין"]
 		},
 		{
@@ -2511,6 +2607,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 5,
 			"correct": ["צִיצִים", "ציצים"]
 		},
 		{
@@ -2519,6 +2616,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 5,
 			"correct": ["צִיצִי", "ציצי"]
 		},
 		{
@@ -2527,6 +2625,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["שָׁד", "שד"]
 		},
 		{
@@ -2535,6 +2634,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["שָׁדַיִם", "שדיים"]
 		},
 		{
@@ -2543,6 +2643,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָד", "יד"]
 		},
 		{
@@ -2551,6 +2652,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָדַיִם", "ידיים"]
 		},
 		{
@@ -2559,6 +2661,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָדוֹת", "ידות"]
 		},
 		{
@@ -2567,6 +2670,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["רֶגֶל", "רגל"]
 		},
 		{
@@ -2575,6 +2679,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["רַגְלַיִם", "רגליים"]
 		},
 		{
@@ -2583,6 +2688,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["רְגָלִים", "רגלים"]
 		},
 		{
@@ -2591,6 +2697,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["שֵׁן", "שן"]
 		},
 		{
@@ -2599,6 +2706,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["שִׁנַּיִם", "שיניים"]
 		},
 		{
@@ -2607,6 +2715,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["שָׂפָה", "שפה"]
 		},
 		{
@@ -2615,6 +2724,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["שְׂפָתַיִם", "שפתיים"]
 		},
 		{
@@ -2623,6 +2733,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["שָׂפוֹת", "שפות"]
 		},
 		{
@@ -2631,6 +2742,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["אֹזֶן", "אוזן"]
 		},
 		{
@@ -2639,6 +2751,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["אָזְנַיִם", "אוזניים"]
 		},
 		{
@@ -2647,6 +2760,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["זְרוֹעַ", "זרוע"]
 		},
 		{
@@ -2655,6 +2769,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["זְרוֹעוֹת", "זרועות"]
 		},
 		{
@@ -2663,6 +2778,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["לֵב", "לב"]
 		},
 		{
@@ -2671,6 +2787,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["לְבָבוֹת", "לבבות"]
 		},
 		{
@@ -2679,6 +2796,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["שֵׂיעָר", "שיער"]
 		},
 		{
@@ -2687,6 +2805,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["פֶּה", "פה"]
 		},
 		{
@@ -2695,6 +2814,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["אַף", "אף"]
 		},
 		{
@@ -2703,6 +2823,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["אַפַּיִם", "אפיים"]
 		},
 		{
@@ -2711,6 +2832,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["כָּתֵף", "כתף"]
 		},
 		{
@@ -2719,6 +2841,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["כְּתֵפַיִם", "כתפיים"]
 		},
 		{
@@ -2727,6 +2850,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["בֶּרֶך", "ברך"]
 		},
 		{
@@ -2735,6 +2859,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["בִּרְכַּיִם", "ברכיים"]
 		},
 		{
@@ -2743,6 +2868,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["אֶצְבַּע", "אצבע"]
 		},
 		{
@@ -2751,6 +2877,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["אֶצְבָּעוֹת", "אצבעות"]
 		},
 		{
@@ -2759,6 +2886,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["צִיפּוֹרֶן", "ציפורן"]
 		},
 		{
@@ -2767,6 +2895,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["צִפָּרְנַיִם", "ציפורניים"]
 		},
 		{
@@ -2775,6 +2904,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["מַרְפֵּק", "מרפק"]
 		},
 		{
@@ -2783,6 +2913,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["מַרְפֵּקִים", "מרפקים"]
 		},
 		{
@@ -2791,6 +2922,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["זָקָן", "זקן"]
 		},
 		{
@@ -2799,6 +2931,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["זְקָנִים", "זקנים"]
 		},
 		{
@@ -2807,6 +2940,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["כַּף", "כף"]
 		},
 		{
@@ -2815,6 +2949,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["כַּפַּיִם", "כפיים"]
 		},
 		{
@@ -2823,14 +2958,16 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["כַּפּוֹת", "כפות"]
 		},
 		{
 			"id": "2a8474fb-4436-484e-b0bf-18b32b8ae64b",
 			"text": "Aplaudiment",
-			"category": "Noms",
+			"category": "",
 			"group": "",
 			"type": "input",
+			"level": 2,
 			"correct": ["כַּפַּיִם", "כפיים"]
 		},
 		{
@@ -2839,6 +2976,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["עוֹר", "עור"]
 		},
 		{
@@ -2847,6 +2985,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["גַּב", "גב"]
 		},
 		{
@@ -2855,6 +2994,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["עַכּוּז", "עכוז"]
 		},
 		{
@@ -2863,6 +3003,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["עֲכּוּזִים", "עכוזים"]
 		},
 		{
@@ -2871,6 +3012,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["פוֹת", "פות"]
 		},
 		{
@@ -2879,6 +3021,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["פוֹתוֹת", "פותות"]
 		},
 		{
@@ -2887,6 +3030,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["פִּטְמָה", "פטמה"]
 		},
 		{
@@ -2895,6 +3039,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 3,
 			"correct": ["פְּטָמוֹת", "פטמות"]
 		},
 		{
@@ -2903,6 +3048,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["בֵּיצָה", "ביצה"]
 		},
 		{
@@ -2911,6 +3057,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 4,
 			"correct": ["בֵּיצִים", "ביצים"]
 		},
 		{
@@ -2919,6 +3066,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["יָרֵךְ", "ירך"]
 		},
 		{
@@ -2927,6 +3075,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 2,
 			"correct": ["יְרֵכַיִם", "ירכיים"]
 		},
 		{
@@ -2935,6 +3084,7 @@
 			"category": "Noms",
 			"group": "Anatomia",
 			"type": "input",
+			"level": 1,
 			"correct": ["תַּחַת", "תחת"]
 		}
 	],
