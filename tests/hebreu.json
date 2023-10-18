@@ -3013,6 +3013,7 @@
 			"group": "Anatomia",
 			"type": "input",
 			"level": 2,
+			"imageKey":"vlv_EPIC",
 			"correct": ["פוֹת", "פות"]
 		},
 		{
@@ -3120,6 +3121,7 @@
 		"time_0615": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0615.png",
 		"time_0630": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0630.png",
 		"time_0645": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0645.png",
-		"time_1010": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_1010.png"
+		"time_1010": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_1010.png",
+		"vlv_EPIC": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/anatomia/vlv.epic"
 	}
 }
