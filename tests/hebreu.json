@@ -11,6 +11,7 @@
 			"category": "Adjectius",
 			"group": "Colors",
 			"imageKey": "black-min",
+			"level": 1,
 			"type": "singleChoice",
 			"options": [
 				{
@@ -3013,7 +3014,7 @@
 			"group": "Anatomia",
 			"type": "input",
 			"level": 2,
-			"imageKey":"vlv_EPIC",
+			"imageKey": "vlv_EPIC",
 			"correct": ["פוֹת", "פות"]
 		},
 		{
