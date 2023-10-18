@@ -1225,8 +1225,18 @@
 			"group": "Aliments - Menjar",
 			"type": "input",
 			"imageKey": "meat",
-			"level": 2,
+			"level": 1,
 			"correct": ["בשר", "בָּשָָׂר"]
+		},
+		{
+			"id": "b4f3aa9d-620a-4e41-a782-3adf2c3bc2c7",
+			"text": "Pa",
+			"category": "Noms",
+			"group": "Aliments - Menjar",
+			"type": "input",
+			"imageKey": "bread",
+			"level": 1,
+			"correct": ["לֶחֶם", "לחם"]
 		},
 		{
 			"id": "43c1a23f-1b8c-480c-aee1-379954118f44",
@@ -3088,6 +3098,151 @@
 			"type": "input",
 			"level": 1,
 			"correct": ["תַּחַת", "תחת"]
+		},
+		{
+			"id": "e6b51b28-45ad-4a5c-acc6-941d2f970042",
+			"text": "Estúpid, 'tonto'",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"level": 3,
+			"correct": ["טִפֵּשׁ", "טִיפֵּשׁ", "טיפש"]
+		},
+		{
+			"id": "c9641e30-6d37-42fe-8a0d-08dcd63f9067",
+			"text": "Estúpida, 'tonta'",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"level": 3,
+			"correct": ["טיפשה", "טִפְּשָׁה", "טִיפְּשָׁה"]
+		},
+		{
+			"id": "4f60e9eb-f3fe-4e73-a58b-2e267525302d",
+			"text": "Estúpids, 'tontos'",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"level": 3,
+			"correct": ["טיפשים", "טִפְּשִׁים", "טִיפְּשִׁים"]
+		},
+		{
+			"id": "bd978a85-83cc-4dea-bd09-a7da23b003ae",
+			"text": "Estúpides, 'tontes'",
+			"category": "Adjectius",
+			"group": "Qualificatius",
+			"type": "input",
+			"level": 3,
+			"correct": ["טיפשות", "טִפְּשׁוֹת", "טִיפְּשׁוֹת"]
+		},
+		{
+			"id": "75250e09-405d-4155-ba3a-991ce8398c9f",
+			"text": "Estupidesa, 'tonteria'",
+			"category": "Noms",
+			"group": "",
+			"type": "input",
+			"level": 3,
+			"correct": ["טיפשות", "טִיפְּשוּת"]
+		},
+		{
+			"id": "5caf0ddd-0562-4d48-960d-bc9a3b5b4925",
+			"text": "Taula",
+			"category": "Noms",
+			"group": "Mobles",
+			"type": "input",
+			"level": 3,
+			"correct": ["שׁוּלְחָן", "שולחן"]
+		},
+		{
+			"id": "9a88a636-d755-4b92-acd4-56c4e4c7bf6a",
+			"text": "Taules",
+			"category": "Noms",
+			"group": "Mobles",
+			"type": "input",
+			"level": 3,
+			"correct": ["שֻׁלְחָנוֹת", "שולחנות"]
+		},
+		{
+			"id": "bd466150-2528-4205-b6e9-bf043a31373a",
+			"text": "Cadira",
+			"category": "Noms",
+			"group": "Mobles",
+			"type": "input",
+			"level": 3,
+			"correct": ["כִּיסֵא", "כִּסֵּא", "כיסא"]
+		},
+		{
+			"id": "111273dc-21d6-4f49-91e1-bd171af6b50f",
+			"text": "Cadires",
+			"category": "Noms",
+			"group": "Mobles",
+			"type": "input",
+			"level": 3,
+			"correct": ["כִּסְּאוֹת", "כִּיסְּאוֹת", "כיסאות"]
+		},
+		{
+			"id": "1765a9c0-b61a-4c77-a977-3552fe13c76d",
+			"text": "Casa",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"imageKey": "house",
+			"correct": ["בַּיִת", "בית"]
+		},
+		{
+			"id": "ce759fcc-33a1-410e-9c0e-513c172e9b00",
+			"text": "Cases",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["בָּתִּים", "בתים"]
+		},
+		{
+			"id": "c0b3fcbc-b7fb-4300-87e6-47aa7eb2d861",
+			"text": "Porta",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["דֶלֶת", "דלת"]
+		},
+		{
+			"id": "92605cee-fc40-495c-80a7-212598fca9e5",
+			"text": "Portes (plural)",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["דְּלָתוֹת", "דלתות"]
+		},
+		{
+			"id": "0283e172-4647-4ac2-b19e-ad05e2efb1f0",
+			"text": "Portes (dual)",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 3,
+			"correct": ["דְּלָתַיִם", "דלתיים"]
+		},
+		{
+			"id": "7c019f32-d297-43bb-a000-634ce62a5c7f",
+			"text": "Finestra",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["חַלוֹן", "חלון"]
+		},
+		{
+			"id": "b8f3a9e6-ade4-4c71-b16d-b404cd6867f1",
+			"text": "Finestres",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["חַלּוֹנוֹת", "חלונות"]
 		}
 	],
 	"assets": {
@@ -3117,6 +3272,8 @@
 		"tea": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/tea.jpg",
 		"cheese": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/cheese.png",
 		"meat": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/meat.png",
+		"bread": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/aliments/bread.png",
+		"house": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/house/house.png",
 		"time_0600": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0600.png",
 		"time_0605": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0605.png",
 		"time_0615": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0615.png",
