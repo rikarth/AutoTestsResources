@@ -1082,8 +1082,8 @@
 		{
 			"id": "5d53c7b2-cb23-4737-9240-70235e13242c",
 			"text": "Poma",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"imageKey": "apple",
 			"level": 3,
@@ -1092,8 +1092,8 @@
 		{
 			"id": "9543be3f-2833-45fc-8a12-a9167f726d5b",
 			"text": "Albercoc",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"level": 4,
 			"correct": ["משמש", "מִשְׁמֵשׁ"]
@@ -1101,8 +1101,8 @@
 		{
 			"id": "3f24a1ea-9ee0-418e-8fb4-2a9dee527cc1",
 			"text": "Banana",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"imageKey": "banana",
 			"level": 1,
@@ -1111,8 +1111,8 @@
 		{
 			"id": "7ae789d8-6f48-47b2-bbb5-83962be0c851",
 			"text": "Cirera",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"imageKey": "cherry",
 			"level": 3,
@@ -1121,8 +1121,8 @@
 		{
 			"id": "e1088fc3-97e9-4758-87ad-9de5f7b3a0ed",
 			"text": "Taronja",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"imageKey": "orange-fruit",
 			"level": 2,
@@ -1131,8 +1131,8 @@
 		{
 			"id": "419cd63f-bbbd-4533-988d-cfebf0a2cc48",
 			"text": "Madúixa",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"imageKey": "strawberry",
 			"level": 4,
@@ -1141,8 +1141,8 @@
 		{
 			"id": "767397ba-b15a-45b8-9920-e55ac72ff52d",
 			"text": "Pera",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"imageKey": "pear",
 			"level": 2,
@@ -1151,8 +1151,8 @@
 		{
 			"id": "b8a8543c-94e9-4acd-96f5-c0741681176a",
 			"text": "Llimona",
-			"category": "Noms - Aliments",
-			"group": "Fruita",
+			"category": "Noms",
+			"group": "Aliments - Fruita",
 			"type": "input",
 			"imageKey": "lemon",
 			"level": 1,
@@ -1161,8 +1161,8 @@
 		{
 			"id": "d42af7ab-1042-4af8-aa5a-e5a5e82fd5e4",
 			"text": "Aigua",
-			"category": "Noms - Aliments",
-			"group": "Begudes",
+			"category": "Noms",
+			"group": "Aliments - Begudes",
 			"type": "input",
 			"imageKey": "water",
 			"level": 1,
@@ -1171,8 +1171,8 @@
 		{
 			"id": "81688ccd-8360-4838-a302-b9aa24ea1e1a",
 			"text": "Llet",
-			"category": "Noms - Aliments",
-			"group": "Begudes",
+			"category": "Noms",
+			"group": "Aliments - Begudes",
 			"type": "input",
 			"imageKey": "milk",
 			"level": 1,
@@ -1181,8 +1181,8 @@
 		{
 			"id": "31b8becb-684c-4582-81b8-d8a4a7fb6ab4",
 			"text": "Cafè",
-			"category": "Noms - Aliments",
-			"group": "Begudes",
+			"category": "Noms",
+			"group": "Aliments - Begudes",
 			"type": "input",
 			"imageKey": "coffee",
 			"level": 1,
@@ -1191,8 +1191,8 @@
 		{
 			"id": "59483b0d-b4f1-4fe4-9db6-dc1db9912388",
 			"text": "Cervesa",
-			"category": "Noms - Aliments",
-			"group": "Begudes",
+			"category": "Noms",
+			"group": "Aliments - Begudes",
 			"type": "input",
 			"imageKey": "beer",
 			"level": 1,
@@ -1201,8 +1201,8 @@
 		{
 			"id": "4ec0c2da-db52-44a7-8bd7-b0e63a4dc92c",
 			"text": "Te",
-			"category": "Noms - Aliments",
-			"group": "Begudes",
+			"category": "Noms",
+			"group": "Aliments - Begudes",
 			"type": "input",
 			"imageKey": "tea",
 			"level": 1,
@@ -1211,8 +1211,8 @@
 		{
 			"id": "6fbb8ea4-5b7e-445d-a8a4-5d4bd6f8a960",
 			"text": "Formatge",
-			"category": "Noms - Aliments",
-			"group": "Menjar",
+			"category": "Noms",
+			"group": "Aliments - Menjar",
 			"type": "input",
 			"imageKey": "cheese",
 			"level": 3,
@@ -1221,8 +1221,8 @@
 		{
 			"id": "3e2406a7-8061-4827-a2b9-810f293501af",
 			"text": "Carn",
-			"category": "Noms - Aliments",
-			"group": "Menjar",
+			"category": "Noms",
+			"group": "Aliments - Menjar",
 			"type": "input",
 			"imageKey": "meat",
 			"level": 2,
@@ -1231,8 +1231,8 @@
 		{
 			"id": "43c1a23f-1b8c-480c-aee1-379954118f44",
 			"text": "Arròs",
-			"category": "Noms - Aliments",
-			"group": "Menjar",
+			"category": "Noms",
+			"group": "Aliments - Menjar",
 			"type": "input",
 			"level": 3,
 			"correct": ["אורז", "אוֹרֶז", "אֹרֶז"]
@@ -1240,8 +1240,8 @@
 		{
 			"id": "fc466dc0-f93f-47e8-92fa-e004f1cc41cd",
 			"text": "Salsa",
-			"category": "Noms - Aliments",
-			"group": "Menjar",
+			"category": "Noms",
+			"group": "Aliments - Menjar",
 			"type": "input",
 			"level": 4,
 			"correct": ["רוטב", "רוֹטֶב"]
@@ -1249,8 +1249,8 @@
 		{
 			"id": "147768cc-b829-4f64-8fb4-04eda504f192",
 			"text": "Sopa",
-			"category": "Noms - Aliments",
-			"group": "Menjar",
+			"category": "Noms",
+			"group": "Aliments - Menjar",
 			"type": "input",
 			"level": 3,
 			"correct": ["מרק", "מָרָק"]
@@ -1258,8 +1258,8 @@
 		{
 			"id": "914144d0-4003-451e-94eb-e0fa4a344f94",
 			"text": "Diumenge",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["יום ראשון", "יוֹם רִאשׁוֹן"]
@@ -1267,8 +1267,8 @@
 		{
 			"id": "fde2eb93-f257-4c9a-a76c-1aea476d7325",
 			"text": "Dilluns",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["יום שני", "יוֹם שֵׁנִי"]
@@ -1276,8 +1276,8 @@
 		{
 			"id": "c75ca977-74dc-40a6-a05b-33ed931791c9",
 			"text": "Dimarts",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["יום שלישי", "יוֹם שְׁלִישִׁי"]
@@ -1285,8 +1285,8 @@
 		{
 			"id": "9994a5c5-4a46-4020-9a82-fd400578c8cd",
 			"text": "Dimecres",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["יום רביעי", "יוֹם רְבִיעִי"]
@@ -1294,8 +1294,8 @@
 		{
 			"id": "edc18c67-88fa-48cb-bc7b-2b6c7dd3a83b",
 			"text": "Dijous",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["יום חמישי", "יוֹם חֲמִישִׁי"]
@@ -1303,8 +1303,8 @@
 		{
 			"id": "946cfb16-5f2b-4fee-8ba2-e7fd7f72a9c9",
 			"text": "Divendres",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["יום שישי", "יוֹם שִׁישִׁי"]
@@ -1312,8 +1312,8 @@
 		{
 			"id": "764625f2-4b4e-4b7e-b4e4-9ce947f52c1c",
 			"text": "Dissabte",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 1,
 			"correct": ["שבת", "שַׁבָּת"]
@@ -1321,8 +1321,8 @@
 		{
 			"id": "19108463-5015-4f96-91f9-13c06a9ddb34",
 			"text": "Ahir",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 2,
 			"correct": ["אֶתְמוֹל", "אתמול"]
@@ -1330,8 +1330,8 @@
 		{
 			"id": "191435f1-9b91-464d-8baa-63eeb56d7b48",
 			"text": "Avui",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 1,
 			"correct": ["היום", "הַיֹוֹם"]
@@ -1339,8 +1339,8 @@
 		{
 			"id": "d075f5b4-4f47-4bce-94a5-b80aaf887838",
 			"text": "Demà",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 1,
 			"correct": ["מָחָר", "מחר"]
@@ -1348,8 +1348,8 @@
 		{
 			"id": "9462bb39-1689-4b45-8f04-ceedc4872bed",
 			"text": "Dia de la setmana (feiner)",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 4,
 			"correct": ["יוֹם חוֹל", "יום חול"]
@@ -1357,8 +1357,8 @@
 		{
 			"id": "e16bb451-609d-4bd0-9aef-9166bb4f1ab0",
 			"text": "Cap de setmana",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 3,
 			"correct": ["סוֹף שָׁבוּעַ", "סוף שבוע"]
@@ -1366,8 +1366,8 @@
 		{
 			"id": "fc044186-fc11-41c6-b32b-be1fe9829034",
 			"text": "Setmana",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 3,
 			"correct": ["שבוע", "שָׁבוּעַ"]
@@ -1375,8 +1375,8 @@
 		{
 			"id": "77a0e73b-de15-4dbe-9f7e-e3ef1e2ff5f5",
 			"text": "Dia",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 1,
 			"correct": ["יוֹם", "יום"]
@@ -1384,8 +1384,8 @@
 		{
 			"id": "400c1def-bb10-4567-849c-d3ce82fdb26d",
 			"text": "Mes",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 2,
 			"correct": ["חֹדֶשׁ", "חוֹדֶשׁ", "חודש"]
@@ -1393,8 +1393,8 @@
 		{
 			"id": "2cd18213-59e8-4961-9d1e-bd9e9277c9b0",
 			"text": "Any",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 1,
 			"correct": ["שָׁנָה", "שנה"]
@@ -1402,8 +1402,8 @@
 		{
 			"id": "147ccb1d-be79-4408-b0ef-d4f0f851ebe3",
 			"text": "Dies de la setmana",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 2,
 			"correct": ["יְמֵי הַשָּׁבוּעַ", "ימי השבוע"]
@@ -1411,8 +1411,8 @@
 		{
 			"id": "79bd1f68-a303-4f8b-b8b3-35fa878d275b",
 			"text": "Temps",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 1,
 			"correct": ["זמן", "זְמַן"]
@@ -1420,8 +1420,8 @@
 		{
 			"id": "11c39c54-a680-4216-883a-fc75b0622fb2",
 			"text": "Data",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 4,
 			"correct": ["תאריך", "תַּאֲרִיך"]
@@ -1429,8 +1429,8 @@
 		{
 			"id": "69a06123-014b-447f-9269-f2ea60a4fe78",
 			"text": "Tarda/Vespre",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 2,
 			"correct": ["ערב", "עֶרֶב"]
@@ -1438,8 +1438,8 @@
 		{
 			"id": "60717b14-ee29-489d-ac76-efd266b11ad2",
 			"text": "Matí",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 2,
 			"correct": ["בּוֹקֶר", "בוקר"]
@@ -1447,8 +1447,8 @@
 		{
 			"id": "92de1bf5-4190-4426-9ecf-f94095fb5497",
 			"text": "Nit",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 1,
 			"correct": ["לילה", "לַיְלָה"]
@@ -1456,8 +1456,8 @@
 		{
 			"id": "cf738fd6-f3e0-4258-97b9-c5549a2438a2",
 			"text": "Futur",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 3,
 			"correct": ["עָתִיד", "עתיד"]
@@ -1465,8 +1465,8 @@
 		{
 			"id": "124db24a-fef0-4f7e-b4cb-e86e7aabcd88",
 			"text": "Passat",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 2,
 			"correct": ["עָבָר", "עבר"]
@@ -1474,8 +1474,8 @@
 		{
 			"id": "c09a2722-05fe-4364-8338-3d7164878c3d",
 			"text": "Present",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 3,
 			"correct": ["הוֹוֶה", "הווה"]
@@ -1483,8 +1483,8 @@
 		{
 			"id": "f6e107f3-09b6-476f-9233-04ac3dd1f41e",
 			"text": "Ara",
-			"category": "Noms - Temps",
-			"group": "Calendari",
+			"category": "Noms",
+			"group": "Temps - Calendari",
 			"type": "input",
 			"level": 2,
 			"correct": ["עכשיו", "עַכְשָׁיו"]
@@ -1492,8 +1492,8 @@
 		{
 			"id": "b86b43b2-1c0a-4d76-b599-61944add02d0",
 			"text": "Segon (temps)",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 4,
 			"correct": ["שְׁנִיָיּה", "שְׁנִיָּה", "שנייה"]
@@ -1501,8 +1501,8 @@
 		{
 			"id": "c5b483eb-073f-4ded-980d-e3b7a80afb9e",
 			"text": "Moment / Instant",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["רֶגַע", "רגע"]
@@ -1510,8 +1510,8 @@
 		{
 			"id": "fc903997-13f6-4e59-b7fa-73099e2f4fa5",
 			"text": "Hora",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["שָׁעָה", "שעה"]
@@ -1519,8 +1519,8 @@
 		{
 			"id": "d69fc045-ee0e-4140-b7a8-699b62aa59d4",
 			"text": "Minut",
-			"category": "Noms - Temps",
-			"group": "Dies",
+			"category": "Noms",
+			"group": "Temps - Dies",
 			"type": "input",
 			"level": 3,
 			"correct": ["דַקָּה", "דקה"]
@@ -1528,7 +1528,7 @@
 		{
 			"id": "c141ff7c-b0ef-4364-ae3e-f5279e3740bf",
 			"text": "Família",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 3,
@@ -1537,7 +1537,7 @@
 		{
 			"id": "eb64942d-03bf-4bd2-a016-387fdc94d308",
 			"text": "Tieta",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1546,7 +1546,7 @@
 		{
 			"id": "d7fb5865-327a-4c85-a575-cdc3072e1c12",
 			"text": "Germà",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1555,7 +1555,7 @@
 		{
 			"id": "b005250e-fcef-43d2-ae43-b85d19a0a784",
 			"text": "Germana",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1564,7 +1564,7 @@
 		{
 			"id": "066884cd-eb15-4884-a7d2-60b1f7d0b7e3",
 			"text": "Filla",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1573,7 +1573,7 @@
 		{
 			"id": "09ab377c-2012-42f0-8279-871c0afe1e1b",
 			"text": "Fill",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1582,7 +1582,7 @@
 		{
 			"id": "42fb7709-97a2-4428-b151-6eaaaffc7e31",
 			"text": "Núvia / Jove (de sogra)",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 4,
@@ -1591,7 +1591,7 @@
 		{
 			"id": "9527d9af-0c05-4d43-b8a9-79e3e4883bc1",
 			"text": "Mare",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1600,7 +1600,7 @@
 		{
 			"id": "70226ab9-520a-4406-8705-893dc340f782",
 			"text": "Mama",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1609,7 +1609,7 @@
 		{
 			"id": "b9003681-3a6b-4fea-90c4-f18dc286723b",
 			"text": "Pare",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1618,7 +1618,7 @@
 		{
 			"id": "7fa5f805-a8ca-4342-a28e-487f55d71e5c",
 			"text": "Papa (Pare)",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -1627,7 +1627,7 @@
 		{
 			"id": "f711b6fc-ba32-413c-8717-a71efd5e9e5b",
 			"text": "Nuvi / Gendre",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 4,
@@ -1636,7 +1636,7 @@
 		{
 			"id": "79c6e964-e2ec-4f51-b845-e2cecf981902",
 			"text": "Tiet",
-			"category": "Noms - Família",
+			"category": "Noms",
 			"group": "Família",
 			"type": "input",
 			"level": 2,
@@ -2032,8 +2032,8 @@
 		{
 			"id": "f0139ac4-37a4-4400-9e26-ec093a465f60",
 			"text": "06:00",
-			"category": "Noms - Temps",
-			"group": "Hores",
+			"category": "Noms",
+			"group": "Temps - Hores",
 			"type": "input",
 			"level": 3,
 			"imageKey": "time_0600",
@@ -2042,8 +2042,8 @@
 		{
 			"id": "498b26e6-1e5e-459b-8a48-af3da1547194",
 			"text": "06:05",
-			"category": "Noms - Temps",
-			"group": "Hores",
+			"category": "Noms",
+			"group": "Temps - Hores",
 			"type": "input",
 			"level": 3,
 			"imageKey": "time_0605",
@@ -2052,8 +2052,8 @@
 		{
 			"id": "cb759470-3669-45b9-9ce0-2a9aee675e41",
 			"text": "06:15",
-			"category": "Noms - Temps",
-			"group": "Hores",
+			"category": "Noms",
+			"group": "Temps - Hores",
 			"type": "input",
 			"level": 3,
 			"imageKey": "time_0615",
@@ -2062,8 +2062,8 @@
 		{
 			"id": "72bf0f83-319e-4755-9f13-679feb53852d",
 			"text": "06:30",
-			"category": "Noms - Temps",
-			"group": "Hores",
+			"category": "Noms",
+			"group": "Temps - Hores",
 			"type": "input",
 			"level": 3,
 			"imageKey": "time_0630",
@@ -2072,8 +2072,8 @@
 		{
 			"id": "000de91f-4510-4474-a3b0-9fed2655c99f",
 			"text": "06:45",
-			"category": "Noms - Temps",
-			"group": "Hores",
+			"category": "Noms",
+			"group": "Temps - Hores",
 			"type": "input",
 			"level": 3,
 			"imageKey": "time_0645",
@@ -2082,8 +2082,8 @@
 		{
 			"id": "0b47902e-1b53-4061-b0de-3ab061ea1c27",
 			"text": "10:10",
-			"category": "Noms - Temps",
-			"group": "Hores",
+			"category": "Noms",
+			"group": "Temps - Hores",
 			"type": "input",
 			"level": 3,
 			"imageKey": "time_1010",
