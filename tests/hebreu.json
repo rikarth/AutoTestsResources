@@ -1500,6 +1500,42 @@
 			"correct": ["עכשיו", "עַכְשָׁיו"]
 		},
 		{
+			"id": "0f5e3537-1680-4db5-8a25-45e49d4d020e",
+			"text": "Primavera",
+			"category": "Noms",
+			"group": "Temps - Calendari",
+			"type": "input",
+			"level": 1,
+			"correct": ["אָבִיב", "אביב"]
+		},
+		{
+			"id": "9ad4ad68-ed69-4403-b29e-610b48787680",
+			"text": "Estiu",
+			"category": "Noms",
+			"group": "Temps - Calendari",
+			"type": "input",
+			"level": 1,
+			"correct": ["קַייִץ", "קַיִץ", "קיץ"]
+		},
+		{
+			"id": "9ad05900-d56b-4a12-967c-439751ec6535",
+			"text": "Tardor",
+			"category": "Noms",
+			"group": "Temps - Calendari",
+			"type": "input",
+			"level": 1,
+			"correct": ["סְתָיו", "סתיו"]
+		},
+		{
+			"id": "fe8e2b65-36dc-4f35-8086-a3a1ee2f06d2",
+			"text": "Hivern",
+			"category": "Noms",
+			"group": "Temps - Calendari",
+			"type": "input",
+			"level": 1,
+			"correct": ["חֹרֶף", "חוֹרֶף", "חורף"]
+		},
+		{
 			"id": "b86b43b2-1c0a-4d76-b599-61944add02d0",
 			"text": "Segon (temps)",
 			"category": "Noms",
@@ -3160,7 +3196,10 @@
 			"group": "",
 			"type": "input",
 			"level": 7,
-			"correct": ["אֲנִי בְּדִיּוּק חָשַׁבְתִּי עָלֶיךָ", "אני בדיוק חשבתי עליך"]
+			"correct": [
+				"אֲנִי בְּדִיּוּק חָשַׁבְתִּי עָלֶיךָ",
+				"אני בדיוק חשבתי עליך"
+			]
 		},
 		{
 			"id": "5caf0ddd-0562-4d48-960d-bc9a3b5b4925",
@@ -3263,124 +3302,304 @@
 			"correct": ["חַלּוֹנוֹת", "חלונות"]
 		},
 		{
-			"id": "",
+			"id": "797f1c74-59c4-4a4a-9a3e-58cf2ca8741b",
+			"text": "Habitació",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["חֶדֶר", "חדר"]
+		},
+		{
+			"id": "1f3f295d-2edb-47a3-b208-a89cd88ad29b",
+			"text": "Habitacions",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["חֲדָרִים", "חדרים"]
+		},
+		{
+			"id": "defeffdf-99ae-496c-86af-4a3ebd6234c2",
+			"text": "Sala d'estar",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 2,
+			"correct": ["סָלוֹן", "סלון"]
+		},
+		{
+			"id": "46a2958a-8dbe-49f8-97b8-78098bdbee09",
+			"text": "Sales d'estar",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 2,
+			"correct": ["סָלוֹנִים", "סלונים"]
+		},
+		{
+			"id": "7f2fed3b-2c02-4348-ab8b-2bac52916541",
+			"text": "Cuina",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["מִטְבָּח", "מטבח"]
+		},
+		{
+			"id": "984d6455-141e-42df-a189-eb16e4358ae4",
+			"text": "Cuines",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 2,
+			"correct": ["מִטְבָּחִים", "מטבחים"]
+		},
+		{
+			"id": "ee0c29dd-1309-43b7-8e19-389665a50faf",
 			"text": "Cotxe",
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
 			"level": 2,
-			"imageKey":"car",
-			"correct": ["", ""]
+			"imageKey": "car",
+			"correct": ["מְכוֹנִית", "מכונית"]
 		},
 		{
-			"id": "",
-			"text": "Moto",
+			"id": "f97a9897-6ad4-4310-b610-4b1bfb3e2ac5",
+			"text": "Bany (habitació)",
+			"category": "Noms",
+			"group": "Casa",
+			"type": "input",
+			"level": 1,
+			"correct": ["אַמְבַּטְיָה", "אמבטיה"]
+		},
+		{
+			"id": "7e6db049-7e14-44a8-8288-ca0cada8374f",
+			"text": "Cotxes",
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
 			"level": 2,
-			"imageKey":"motocicleta",
-			"correct": ["", ""]
+			"imageKey": "car",
+			"correct": ["מְכוֹנִיוֹת", "מכוניות"]
 		},
 		{
-			"id": "",
+			"id": "16b02151-701e-48f7-9d60-de8c86351ee1",
+			"text": "Cotxe (informal)",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 2,
+			"imageKey": "car",
+			"correct": ["אוֹטוֹ", "אוטו"]
+		},
+		{
+			"id": "f8d55f97-f056-401d-829a-50e545f37dcd",
+			"text": "Cotxes (informal)",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "car",
+			"correct": ["אוׄטוׄאִים", "אוטואים"]
+		},
+		{
+			"id": "1a60bbfb-173d-4eb3-9130-6da7c454edb5",
+			"text": "Motocicleta",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "motocicleta",
+			"correct": ["אוֹפַנּוֹעַ", "אופנוע"]
+		},
+		{
+			"id": "b7907416-8fbb-40dc-9afe-fb3c7ff5def5",
+			"text": "Motocicletes",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "motocicleta",
+			"correct": ["אוֹפַנּוֹעִים", "אופנועים"]
+		},
+		{
+			"id": "95a1b2a2-f19a-42c7-928e-49da09190250",
 			"text": "Bicicleta",
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
-			"level": 2,
-			"imageKey":"bike",
-			"correct": ["", ""]
+			"level": 3,
+			"imageKey": "bike",
+			"correct": ["אוֹפַנַּיִם", "אוֹפַנַיִים", "אופניים"]
 		},
 		{
-			"id": "",
-			"text": "Tren",
-			"category": "Noms",
-			"group": "Vehicles",
-			"type": "input",
-			"level": 2,
-			"imageKey":"train",
-			"correct": ["", ""]
-		},
-		{
-			"id": "",
+			"id": "9b3c6049-7804-4197-9f16-49bf34699f4f",
 			"text": "Avió",
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
 			"level": 2,
-			"imageKey":"plane",
-			"correct": ["", ""]
+			"imageKey": "plane",
+			"correct": ["אֲוִירוֹן", "אווירון", "מָטוֹס", "מטוס"]
 		},
 		{
-			"id": "",
-			"text": "Autobús",
+			"id": "4b8dc60b-a8cd-4ccf-9234-06610e85b36e",
+			"text": "Avions",
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
 			"level": 2,
-			"imageKey":"autobus",
-			"correct": ["", ""]
+			"imageKey": "plane",
+			"correct": ["מְטוֹסִים", "מטוסים"]
 		},
 		{
-			"id": "",
+			"id": "c563ef75-0384-417d-bc08-336aef4aa277",
+			"text": "Autobús",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "autobus",
+			"correct": ["אוֹטוֹבּוּס", "אוטובוס"]
+		},
+		{
+			"id": "139ce078-fa3b-4206-b597-49853ec38035",
+			"text": "Autobusos",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "autobus",
+			"correct": ["אוֹטוֹבּוּסִים", "אוטובוסים"]
+		},
+		{
+			"id": "2cc0bb1c-1739-4fed-8e25-5cd144eacb3c",
 			"text": "Tractor",
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
 			"level": 3,
-			"imageKey":"tractor",
-			"correct": ["", ""]
+			"imageKey": "tractor",
+			"correct": ["טרקטור", "טְרַקְטוֹר"]
 		},
 		{
-			"id": "",
-			"text": "Furgoneta",
-			"category": "Noms",
-			"group": "Vehicles",
-			"type": "input",
-			"level": 3,
-			"imageKey":"furgoneta",
-			"correct": ["", ""]
-		},
-		{
-			"id": "",
+			"id": "11dd08b7-a0e5-4a94-a55b-81892496f4db",
 			"text": "Camió",
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
 			"level": 3,
-			"imageKey":"camio",
-			"correct": ["", ""]
+			"imageKey": "camio",
+			"correct": ["מַשָּׂאִית", "משאית"]
 		},
 		{
-			"id": "",
+			"id": "bdcab6fb-b114-4bc8-9451-28dd0c985a70",
+			"text": "Camions",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "camio",
+			"correct": ["מַשָּׂאִיּוֹת", "משאיות"]
+		},
+		{
+			"id": "596c7b2a-6299-4c52-9675-7f2066ffd9c7",
+			"text": "Tren",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 2,
+			"imageKey": "train",
+			"correct": ["רַכֶּבֶת", "רכבת"]
+		},
+		{
+			"id": "9efacf9b-d6a0-4606-aac4-a5e624ace31b",
+			"text": "Furgoneta",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "furgoneta",
+			"correct": ["ואן"]
+		},
+		{
+			"id": "29c174a6-069d-4e6f-9b59-d4c4e26bbf05",
 			"text": "Carretera",
 			"category": "Noms",
 			"group": "Trànsit",
 			"type": "input",
-			"level": 2,
-			"imageKey":"road",
-			"correct": ["", ""]
+			"level": 3,
+			"imageKey": "road",
+			"correct": ["כְּבִישׁ", "כביש"]
 		},
 		{
-			"id": "",
-			"text": "Camí",
+			"id": "d5962253-7b23-4c9c-b920-e462e40d1bec",
+			"text": "Carreteres",
+			"category": "Noms",
+			"group": "Trànsit",
+			"type": "input",
+			"level": 3,
+			"correct": ["כְּבִישִׁים", "כבישים"]
+		},
+		{
+			"id": "bc25fa6a-0ba8-4b42-8515-5624ed45d077",
+			"text": "Carrer",
 			"category": "Noms",
 			"group": "Trànsit",
 			"type": "input",
 			"level": 2,
-			"imageKey":"road-dirt",
-			"correct": ["", ""]
+			"correct": ["רְחוֹב", "רחוב"]
 		},
 		{
-			"id": "",
+			"id": "5847c9c1-647a-4db5-8ca7-8cfa47918511",
+			"text": "Carrers",
+			"category": "Noms",
+			"group": "Trànsit",
+			"type": "input",
+			"level": 2,
+			"correct": ["רְחוֹבוֹת", "רחובות"]
+		},
+		{
+			"id": "b937a3e6-d3c6-4c91-8408-953dbffa6acd",
+			"text": "Camí, sender",
+			"category": "Noms",
+			"group": "Trànsit",
+			"type": "input",
+			"level": 3,
+			"imageKey": "road-dirt",
+			"correct": ["שביל", "שְׁבִיל"]
+		},
+		{
+			"id": "7aada442-acc9-4e0d-b38d-f2c2a6f5d632",
+			"text": "Camins, senders",
+			"category": "Noms",
+			"group": "Trànsit",
+			"type": "input",
+			"level": 3,
+			"imageKey": "road-dirt",
+			"correct": ["שְׁבִילִים", "שבילים"]
+		},
+		{
+			"id": "765d7ff2-c21f-4660-a91d-513904afde6b",
 			"text": "Semàfor",
 			"category": "Noms",
 			"group": "Trànsit",
 			"type": "input",
 			"level": 2,
-			"imageKey":"red-traffic-light-yield",
-			"correct": ["", ""]
+			"imageKey": "red-traffic-light-yield",
+			"correct": ["רַמְזוֹר", "רמזור"]
+		},
+		{
+			"id": "118cafc7-fda5-45f7-b3d0-d37cb3784f58",
+			"text": "Semàfors",
+			"category": "Noms",
+			"group": "Trànsit",
+			"type": "input",
+			"level": 2,
+			"imageKey": "red-traffic-light-yield",
+			"correct": ["רַמְזוֹרִים", "רמזורים"]
 		}
 	],
 	"assets": {
@@ -3419,17 +3638,17 @@
 		"time_0645": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0645.png",
 		"time_1010": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_1010.png",
 		"vlv_EPIC": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/anatomia/vlv.epic",
-		"red-traffic-light-yield":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/red-traffic-light-yield.png",
-		"road-dirt":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/road-dirt.png",
-		"road":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/road.png",
-		"camio":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/camio.png",
-		"furgoneta":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/furgoneta.png",
-		"autobus":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/autobus.png",
-		"motocicleta":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/motocicleta.png",
-		"car":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/car.png",
-		"bike":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/bike.png",
-		"train":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/train.png",
-		"plane":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/plane.png",
-		"tractor":"https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/tractor.png"
+		"red-traffic-light-yield": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/red-traffic-light-yield.png",
+		"road-dirt": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/road-dirt.png",
+		"road": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/road.png",
+		"camio": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/camio.png",
+		"furgoneta": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/furgoneta.png",
+		"autobus": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/autobus.png",
+		"motocicleta": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/motocicleta.png",
+		"car": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/car.png",
+		"bike": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/bike.png",
+		"train": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/train.png",
+		"plane": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/plane.png",
+		"tractor": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/vehicles/tractor.png"
 	}
 }
