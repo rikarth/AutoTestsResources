@@ -3225,7 +3225,7 @@
 			"category": "Noms",
 			"group": "Mobles",
 			"type": "input",
-			"level": 3,
+			"level": 2,
 			"correct": ["כִּיסֵא", "כִּסֵּא", "כיסא"]
 		},
 		{
@@ -3234,7 +3234,7 @@
 			"category": "Noms",
 			"group": "Mobles",
 			"type": "input",
-			"level": 3,
+			"level": 2,
 			"correct": ["כִּסְּאוֹת", "כִּיסְּאוֹת", "כיסאות"]
 		},
 		{
@@ -3356,23 +3356,23 @@
 			"correct": ["מִטְבָּחִים", "מטבחים"]
 		},
 		{
-			"id": "ee0c29dd-1309-43b7-8e19-389665a50faf",
-			"text": "Cotxe",
-			"category": "Noms",
-			"group": "Vehicles",
-			"type": "input",
-			"level": 2,
-			"imageKey": "car",
-			"correct": ["מְכוֹנִית", "מכונית"]
-		},
-		{
 			"id": "f97a9897-6ad4-4310-b610-4b1bfb3e2ac5",
 			"text": "Bany (habitació)",
 			"category": "Noms",
 			"group": "Casa",
 			"type": "input",
-			"level": 1,
+			"level": 3,
 			"correct": ["אַמְבַּטְיָה", "אמבטיה"]
+		},
+		{
+			"id": "ee0c29dd-1309-43b7-8e19-389665a50faf",
+			"text": "Cotxe",
+			"category": "Noms",
+			"group": "Vehicles",
+			"type": "input",
+			"level": 3,
+			"imageKey": "car",
+			"correct": ["מְכוֹנִית", "מכונית"]
 		},
 		{
 			"id": "7e6db049-7e14-44a8-8288-ca0cada8374f",
@@ -3380,7 +3380,7 @@
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
-			"level": 2,
+			"level": 3,
 			"imageKey": "car",
 			"correct": ["מְכוֹנִיוֹת", "מכוניות"]
 		},
@@ -3480,7 +3480,7 @@
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
-			"level": 3,
+			"level": 4,
 			"imageKey": "tractor",
 			"correct": ["טרקטור", "טְרַקְטוֹר"]
 		},
@@ -3490,7 +3490,7 @@
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
-			"level": 3,
+			"level": 4,
 			"imageKey": "camio",
 			"correct": ["מַשָּׂאִית", "משאית"]
 		},
@@ -3500,7 +3500,7 @@
 			"category": "Noms",
 			"group": "Vehicles",
 			"type": "input",
-			"level": 3,
+			"level": 4,
 			"imageKey": "camio",
 			"correct": ["מַשָּׂאִיּוֹת", "משאיות"]
 		},
@@ -3587,7 +3587,7 @@
 			"category": "Noms",
 			"group": "Trànsit",
 			"type": "input",
-			"level": 2,
+			"level": 4,
 			"imageKey": "red-traffic-light-yield",
 			"correct": ["רַמְזוֹר", "רמזור"]
 		},
@@ -3597,7 +3597,7 @@
 			"category": "Noms",
 			"group": "Trànsit",
 			"type": "input",
-			"level": 2,
+			"level": 4,
 			"imageKey": "red-traffic-light-yield",
 			"correct": ["רַמְזוֹרִים", "רמזורים"]
 		}
