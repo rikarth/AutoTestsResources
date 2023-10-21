@@ -3600,6 +3600,33 @@
 			"level": 4,
 			"imageKey": "red-traffic-light-yield",
 			"correct": ["רַמְזוֹרִים", "רמזורים"]
+		},
+		{
+			"id": "78f9b407-de47-4ed9-9efc-40bba0bef912",
+			"text": "Desagradable, repugnant, fastigós",
+			"category": "Expressions",
+			"group": "",
+			"type": "input",
+			"level": 4,
+			"correct": ["גֹּעַל נֶפֶשׁ", "גועל נפש"]
+		},
+		{
+			"id": "c2a96cfe-466d-4f98-901e-3082b6832922",
+			"text": "fàstic",
+			"category": "Noms",
+			"group": "",
+			"type": "input",
+			"level": 3,
+			"correct": ["גֹּעַל", "גועל"]
+		},
+		{
+			"id": "fc179d35-7b86-4f96-9535-96655b0b17f4",
+			"text": "Mandràgora",
+			"category": "Noms",
+			"group": "Natura",
+			"type": "input",
+			"level": 4,
+			"correct": ["דּוּדָא", "דודא"]
 		}
 	],
 	"assets": {
@@ -3637,7 +3664,7 @@
 		"time_0630": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0630.png",
 		"time_0645": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_0645.png",
 		"time_1010": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/calendari/time_1010.png",
-		"vlv_EPIC": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/anatomia/vlv.epic",
+		"vlv_EPIC": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/anatomy/vlv.epic",
 		"red-traffic-light-yield": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/red-traffic-light-yield.png",
 		"road-dirt": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/road-dirt.png",
 		"road": "https://raw.githubusercontent.com/rikarth/AutoTestsResources/main/transit/road.png",
