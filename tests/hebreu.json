@@ -3627,6 +3627,42 @@
 			"type": "input",
 			"level": 4,
 			"correct": ["דּוּדָא", "דודא"]
+		},
+		{
+			"id": "",
+			"text": "Això és, això és tot",
+			"category": "Expressions",
+			"group": "",
+			"type": "input",
+			"level": 4,
+			"correct": ["זֶהוּ", "זהו"]
+		},
+		{
+			"id": "",
+			"text": "Què és(...?)",
+			"category": "Expressions",
+			"group": "",
+			"type": "input",
+			"level": 4,
+			"correct": ["מַהוּ", "מהו"]
+		},
+		{
+			"id": "",
+			"text": "Qui és(...?)",
+			"category": "Expressions",
+			"group": "",
+			"type": "input",
+			"level": 4,
+			"correct": ["מִיהוּ", "מיהו"]
+		},
+		{
+			"id": "",
+			"text": "Bé, MIRAR MÉS!",
+			"category": "Interjeccions",
+			"group": "",
+			"type": "input",
+			"level": 4,
+			"correct": ["נוּ", "נו"]
 		}
 	],
 	"assets": {
