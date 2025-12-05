@@ -68,5 +68,33 @@
         "type": "player",
         "download_link": "/players/b808b743-07c5-466c-928e-ef686fbbff6b.json",
         "base64": null
+    },
+    {
+        "id": "60e83ae1-5300-4daf-84bb-65d93b39ccfd",
+        "name": "Edmund",
+        "age": 32,
+        "countryCode": "ENG",
+        "town": "London",
+        "gender": "m",
+        "collection":"BlackAdder",
+        "created":"2025-11-08T18:56:00Z",
+        "updated":"2025-11-08T18:56:00Z",
+        "type": "player",
+        "download_link": "/players/60e83ae1-5300-4daf-84bb-65d93b39ccfd.json",
+        "base64": null
+    },
+    {
+        "id": "272468b2-af6a-48d4-96b9-dc52f5b26dc4",
+        "name": "Baldrick",
+        "age": 40,
+        "countryCode": "ENG",
+        "town": "London",
+        "gender": "m",
+        "collection":"BlackAdder",
+        "created":"2025-11-08T18:56:00Z",
+        "updated":"2025-11-08T18:56:00Z",
+        "type": "player",
+        "download_link": "/players/272468b2-af6a-48d4-96b9-dc52f5b26dc4.json",
+        "base64": null
     }
 ]
